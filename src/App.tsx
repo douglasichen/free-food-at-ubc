@@ -7,10 +7,8 @@ interface Event {
   title: string;
   date: string;
   startTime: string;
-  endTime: string;
   location: string;
   description: string;
-  organizer: string;
 }
 
 // Convert mockData to match the expected format
@@ -19,10 +17,8 @@ const mockEvents: Event[] = mockData.map(event => ({
   title: event.title,
   date: event.date,
   startTime: event.startTime,
-  endTime: event.endTime,
   location: event.location,
   description: event.description,
-  organizer: event.organizer,
 }));
 
 function formatDate(dateStr: string): { dayLabel: string; dayName: string } {
@@ -80,26 +76,44 @@ export default function App() {
 
   return (
     <div className="min-h-screen bg-background">
-      {/* Events List */}
-      <div className="container mx-auto px-6 py-6 max-w-4xl">
-        {Object.entries(groupedEvents).map(([date, group]) => (
-          <div key={date} className="mb-8">
-            {/* Day Header */}
-            <div className="flex items-center gap-3 mb-4">
-              <div className="w-3 h-3 rounded-full bg-muted-foreground/40"></div>
-              <h2 className="text-muted-foreground">
-                {group.dayLabel} <span className="text-muted-foreground/60">{group.dayName}</span>
-              </h2>
-            </div>
-            
-            {/* Events for this day */}
-            <div className="bg-card rounded-lg border overflow-hidden">
-              {group.events.map(event => (
-                <EventListItem key={event.id} event={event} />
-              ))}
-            </div>
+      {/* Header */}
+      <div className="max-w-4xl mx-auto px-4 py-6">
+        <div className="flex items-center justify-between mb-8">
+          <h1 className="text-3xl font-bold text-foreground">Free Food at UBC</h1>
+          <div className="flex items-center gap-4">
+            <div className="w-6 h-6 bg-muted-foreground/20 rounded"></div>
+            <div className="w-6 h-6 bg-muted-foreground/20 rounded"></div>
+            <div className="w-6 h-6 bg-muted-foreground/20 rounded"></div>
           </div>
-        ))}
+        </div>
+      </div>
+      
+      {/* Timeline Events List */}
+      <div className="max-w-4xl mx-auto px-4 pb-6">
+        <div className="timeline-container">
+          {Object.entries(groupedEvents).map(([date, group]) => (
+            <div key={date} className="timeline-section mb-8">
+              {/* Timeline Day Header */}
+              <div className="timeline-title mb-4 relative pl-20">
+                {/* Timeline dot for day header */}
+                <div className="absolute left-20 top-1 w-3 h-3 bg-muted-foreground/80 rounded-full border-2 border-background"></div>
+                <h2 className="text-muted-foreground text-sm font-medium">
+                  {group.dayLabel} <span className="text-muted-foreground/60">{group.dayName}</span>
+                </h2>
+              </div>
+              
+              {/* Timeline Events */}
+              <div className="timeline-events relative">
+                {group.events.map((event) => (
+                  <EventListItem 
+                    key={event.id} 
+                    event={event} 
+                  />
+                ))}
+              </div>
+            </div>
+          ))}
+        </div>
       </div>
     </div>
   );
