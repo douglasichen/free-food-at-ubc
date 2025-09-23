@@ -187,3 +187,19 @@
 html {
   font-size: var(--font-size);
 }
+
+/* Disable hover effects on mobile */
+@media (hover: none) and (pointer: coarse) {
+  *:hover,
+  *:hover *,
+  *:active:hover,
+  *:focus:hover {
+    background-color: inherit !important;
+    color: inherit !important;
+    border-color: inherit !important;
+    box-shadow: inherit !important;
+    transform: none !important;
+    opacity: inherit !important;
+    text-decoration: none !important;
+  }
+}
