@@ -1,0 +1,101 @@
+[
+  {
+    "id": "1",
+    "date": "Sep 23",
+    "dayOfWeek": "Tuesday",
+    "time": "7:00 PM",
+    "title": "Fall Launch Social",
+    "location": "Abdul Ladha Science Student Centre",
+    "source": "https://luma.com/xnhjyh4f?tk=0KX7y3",
+    "food": "Pizza, wings, and refreshments",
+    "description": "Join us for our annual fall launch event! Network with fellow students, learn about upcoming opportunities, and enjoy free food while celebrating the start of the new academic year."
+  },
+  {
+    "id": "2",
+    "date": "Sep 28",
+    "dayOfWeek": "Saturday",
+    "time": "10:00 AM",
+    "title": "React Native Workshop: Building Cross-Platform Apps",
+    "location": "Seattle, Washington",
+    "source": "https://reactnative.dev/workshops/seattle",
+    "food": "Coffee, pastries, and lunch provided",
+    "description": "Learn to build cross-platform mobile applications using React Native. Perfect for developers looking to expand their skills in mobile development with hands-on coding sessions."
+  },
+  {
+    "id": "3",
+    "date": "Sep 28",
+    "dayOfWeek": "Saturday",
+    "time": "2:00 PM",
+    "title": "UI/UX Design Thinking Session",
+    "location": "Seattle, Washington",
+    "source": "https://designthinking.seattle/events/ui-ux-session",
+    "food": "Light snacks and beverages",
+    "description": "Explore the fundamentals of design thinking and user experience design. This interactive session will cover user research, prototyping, and testing methodologies."
+  },
+  {
+    "id": "4",
+    "date": "Oct 2",
+    "dayOfWeek": "Wednesday",
+    "time": "6:00 PM",
+    "title": "GraphQL Best Practices & Performance Optimization",
+    "location": "Portland, Oregon",
+    "source": "https://graphql.org/events/portland-best-practices",
+    "food": "Dinner and drinks",
+    "description": "Deep dive into GraphQL optimization techniques, caching strategies, and performance best practices. Ideal for developers working with GraphQL APIs."
+  },
+  {
+    "id": "5",
+    "date": "Oct 5",
+    "dayOfWeek": "Saturday",
+    "time": "9:00 AM",
+    "title": "Web3 & Blockchain Development Bootcamp",
+    "location": "San Francisco, California",
+    "source": "https://web3bootcamp.sf/events/blockchain-development",
+    "food": "Breakfast, lunch, and coffee",
+    "description": "Comprehensive bootcamp covering smart contracts, DeFi protocols, and NFT development. Perfect for developers entering the Web3 space."
+  },
+  {
+    "id": "6",
+    "date": "Oct 14",
+    "dayOfWeek": "Tuesday",
+    "time": "5:30 PM",
+    "title": "Vancouver.dev IRL: Shipping AI with TypeScript",
+    "location": "Vancouver, British Columbia",
+    "source": "https://vancouver.dev/events/shipping-ai-typescript",
+    "food": "Appetizers and drinks",
+    "description": "Learn how to build and deploy AI applications using TypeScript. This meetup covers practical AI integration patterns and deployment strategies."
+  },
+  {
+    "id": "7",
+    "date": "Oct 18",
+    "dayOfWeek": "Friday",
+    "time": "7:00 PM",
+    "title": "Machine Learning in Production: Lessons Learned",
+    "location": "Mountain View, California",
+    "source": "https://mlproduction.mv/events/lessons-learned",
+    "food": "Catered dinner and wine",
+    "description": "Real-world insights on deploying ML models at scale. Learn from industry experts about common pitfalls and best practices in ML production systems."
+  },
+  {
+    "id": "8",
+    "date": "Oct 22",
+    "dayOfWeek": "Tuesday",
+    "time": "4:30 PM",
+    "title": "DevOps & Cloud Infrastructure Masterclass",
+    "location": "Austin, Texas",
+    "source": "https://devops.austin/events/cloud-infrastructure-masterclass",
+    "food": "Coffee and light refreshments",
+    "description": "Comprehensive guide to modern DevOps practices, containerization, and cloud infrastructure management. Hands-on labs included."
+  },
+  {
+    "id": "9",
+    "date": "Oct 25",
+    "dayOfWeek": "Friday",
+    "time": "6:30 PM",
+    "title": "Cybersecurity for Modern Web Applications",
+    "location": "New York, New York",
+    "source": "https://cybersecurity.nyc/events/web-app-security",
+    "food": "Networking dinner",
+    "description": "Essential security practices for web developers. Learn about common vulnerabilities, secure coding practices, and threat mitigation strategies."
+  }
+]
