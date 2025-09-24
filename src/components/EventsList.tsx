@@ -36,8 +36,8 @@ export function EventsList({ events }: EventsListProps) {
 
             {/* Events for this date */}
             <div className="space-y-4">
-              {dateEvents.map((event) => (
-                <EventCard key={event.id} event={event} />
+              {dateEvents.map((event, eventIndex) => (
+                <EventCard key={eventIndex.toString()} event={event} />
               ))}
             </div>
           </div>
