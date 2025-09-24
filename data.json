@@ -96,7 +96,7 @@
     "title": "UBC VSA: Xin Chào 101",
     "location": "Great Hall North, AMS Nest",
     "source": "https://docs.google.com/forms/d/e/1FAIpQLSfA4-NU0JMJDB3vJN2Oo2xJT_B_k-tjwGfbwcxTGFCrdzx1og/viewform",
-    "food": "Food",
+    "food": "Bánh mì and Drinks",
     "description": "Join a night of icebreakers, games, food, and live performances while connecting with the VSA community and new friends."
   },
   {
@@ -140,6 +140,16 @@
     "description": "Meet new friends, play games, win prizes, and enjoy plenty of good food at this fun annual icebreaker."
   },
   {
+    "date": "Sep 28",
+    "dayOfWeek": "Sunday",
+    "time": "12:00 PM",
+    "title": "Atelier: UBC #101",
+    "location": "UBC",
+    "source": "https://luma.com/gg09frkm",
+    "food": "Snacks",
+    "description": "Calling all artists, engineers, writers, programmers, and makers of every kind—explore your curiosity, build passion projects, and share your creations with a supportive community."
+  },
+  {
     "date": "Oct 1",
     "dayOfWeek": "Wednesday",
     "time": "5:00 PM",
@@ -168,5 +178,15 @@
     "source": "https://qualtricsxmtb9v9j3q7.qualtrics.com/jfe/form/SV_bOCOxqclU7EAc1o",
     "food": "Food and Snacks",
     "description": "Join Atlassian as they launch into UBC 🚀 Enjoy a panel from Atlassian’s team followed by additional networking time to get to know the industry professionals. Get excited to learn about Atlassian (+ their career opportunities 👀), eat snacks, and connect with like-minded students!"
+  },
+  {
+    "date": "Oct 5",
+    "dayOfWeek": "Sunday",
+    "time": "12:00 PM",
+    "title": "Atelier: UBC #102",
+    "location": "UBC",
+    "source": "https://luma.com/gg09frkm",
+    "food": "Snacks",
+    "description": "Calling all artists, engineers, writers, programmers, and makers of every kind—explore your curiosity, build passion projects, and share your creations with a supportive community."
   }
 ]
