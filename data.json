@@ -102,6 +102,16 @@
   {
     "date": "Sep 26",
     "dayOfWeek": "Friday",
+    "time": "12:00 PM",
+    "title": "Information Session: The University of Hong Kong",
+    "location": "Brock Hall",
+    "source": "https://events.ubc.ca/event/information-session-the-university-of-hong-kong-2/",
+    "food": "Refreshments",
+    "description": "Join the HKU Business School Masters Programmes Admissions Team for an exclusive information session. Connect directly with our admissions professionals and meet like-minded, ambitious students who share your drive to build a global career."
+  },
+  {
+    "date": "Sep 26",
+    "dayOfWeek": "Friday",
     "time": "1:00 PM",
     "title": "Climate Week",
     "location": "Outside the UBC Bookstore",
@@ -188,5 +198,25 @@
     "source": "https://luma.com/gg09frkm",
     "food": "Snacks",
     "description": "Calling all artists, engineers, writers, programmers, and makers of every kind—explore your curiosity, build passion projects, and share your creations with a supportive community."
+  },
+  {
+    "date": "Oct 16",
+    "dayOfWeek": "Thursday",
+    "time": "10:00 AM",
+    "title": "BIPOC Coffee Hour",
+    "location": "ANSO Building",
+    "source": "https://anth.ubc.ca/events/event/bipoc-coffee-hour/",
+    "food": "Refreshments",
+    "description": "Connect with fellow BIPOC students in a welcoming space and enjoy light refreshments together."
+  },
+  {
+    "date": "Oct 22",
+    "dayOfWeek": "Wednesday",
+    "time": "5:00 PM",
+    "title": "Employer On-Campus: Kiewit",
+    "location": "UBC",
+    "source": "https://events.ubc.ca/event/employer-on-campus-kiewit/",
+    "food": "Pizza",
+    "description": "Meet Kiewit reps, explore their big engineering and construction projects, and learn about career opportunities—all with free pizza."
   }
 ]
