@@ -32,6 +32,16 @@
   {
     "date": "Sep 24",
     "dayOfWeek": "Wednesday",
+    "time": "6:00 PM",
+    "title": "UBCAUS: Clay & Charm",
+    "location": "Arts Student Centre (ASC), Second Floor",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSd5t4rTuPw5I4gRrqQGT01jbqftObW3AJLl7agrlViuJVaiWQ/viewform",
+    "food": "Food",
+    "description": "Unwind with a hands-on charm-making workshop where you can craft your own keychains, phone accessories, or gifts while connecting with fellow students."
+  },
+  {
+    "date": "Sep 24",
+    "dayOfWeek": "Wednesday",
     "time": "6:30 PM",
     "title": "BUCS Storylines 1",
     "location": "Henry Angus 491 (HA 491)",
