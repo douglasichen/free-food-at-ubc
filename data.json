@@ -150,6 +150,16 @@
     "description": "Join us for meal planning tips that fit your busy schedule, budgets and dietary needs and make your own mason jar burrito bowl to take home!"
   },
   {
+    "date": "Oct 1",
+    "dayOfWeek": "Wednesday",
+    "time": "6:00 PM",
+    "title": "CUS: All Candidates Forum",
+    "location": "Henry Angus 492",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLScJ7ocIR-SMtjxt_BkUKeT4ZRAr7ysVo3KzrwVxqg1Ul8qchw/viewform",
+    "food": "Bubble Tea, Dinner, and Gift Cards",
+    "description": "Meet the First-Year Rep candidates, hear their platforms, enjoy dinner and bubble tea, and win prizes while getting ready to vote."
+  },
+  {
     "date": "Oct 2",
     "dayOfWeek": "Thursday",
     "time": "5:00 PM",
@@ -158,6 +168,16 @@
     "source": "https://luma.com/hvcg4phx?tk=LQoz63",
     "food": "Food",
     "description": "Enjoy free food, meet fellow UX enthusiasts, and kickstart your journey with alumni, mentors, and peers in a fun, social setting."
+  },
+  {
+    "date": "Oct 2",
+    "dayOfWeek": "Thursday",
+    "time": "5:00 PM",
+    "title": "Speed Networking",
+    "location": "Birmingham Room, Sauder School of Business",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSc7r0uC0VQr9wQoBbF3Tq0Ass29Ag1LpNZr8VPQQ4lscJnV8g/viewform",
+    "food": "Food and Drinks",
+    "description": "Meet potential case comp teammates, play games, and bond over free food while learning what it takes to compete and win."
   },
   {
     "date": "Oct 2",
@@ -188,6 +208,16 @@
     "source": "https://anth.ubc.ca/events/event/bipoc-coffee-hour/",
     "food": "Refreshments",
     "description": "Connect with fellow BIPOC students in a welcoming space and enjoy light refreshments together."
+  },
+  {
+    "date": "Oct 21",
+    "dayOfWeek": "Tuesday",
+    "time": "5:00 PM",
+    "title": "Imprint Launch Event",
+    "location": "Bruce R. Birmingham Undergraduate Centre and CPA Hall",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLScosLD2t_P6vNkSYduOFJYajAKWikHrncG33NsjAvcgPq7Ivw/viewform",
+    "food": "Food and Refreshments",
+    "description": "Curious about marketing?  Want to get your name out there through our case competition? Join us for a fun evening of workshops, networking, and FREE FOOD! 😋"
   },
   {
     "date": "Oct 22",
