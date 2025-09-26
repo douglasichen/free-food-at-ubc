@@ -68,5 +68,65 @@
     "source": "https://docs.google.com/forms/d/e/1FAIpQLSeaxAXkLo3KxHnAIsm5H5S5H7YEyJSBQ2ZZ5Fuh_IX59ARE3Q/viewform",
     "food": "Snacks",
     "description": "Hear inspiring stories from BUCS entrepreneurs, learn lessons from their startup journeys, and stick around for Q&A, networking, and refreshments."
+  },
+  {
+    "date": "Sep 25",
+    "dayOfWeek": "Thursday",
+    "time": "12:00 PM",
+    "title": "Indigenous STEM Student Lunch Social",
+    "location": "Biodiversity Research Centre South Courtyard",
+    "source": "https://ubc.ca1.qualtrics.com/jfe/form/SV_9GdSC4tRFC3uNLw",
+    "food": "Pizza and Snacks",
+    "description": "Enjoy a free lunch, connect with fellow Indigenous STEM students, and discover ways to get involved in the community."
+  },
+  {
+    "date": "Sep 25",
+    "dayOfWeek": "Thursday",
+    "time": "1:00 PM",
+    "title": "Climate Week",
+    "location": "Outside the UBC Bookstore",
+    "source": "https://www.instagram.com/p/DOtgDx8Eoug/",
+    "food": "Baked Goods",
+    "description": "Come chat about the environmental impacts of our food choices and how to minimize them! 🌎"
+  },
+  {
+    "date": "Sep 25",
+    "dayOfWeek": "Thursday",
+    "time": "5:00 PM",
+    "title": "PSA: Welcome Social",
+    "location": "Kenny 4001",
+    "source": "https://www.instagram.com/p/DOtpRxdAWT0/?hl=en",
+    "food": "Boba and Snacks",
+    "description": "We present you, OUR FIRST EVENT of the year! This one is a bit different and more fun! On 25th September, at Kenny, 5PM-8PM, we will be playing board games, enjoying free snacks and slurping some delicious boba!"
+  },
+  {
+    "date": "Sep 25",
+    "dayOfWeek": "Thursday",
+    "time": "6:00 PM",
+    "title": "CSA: External Ice Breaker",
+    "location": "Great Hall South (second floor of the Nest)",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSeyIypvNxYggAeNHu0HL-fl2xeCfmachYpsDqgmx0POIgBNSA/viewform",
+    "food": "Pizza and drinks",
+    "description": "Compete in team games, win prizes, and enjoy food, drinks, and fun activities while making new friends."
+  },
+  {
+    "date": "Sep 25",
+    "dayOfWeek": "Thursday",
+    "time": "6:00 PM",
+    "title": "VSA: Xin Chào 101",
+    "location": "Great Hall North, AMS Nest",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfA4-NU0JMJDB3vJN2Oo2xJT_B_k-tjwGfbwcxTGFCrdzx1og/viewform",
+    "food": "Bánh mì and Drinks",
+    "description": "Join a night of icebreakers, games, food, and live performances while connecting with the VSA community and new friends."
+  },
+  {
+    "date": "Sep 25",
+    "dayOfWeek": "Thursday",
+    "time": "6:30 PM",
+    "title": "Agora Cafe: Community Dinner",
+    "location": "Agora Cafe",
+    "source": "https://www.instagram.com/p/DO_-lGIEp4n/",
+    "food": "Chili & Cornbread",
+    "description": "🍛 Come eat chili and cornbread and make friends!"
   }
 ]
