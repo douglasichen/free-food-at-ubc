@@ -80,6 +80,26 @@
     "description": "Calling all artists, engineers, writers, programmers, and makers of every kind—explore your curiosity, build passion projects, and share your creations with a supportive community."
   },
   {
+    "date": "Sep 29",
+    "dayOfWeek": "Monday",
+    "time": "12:00 PM",
+    "title": "Free Produce Market",
+    "location": "Sprouts Cafe",
+    "source": "https://www.instagram.com/p/DPCVRNyEplr/",
+    "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
+    "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!"
+  },
+  {
+    "date": "Oct 1",
+    "dayOfWeek": "Wednesday",
+    "time": "2:00 PM",
+    "title": "AMS: Rally for Skytrain to UBC",
+    "location": "Nest Plaza (outside 6133 University Boulevard)",
+    "source": "https://www.instagram.com/p/DO_uTCwj_2K/?img_index=1",
+    "food": "Barbecue",
+    "description": "Enjoy a free BBQ with live music while rallying support to push for funding and approval of the SkyTrain extension to UBC."
+  },
+  {
     "date": "Oct 1",
     "dayOfWeek": "Wednesday",
     "time": "5:00 PM",
@@ -130,6 +150,16 @@
     "description": "Join Atlassian as they launch into UBC 🚀 Enjoy a panel from Atlassian’s team followed by additional networking time to get to know the industry professionals. Get excited to learn about Atlassian (+ their career opportunities 👀), eat snacks, and connect with like-minded students!"
   },
   {
+    "date": "Oct 3",
+    "dayOfWeek": "Friday",
+    "time": "4:00 PM",
+    "title": "SUS: Coffee Chats",
+    "location": "Abdul Ladha",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSff6rC6JrTxdPetYCavidoCYiVCRBlrdmkSMHqWFFJBOee2Vg/viewform",
+    "food": "Food and Drinks",
+    "description": "Chat with grad/undergrad students and peers about their research journeys, ask questions in a casual setting, and enjoy free food and drinks."
+  },
+  {
     "date": "Oct 5",
     "dayOfWeek": "Sunday",
     "time": "12:00 PM",
@@ -138,6 +168,16 @@
     "source": "https://luma.com/gg09frkm",
     "food": "Snacks",
     "description": "Calling all artists, engineers, writers, programmers, and makers of every kind—explore your curiosity, build passion projects, and share your creations with a supportive community."
+  },
+  {
+    "date": "Oct 8",
+    "dayOfWeek": "Wednesday",
+    "time": "6:00 PM",
+    "title": "SISA: Friends Giving",
+    "location": "Henry Angus, Birmingham",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSedFppUtHjajhy-Kw_YRd-zftIrAIFY0-OCOb2CHE7Kn3feoQ/viewform",
+    "food": "Dinner and Desserts",
+    "description": "Enjoy a free night of dinner, desserts, games, and a photo booth while hanging out with friends and community."
   },
   {
     "date": "Oct 16",
