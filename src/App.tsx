@@ -12,6 +12,7 @@ export default function App() {
           <h1 className="text-gray-900 mb-2">Free Food <span className="text-blue-600">@ UBC</span> </h1>
         </div>
         <EventsList events={sampleEvents} />
+        <div style={{ height: "15rem" }} />
       </div>
     </div>
   );
