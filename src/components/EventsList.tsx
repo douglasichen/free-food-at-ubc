@@ -23,14 +23,14 @@ export function EventsList({ events }: EventsListProps) {
   return (
     <div className="relative">
       {/* Vertical dotted line */}
-      <div className="absolute left-1 top-6 bottom-0 w-px border-l-2 border-dotted border-blue-300"></div>
+      {/* <div className="absolute left-1 top-6 bottom-0 w-px border-l-2 border-dotted border-blue-300"></div> */}
 
       <div className="space-y-8">
         {dateEntries.map(([dateKey, dateEvents], index) => (
           <div key={dateKey} className="relative space-y-4">
             {/* Date Header */}
-            <div className="flex items-center gap-3 relative z-10">
-              <div className="w-2 h-2 bg-blue-500 rounded-full" />
+            <div className="sticky flex items-center gap-3 relative z-10">
+              {/* <div className="w-2 h-2 bg-blue-500 rounded-full" /> */}
               <h2 className="text-gray-900 font-normal">{dateKey}</h2>
             </div>
 

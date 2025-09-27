@@ -24,7 +24,7 @@ export function Event({ event, key }: EventProps) {
 
   return (
     <div
-      className="group bg-white border border-gray-200 rounded-xl p-6 ml-5 shadow-sm transition-all duration-200 hover:shadow-lg hover:border-blue-300 cursor-pointer"
+      className="group bg-white border border-gray-200 rounded-xl p-6 shadow-sm transition-all duration-200 hover:shadow-lg hover:border-blue-300 cursor-pointer"
       onClick={handleCardClick}
     >
       <div className="space-y-4">
