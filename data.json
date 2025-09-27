@@ -122,6 +122,26 @@
   {
     "date": "Oct 2",
     "dayOfWeek": "Thursday",
+    "time": "12:30 PM",
+    "title": "JA Lounge",
+    "location": "HEBB B112",
+    "source": "https://www.instagram.com/p/DPFkFaFic1x/?hl=en",
+    "food": "Coffee, Tea, and Snacks",
+    "description": "Relax with free coffee, tea, snacks, and games while hanging out with friends in a cozy lounge setting."
+  },
+  {
+    "date": "Oct 2",
+    "dayOfWeek": "Thursday",
+    "time": "4:00 PM",
+    "title": "UBC Quantum: Casino Night",
+    "location": "ALSSC 3rd Floor",
+    "source": "https://www.instagram.com/p/DPALv6wki5f/?igsh=dTZqejJnejdxNHhh",
+    "food": "Snacks and Drinks",
+    "description": "Join us for an exciting evening of entangled entertainment and curious computation at our very own Quantum Casino Night!"
+  },
+  {
+    "date": "Oct 2",
+    "dayOfWeek": "Thursday",
     "time": "5:00 PM",
     "title": "UBC UX Hub: Get to know us",
     "location": "UBC Sauder School of Business",
