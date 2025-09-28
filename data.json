@@ -20,6 +20,16 @@
     "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!"
   },
   {
+    "date": "Sep 30",
+    "dayOfWeek": "Tuesday",
+    "time": "5:00 PM",
+    "title": "Vegan Club Meeting",
+    "location": "NEST, room 2514",
+    "source": "https://www.instagram.com/p/DPHQBkijnHe/?hl=en",
+    "food": "Snacks",
+    "description": "Everyone is welcome to come and join us, whether you're vegan or veg-curious, or just want to meet new people! You don't need to be a member or be vegan."
+  },
+  {
     "date": "Oct 1",
     "dayOfWeek": "Wednesday",
     "time": "2:00 PM",
@@ -100,6 +110,16 @@
     "description": "Join Atlassian as they launch into UBC 🚀 Enjoy a panel from Atlassian’s team followed by additional networking time to get to know the industry professionals. Get excited to learn about Atlassian (+ their career opportunities 👀), eat snacks, and connect with like-minded students!"
   },
   {
+    "date": "Oct 2",
+    "dayOfWeek": "Thursday",
+    "time": "6:00 PM",
+    "title": "Undergraduate Research Awards Workshop",
+    "location": "Career Center Front Lounge",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSd6CcrmL1uNCGJASRzPXT6v-Tu0B8yF0mUXnRIOz-zk5jsTxA/viewform",
+    "food": "Food and Snacks",
+    "description": "Learn about paid research opportunities, hear tips from past award recipients, and get your questions answered over free food and snacks."
+  },
+  {
     "date": "Oct 3",
     "dayOfWeek": "Friday",
     "time": "4:00 PM",
@@ -138,6 +158,16 @@
     "source": "https://anth.ubc.ca/events/event/bipoc-coffee-hour/",
     "food": "Refreshments",
     "description": "Connect with fellow BIPOC students in a welcoming space and enjoy light refreshments together."
+  },
+  {
+    "date": "Oct 18",
+    "dayOfWeek": "Saturday",
+    "time": "10:00 AM",
+    "title": "In Tune With Your Brain: The Power of Music",
+    "location": "UBC School of Music",
+    "source": "https://www.eventbrite.ca/e/in-tune-with-your-brain-the-power-of-music-tickets-1696214867329?aff=ebdssbdestsearch&keep_tld=1",
+    "food": "Lunch",
+    "description": "Discover how music shapes the brain through inspiring talks, live performances, and interactive discussions that blend science, wellness, and creativity."
   },
   {
     "date": "Oct 21",
