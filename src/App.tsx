@@ -8,34 +8,7 @@ import { FaDiscord } from "react-icons/fa";
 
 const sampleEvents: Event[] = eventsData as Event[];
 
-// debug
-// function logViewportUnitsQuick() {
-//   const vwInPixels = window.innerWidth;
-//   const vhInPixels = window.innerHeight;
-  
-//   console.log(`1vw ≈ ${vwInPixels}px (approximate)`);
-//   console.log(`1vh ≈ ${vhInPixels}px (approximate)`);
-  
-//   return { vw: vwInPixels, vh: vhInPixels };
-// }
-
 export default function App() {
-
-// debug 
-  // useEffect(() => {
-  //   // Log viewport units when component mounts
-  //   logViewportUnitsQuick();
-    
-  //   // Optionally, listen for resize events
-  //   const handleResize = () => {
-  //     console.log('Viewport resized:');
-  //     logViewportUnitsQuick();
-  //   };
-    
-  //   window.addEventListener('resize', handleResize);
-  //   return () => window.removeEventListener('resize', handleResize);
-  // }, []);
-
   return (
     <div className="min-h-screen bg-gray-50 p-6">
       
