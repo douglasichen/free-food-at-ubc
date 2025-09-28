@@ -22,7 +22,10 @@ export function Event({ event, key }: EventProps) {
     <a href={event.source} target="_blank" rel="noopener noreferrer">
       <div className="group bg-white border border-gray-200 rounded-xl p-6 ml-5 shadow-sm transition-all duration-200 hover:shadow-lg hover:border-blue-300 cursor-pointer">
         <div className="space-y-4">
-          <div className="text-blue-600 font-medium">{event.time}</div>
+          <div className="relative">
+            <div className="text-blue-600 font-medium">{event.time}</div>
+            {/* <b className="absolute top-0 font-semibold text-sm" style={{right: "1rem", color: "red"}}>RSVP</b> */}
+          </div>
           <h3 className="text-gray-900 leading-tight">
             <strong>{event.title}</strong>
           </h3>
