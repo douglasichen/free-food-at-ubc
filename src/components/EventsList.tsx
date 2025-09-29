@@ -18,14 +18,31 @@ export function EventsList({ events }: EventsListProps) {
     return acc;
   }, {} as Record<string, Event[]>);
 
-  const dateEntries = Object.entries(eventsByDate);
+  const twoWeekFromNow = new Date();
+  twoWeekFromNow.setDate(twoWeekFromNow.getDate() + 14);
+
+  const dateEntries = Object.entries(eventsByDate).filter(
+    ([_, dateEvents]) =>
+      new Date(`${dateEvents[0].date} ${new Date().getFullYear()}`) <=
+      twoWeekFromNow
+  );
 
   return (
     <div>
       {dateEntries.map(([dateKey, dateEvents], index) => (
         <div key={dateKey}>
           {/* Date Header */}
-          <div className="sticky top-0 z-10 bg-gray-50 py-4 mb-4 border-b border-gray-200" style={{ left: 0, right: 0, marginLeft: 'calc(-50vw + 50%)', marginRight: 'calc(-50vw + 50%)', paddingLeft: '24px', paddingRight: '24px' }}>
+          <div
+            className="sticky top-0 z-10 bg-gray-50 py-4 mb-4 border-b border-gray-200"
+            style={{
+              left: 0,
+              right: 0,
+              marginLeft: "calc(-50vw + 50%)",
+              marginRight: "calc(-50vw + 50%)",
+              paddingLeft: "24px",
+              paddingRight: "24px",
+            }}
+          >
             <div className="max-w-2xl mx-auto">
               <h2 className="text-gray-900 font-normal text-lg">{dateKey}</h2>
             </div>
