@@ -38,7 +38,7 @@ export default function App() {
           </h1>
         </div>
         <EventsList events={sampleEvents} />
-        <div style={{ height: "30rem" }} />
+        <div style={{ height: "35rem" }} />
       </div>
     </div>
   );
