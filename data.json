@@ -130,6 +130,16 @@
     "description": "Chat with grad/undergrad students and peers about their research journeys, ask questions in a casual setting, and enjoy free food and drinks."
   },
   {
+    "date": "Oct 3",
+    "dayOfWeek": "Friday",
+    "time": "6:00 PM",
+    "title": "Mingle & Mould With MEDGEN",
+    "location": "Nest Floor 2",
+    "source": "https://www.instagram.com/p/DPGG5irjlLQ",
+    "food": "Pizza",
+    "description": "Play bingo and win prizes, mold proteins with clay, meet new friends through icebreakers, and enjoy free pizza while learning about the club."
+  },
+  {
     "date": "Oct 5",
     "dayOfWeek": "Sunday",
     "time": "12:00 PM",
@@ -158,6 +168,16 @@
     "source": "https://docs.google.com/forms/d/e/1FAIpQLSedFppUtHjajhy-Kw_YRd-zftIrAIFY0-OCOb2CHE7Kn3feoQ/viewform",
     "food": "Dinner and Desserts",
     "description": "Enjoy a free night of dinner, desserts, games, and a photo booth while hanging out with friends and community."
+  },
+  {
+    "date": "Oct 10",
+    "dayOfWeek": "Friday",
+    "time": "5:00 PM",
+    "title": "Clothing Drive & Swap",
+    "location": "NEST 2504",
+    "source": "https://www.instagram.com/p/DPK129sEb_F/?igsh=dW16bjZ3NWcycTlw",
+    "food": "Refreshments",
+    "description": "Refresh your wardrobe & give back! 👕✨"
   },
   {
     "date": "Oct 16",
@@ -198,5 +218,15 @@
     "source": "https://events.ubc.ca/event/employer-on-campus-kiewit/",
     "food": "Pizza",
     "description": "Meet Kiewit reps, explore their big engineering and construction projects, and learn about career opportunities—all with free pizza."
+  },
+  {
+    "date": "Oct 29",
+    "dayOfWeek": "Wednesday",
+    "time": "9:00 AM",
+    "title": "Linguaphobia, Linguistic Indifference, and the Monolingual University",
+    "location": "IKB 302",
+    "source": "https://docs.google.com/forms/d/1rUxQrotX3cdH7AVymgjiPFQFMZVzsDOwD9e17_iP3rQ/viewform?edit_requested=true",
+    "food": "Catering",
+    "description": "Join thought-provoking talks and discussions on language barriers, linguistic justice, and the dominance of English at universities—all with catered food to enjoy."
   }
 ]
