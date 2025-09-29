@@ -20,7 +20,7 @@ interface EventProps {
 export function Event({ event, key }: EventProps) {
   return (
     <a href={event.source} target="_blank" rel="noopener noreferrer">
-      <div className="group bg-white border border-gray-200 rounded-xl p-6 shadow-sm transition-all duration-200 hover:shadow-lg hover:border-blue-300 cursor-pointer">
+      <div className="group bg-white border border-gray-200 rounded-xl p-6 mb-5 shadow-sm transition-all duration-200 hover:shadow-lg hover:border-blue-300 cursor-pointer">
         <div className="space-y-4">
           <div className="relative">
             <div className="text-blue-600 font-medium">{event.time}</div>

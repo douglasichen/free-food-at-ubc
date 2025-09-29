@@ -421,6 +421,9 @@
   .ml-5 {
     margin-left: calc(var(--spacing) * 5);
   }
+  .mb-5 {
+    margin-bottom: calc(var(--spacing) * 5);
+  }
 
   .flex {
     display: flex;
