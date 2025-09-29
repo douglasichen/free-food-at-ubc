@@ -36,6 +36,7 @@ export default function App() {
           <h1 className="text-gray-900 mb-2">
             Free Food <span className="text-blue-600">@ UBC</span>{" "}
           </h1>
+          <p>Click events to <b style={{ color: "red" }}>RSVP</b></p>
         </div>
         <EventsList events={sampleEvents} />
         <div style={{ height: "35rem" }} />
