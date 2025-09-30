@@ -1,14 +1,19 @@
-import { useEffect } from "react";
-
 import React from "react";
+import { useLocation } from "react-router-dom";
 import { EventsList, Event } from "./components/EventsList";
-import { Button } from "./components/ui/button";
 import eventsData from "../data.json";
 import { FaDiscord } from "react-icons/fa";
 
 const sampleEvents: Event[] = eventsData as Event[];
 
 export default function App() {
+  const location = useLocation();
+  const isNewPage = location.pathname === "/new";
+
+  const filteredSampleEvents = sampleEvents.filter(
+    (event) => event.new == isNewPage
+  );
+
   return (
     <div className="min-h-screen bg-gray-50 p-6">
       {/* Fixed Discord Join Button */}
@@ -34,11 +39,13 @@ export default function App() {
       <div className="max-w-2xl mx-auto relative">
         <div className="mb-2">
           <h1 className="text-gray-900 mb-2">
-            Free Food <span className="text-blue-600">@ UBC</span>{" "}
+            <span style={{ color: "RED", fontWeight: "bold"}}>{isNewPage ? "NEW " : ""}</span>Free Food <span className="text-blue-600">@ UBC</span>{" "}
           </h1>
-          <p>Click events to <b style={{ color: "red" }}>RSVP</b></p>
+          <p>
+            Click events to <b style={{ color: "red" }}>RSVP</b>
+          </p>
         </div>
-        <EventsList events={sampleEvents} />
+        <EventsList events={filteredSampleEvents} />
         <div style={{ height: "35rem" }} />
       </div>
     </div>
