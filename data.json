@@ -7,7 +7,19 @@
     "location": "Sprouts Cafe",
     "source": "https://www.instagram.com/p/DPCVRNyEplr/",
     "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
-    "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!"
+    "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
+    "new": false
+  },
+  {
+    "date": "Sep 30",
+    "dayOfWeek": "Tuesday",
+    "time": "4:30 PM",
+    "title": "Decorate + Decompress",
+    "location": "Nest Egg Performance Theatre",
+    "source": "https://www.instagram.com/p/DPJ83cXgZWC/",
+    "food": "Drinks and Snacks",
+    "description": "Chill out with snacks and drinks while making friendship bracelets, buttons, watercolor art, and more in a fun, crafty space.",
+    "new": true
   },
   {
     "date": "Sep 30",
@@ -17,7 +29,8 @@
     "location": "NEST, room 2514",
     "source": "https://www.instagram.com/p/DPHQBkijnHe/?hl=en",
     "food": "Snacks",
-    "description": "Everyone is welcome to come and join us, whether you're vegan or veg-curious, or just want to meet new people! You don't need to be a member or be vegan."
+    "description": "Everyone is welcome to come and join us, whether you're vegan or veg-curious, or just want to meet new people! You don't need to be a member or be vegan.",
+    "new": false
   },
   {
     "date": "Oct 1",
@@ -27,7 +40,8 @@
     "location": "Nest Plaza (outside 6133 University Boulevard)",
     "source": "https://www.instagram.com/p/DO_uTCwj_2K/?img_index=1",
     "food": "Barbecue",
-    "description": "Enjoy a free BBQ with live music while rallying support to push for funding and approval of the SkyTrain extension to UBC."
+    "description": "Enjoy a free BBQ with live music while rallying support to push for funding and approval of the SkyTrain extension to UBC.",
+    "new": false
   },
   {
     "date": "Oct 1",
@@ -37,7 +51,30 @@
     "location": "Food Hub Market, CIRS",
     "source": "https://ubc.ca1.qualtrics.com/jfe/form/SV_1zuy7wdzSOqICwK",
     "food": "Burrito Bowl",
-    "description": "Join us for meal planning tips that fit your busy schedule, budgets and dietary needs and make your own mason jar burrito bowl to take home!"
+    "description": "Join us for meal planning tips that fit your busy schedule, budgets and dietary needs and make your own mason jar burrito bowl to take home!",
+    "new": false
+  },
+  {
+    "date": "Oct 1",
+    "dayOfWeek": "Wednesday",
+    "time": "5:00 PM",
+    "title": "First Year Mixer",
+    "location": "Black Student Space, Exchange Student Residence",
+    "source": "https://www.instagram.com/p/DPMmfGhAapb/?utm_source=ig_web_copy_link",
+    "food": "Treats",
+    "description": "Come meet new friends, enjoy delicious treats, and get some more information about the upcoming First Year Rep position 👀",
+    "new": true
+  },
+  {
+    "date": "Oct 1",
+    "dayOfWeek": "Wednesday",
+    "time": "3:00 PM",
+    "title": "UBC Fika",
+    "location": "Buchanan Tower 910",
+    "source": "https://www.instagram.com/p/DPC4XskgesR/",
+    "food": "Coffee, Tea, and Baked Goods",
+    "description": "Take a midweek break with coffee, tea, and baked goods while chatting with professors and fellow students interested in the Nordic program.",
+    "new": true
   },
   {
     "date": "Oct 1",
@@ -47,7 +84,8 @@
     "location": "Henry Angus 492",
     "source": "https://docs.google.com/forms/d/e/1FAIpQLScJ7ocIR-SMtjxt_BkUKeT4ZRAr7ysVo3KzrwVxqg1Ul8qchw/viewform",
     "food": "Bubble Tea, Dinner, and Gift Cards",
-    "description": "Meet the First-Year Rep candidates, hear their platforms, enjoy dinner and bubble tea, and win prizes while getting ready to vote."
+    "description": "Meet the First-Year Rep candidates, hear their platforms, enjoy dinner and bubble tea, and win prizes while getting ready to vote.",
+    "new": false
   },
   {
     "date": "Oct 2",
@@ -57,7 +95,8 @@
     "location": "HEBB B112",
     "source": "https://www.instagram.com/p/DPFkFaFic1x/?hl=en",
     "food": "Coffee, Tea, and Snacks",
-    "description": "Relax with free coffee, tea, snacks, and games while hanging out with friends in a cozy lounge setting."
+    "description": "Relax with free coffee, tea, snacks, and games while hanging out with friends in a cozy lounge setting.",
+    "new": false
   },
   {
     "date": "Oct 2",
@@ -67,7 +106,8 @@
     "location": "ALSSC 3rd Floor",
     "source": "https://www.instagram.com/p/DPALv6wki5f/?igsh=dTZqejJnejdxNHhh",
     "food": "Snacks and Drinks",
-    "description": "Join us for an exciting evening of entangled entertainment and curious computation at our very own Quantum Casino Night!"
+    "description": "Join us for an exciting evening of entangled entertainment and curious computation at our very own Quantum Casino Night!",
+    "new": false
   },
   {
     "date": "Oct 2",
@@ -77,7 +117,8 @@
     "location": "UBC Sauder School of Business",
     "source": "https://luma.com/hvcg4phx?tk=LQoz63",
     "food": "Food",
-    "description": "Enjoy free food, meet fellow UX enthusiasts, and kickstart your journey with alumni, mentors, and peers in a fun, social setting."
+    "description": "Enjoy free food, meet fellow UX enthusiasts, and kickstart your journey with alumni, mentors, and peers in a fun, social setting.",
+    "new": false
   },
   {
     "date": "Oct 2",
@@ -87,7 +128,8 @@
     "location": "Birmingham Room, Sauder School of Business",
     "source": "https://docs.google.com/forms/d/e/1FAIpQLSc7r0uC0VQr9wQoBbF3Tq0Ass29Ag1LpNZr8VPQQ4lscJnV8g/viewform",
     "food": "Food and Drinks",
-    "description": "Meet potential case comp teammates, play games, and bond over free food while learning what it takes to compete and win."
+    "description": "Meet potential case comp teammates, play games, and bond over free food while learning what it takes to compete and win.",
+    "new": false
   },
   {
     "date": "Oct 2",
@@ -97,7 +139,8 @@
     "location": "ICICS/ICCS Atrium",
     "source": "https://qualtricsxmtb9v9j3q7.qualtrics.com/jfe/form/SV_bOCOxqclU7EAc1o",
     "food": "Food and Snacks",
-    "description": "Join Atlassian as they launch into UBC 🚀 Enjoy a panel from Atlassian’s team followed by additional networking time to get to know the industry professionals. Get excited to learn about Atlassian (+ their career opportunities 👀), eat snacks, and connect with like-minded students!"
+    "description": "Join Atlassian as they launch into UBC 🚀 Enjoy a panel from Atlassian’s team followed by additional networking time to get to know the industry professionals. Get excited to learn about Atlassian (+ their career opportunities 👀), eat snacks, and connect with like-minded students!",
+    "new": false
   },
   {
     "date": "Oct 2",
@@ -107,7 +150,19 @@
     "location": "Career Center Front Lounge",
     "source": "https://docs.google.com/forms/d/e/1FAIpQLSd6CcrmL1uNCGJASRzPXT6v-Tu0B8yF0mUXnRIOz-zk5jsTxA/viewform",
     "food": "Food and Snacks",
-    "description": "Learn about paid research opportunities, hear tips from past award recipients, and get your questions answered over free food and snacks."
+    "description": "Learn about paid research opportunities, hear tips from past award recipients, and get your questions answered over free food and snacks.",
+    "new": false
+  },
+  {
+    "date": "Oct 3",
+    "dayOfWeek": "Friday",
+    "time": "3:00 PM",
+    "title": "UBC Slavic Tea",
+    "location": "Buchanan Tower 910 & 997",
+    "source": "https://www.instagram.com/p/DPC4LI8gQDw/",
+    "food": "Tea and Snacks",
+    "description": "Enjoy tea, snacks, and great company while connecting with faculty and students interested in Slavic studies at this monthly social event.",
+    "new": true
   },
   {
     "date": "Oct 3",
@@ -117,7 +172,8 @@
     "location": "Abdul Ladha",
     "source": "https://docs.google.com/forms/d/e/1FAIpQLSff6rC6JrTxdPetYCavidoCYiVCRBlrdmkSMHqWFFJBOee2Vg/viewform",
     "food": "Food and Drinks",
-    "description": "Chat with grad/undergrad students and peers about their research journeys, ask questions in a casual setting, and enjoy free food and drinks."
+    "description": "Chat with grad/undergrad students and peers about their research journeys, ask questions in a casual setting, and enjoy free food and drinks.",
+    "new": false
   },
   {
     "date": "Oct 3",
@@ -127,7 +183,8 @@
     "location": "Nest Floor 2",
     "source": "https://www.instagram.com/p/DPGG5irjlLQ",
     "food": "Pizza",
-    "description": "Play bingo and win prizes, mold proteins with clay, meet new friends through icebreakers, and enjoy free pizza while learning about the club."
+    "description": "Play bingo and win prizes, mold proteins with clay, meet new friends through icebreakers, and enjoy free pizza while learning about the club.",
+    "new": false
   },
   {
     "date": "Oct 5",
@@ -137,7 +194,19 @@
     "location": "UBC",
     "source": "https://luma.com/gg09frkm",
     "food": "Snacks",
-    "description": "Calling all artists, engineers, writers, programmers, and makers of every kind—explore your curiosity, build passion projects, and share your creations with a supportive community."
+    "description": "Calling all artists, engineers, writers, programmers, and makers of every kind—explore your curiosity, build passion projects, and share your creations with a supportive community.",
+    "new": false
+  },
+  {
+    "date": "Oct 6",
+    "dayOfWeek": "Monday",
+    "time": "12:00 PM",
+    "title": "Free Produce Market",
+    "location": "Sprouts Cafe",
+    "source": "https://www.instagram.com/p/DPCVRNyEplr/",
+    "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
+    "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
+    "new": true
   },
   {
     "date": "Oct 6",
@@ -147,7 +216,63 @@
     "location": "Agora Cafe",
     "source": "https://www.instagram.com/p/DPIMM6KCfy2/?igsh=dmN0dzc4Z3hiMXVr",
     "food": "Desserts",
-    "description": "Make clay crafts, enjoy desserts, and connect with shift leaders and execs in a fun, casual hangout."
+    "description": "Make clay crafts, enjoy desserts, and connect with shift leaders and execs in a fun, casual hangout.",
+    "new": false
+  },
+  {
+    "date": "Oct 6",
+    "dayOfWeek": "Monday",
+    "time": "5:00 PM",
+    "title": "Community Engagement Fair",
+    "location": "Abdul Ladha Science Centre",
+    "source": "https://www.instagram.com/p/DPE5-RCACk1/",
+    "food": "Refreshments and Snacks",
+    "description": "Meet awesome organizations, explore volunteer opportunities in health, tech, ecology, and more, all while enjoying free snacks and connecting with your community.",
+    "new": true
+  },
+  {
+    "date": "Oct 7",
+    "dayOfWeek": "Tuesday",
+    "time": "10:30 AM",
+    "title": "3Cs Rosalie Gunawan",
+    "location": "POND G Office Annex Lounge (2044 Lower Mall)",
+    "source": "https://www.instagram.com/p/DPCe212jySV/",
+    "food": "Coffee and Tea",
+    "description": "Sip coffee (or tea) and hear Rosalie Gunawan share about the Chinese Canadian Museum's educational and public programming initiatives while connecting with the Anthropology community.",
+    "new": true
+  },
+  {
+    "date": "Oct 7",
+    "dayOfWeek": "Tuesday",
+    "time": "5:00 PM",
+    "title": "Free Produce Market",
+    "location": "Sprouts Cafe",
+    "source": "https://www.instagram.com/p/DPCVRNyEplr/",
+    "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
+    "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
+    "new": true
+  },
+  {
+    "date": "Oct 8",
+    "dayOfWeek": "Wednesday",
+    "time": "3:00 PM",
+    "title": "UBC Fika",
+    "location": "Buchanan Tower 910",
+    "source": "https://www.instagram.com/p/DPC4XskgesR/",
+    "food": "Coffee, Tea, and Baked Goods",
+    "description": "Take a midweek break with coffee, tea, and baked goods while chatting with professors and fellow students interested in the Nordic program.",
+    "new": true
+  },
+  {
+    "date": "Oct 8",
+    "dayOfWeek": "Wednesday",
+    "time": "4:30 PM",
+    "title": "Feminist Social",
+    "location": "S1111, SUS Building, UFV Abbotsford",
+    "source": "https://www.instagram.com/p/DPEw4DPgcor/",
+    "food": "Snacks and Drinks",
+    "description": "Get crafty with button-making and painting while connecting with fellow students who care about social justice, plus enjoy snacks and drinks.",
+    "new": true
   },
   {
     "date": "Oct 8",
@@ -157,7 +282,8 @@
     "location": "Henry Angus, Birmingham",
     "source": "https://docs.google.com/forms/d/e/1FAIpQLSedFppUtHjajhy-Kw_YRd-zftIrAIFY0-OCOb2CHE7Kn3feoQ/viewform",
     "food": "Dinner and Desserts",
-    "description": "Enjoy a free night of dinner, desserts, games, and a photo booth while hanging out with friends and community."
+    "description": "Enjoy a free night of dinner, desserts, games, and a photo booth while hanging out with friends and community.",
+    "new": false
   },
   {
     "date": "Oct 10",
@@ -167,7 +293,41 @@
     "location": "NEST 2504",
     "source": "https://www.instagram.com/p/DPK129sEb_F/?igsh=dW16bjZ3NWcycTlw",
     "food": "Refreshments",
-    "description": "Refresh your wardrobe & give back! 👕✨"
+    "description": "Refresh your wardrobe & give back! 👕✨",
+    "new": false
+  },
+  {
+    "date": "Oct 14",
+    "dayOfWeek": "Tuesday",
+    "time": "1:00 PM",
+    "title": "Black Student Researchers Info-Session",
+    "location": "Black Student Space",
+    "source": "https://www.instagram.com/p/DPM9ti7kpCm/?utm_source=ig_web_copy_link",
+    "food": "Lunch",
+    "description": "If you are a Black undergraduate student looking for full-time research opportunities in Summer 2026, the UBC Career Centre is conducting info-sessions specifically for Black students interested in applying for Undergraduate Students Research Awards (USRA)",
+    "new": true
+  },
+  {
+    "date": "Oct 16",
+    "dayOfWeek": "Thursday",
+    "time": "12:30 PM",
+    "title": "Dr. Helena Zeweri Talk",
+    "location": "ANSO 134",
+    "source": "https://anth.ubc.ca/events/event/dr-helena-zeweri-the-enduring-effects-of-deterrence-border-regimes-afghan-hazara-narratives-of-social-dislocation-and-refuge-in-australia/",
+    "food": "Refreshments",
+    "description": "Join a talk exploring how deterrence border regimes impact Afghan Hazara communities, with reflections on social dislocation, refuge, and resilience.",
+    "new": true
+  },
+  {
+    "date": "Oct 16",
+    "dayOfWeek": "Thursday",
+    "time": "1:00 PM",
+    "title": "Black Student Researchers Info-Session",
+    "location": "Black Student Space",
+    "source": "https://www.instagram.com/p/DPM9ti7kpCm/?utm_source=ig_web_copy_link",
+    "food": "Lunch",
+    "description": "If you are a Black undergraduate student looking for full-time research opportunities in Summer 2026, the UBC Career Centre is conducting info-sessions specifically for Black students interested in applying for Undergraduate Students Research Awards (USRA)",
+    "new": true
   },
   {
     "date": "Oct 16",
@@ -177,7 +337,8 @@
     "location": "ANSO Building",
     "source": "https://anth.ubc.ca/events/event/bipoc-coffee-hour/",
     "food": "Refreshments",
-    "description": "Connect with fellow BIPOC students in a welcoming space and enjoy light refreshments together."
+    "description": "Connect with fellow BIPOC students in a welcoming space and enjoy light refreshments together.",
+    "new": false
   },
   {
     "date": "Oct 18",
@@ -187,7 +348,8 @@
     "location": "UBC School of Music",
     "source": "https://www.eventbrite.ca/e/in-tune-with-your-brain-the-power-of-music-tickets-1696214867329?aff=ebdssbdestsearch&keep_tld=1",
     "food": "Lunch",
-    "description": "Discover how music shapes the brain through inspiring talks, live performances, and interactive discussions that blend science, wellness, and creativity."
+    "description": "Discover how music shapes the brain through inspiring talks, live performances, and interactive discussions that blend science, wellness, and creativity.",
+    "new": false
   },
   {
     "date": "Oct 21",
@@ -197,7 +359,8 @@
     "location": "Bruce R. Birmingham Undergraduate Centre and CPA Hall",
     "source": "https://docs.google.com/forms/d/e/1FAIpQLScosLD2t_P6vNkSYduOFJYajAKWikHrncG33NsjAvcgPq7Ivw/viewform",
     "food": "Food and Refreshments",
-    "description": "Curious about marketing?  Want to get your name out there through our case competition? Join us for a fun evening of workshops, networking, and FREE FOOD! 😋"
+    "description": "Curious about marketing?  Want to get your name out there through our case competition? Join us for a fun evening of workshops, networking, and FREE FOOD! 😋",
+    "new": false
   },
   {
     "date": "Oct 22",
@@ -207,7 +370,8 @@
     "location": "UBC",
     "source": "https://events.ubc.ca/event/employer-on-campus-kiewit/",
     "food": "Pizza",
-    "description": "Meet Kiewit reps, explore their big engineering and construction projects, and learn about career opportunities—all with free pizza."
+    "description": "Meet Kiewit reps, explore their big engineering and construction projects, and learn about career opportunities—all with free pizza.",
+    "new": false
   },
   {
     "date": "Oct 29",
@@ -217,6 +381,7 @@
     "location": "IKB 302",
     "source": "https://docs.google.com/forms/d/1rUxQrotX3cdH7AVymgjiPFQFMZVzsDOwD9e17_iP3rQ/viewform?edit_requested=true",
     "food": "Catering",
-    "description": "Join thought-provoking talks and discussions on language barriers, linguistic justice, and the dominance of English at universities—all with catered food to enjoy."
+    "description": "Join thought-provoking talks and discussions on language barriers, linguistic justice, and the dominance of English at universities—all with catered food to enjoy.",
+    "new": false
   }
 ]

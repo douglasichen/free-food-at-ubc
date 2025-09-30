@@ -10,6 +10,7 @@ export interface Event {
   source: string;
   food?: string;
   description?: string;
+  new?: boolean;
 }
 
 interface EventProps {
