@@ -209,5 +209,28 @@
     "source": "https://luma.com/gg09frkm",
     "food": "Snacks",
     "description": "Calling all artists, engineers, writers, programmers, and makers of every kind—explore your curiosity, build passion projects, and share your creations with a supportive community."
+  },
+  {
+    "date": "Sep 29",
+    "dayOfWeek": "Monday",
+    "time": "12:00 PM",
+    "title": "Free Produce Market",
+    "location": "Sprouts Cafe",
+    "source": "https://www.instagram.com/p/DPCVRNyEplr/",
+    "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
+    "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
+    "new": false
+  },
+  {
+    "date": "Oct 1",
+    "dayOfWeek": "Wednesday",
+    "time": "5:00 PM",
+    "title": "Meal Planning 101",
+    "location": "Food Hub Market, CIRS",
+    "source": "https://ubc.ca1.qualtrics.com/jfe/form/SV_1zuy7wdzSOqICwK",
+    "food": "Burrito Bowl",
+    "description": "Join us for meal planning tips that fit your busy schedule, budgets and dietary needs and make your own mason jar burrito bowl to take home!",
+    "new": false,
+    "expired": true
   }
 ]
