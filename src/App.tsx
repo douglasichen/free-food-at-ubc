@@ -2,7 +2,7 @@ import React from "react";
 import { useLocation } from "react-router-dom";
 import { EventsList, Event } from "./components/EventsList";
 import eventsData from "../data.json";
-import { FaDiscord } from "react-icons/fa";
+import { FaInstagram } from "react-icons/fa";
 
 const sampleEvents: Event[] = eventsData as Event[];
 
@@ -19,7 +19,7 @@ export default function App() {
       {/* Fixed Discord Join Button */}
       <a
         className="cursor-pointer fixed text-white shadow-lg px-6  py-2 rounded-full font-medium flex items-center gap-2"
-        href="https://discord.gg/HMeTnejcdD"
+        href="https://www.instagram.com/freefoodatubc/"
         target="_blank"
         rel="noopener noreferrer"
         style={{
@@ -27,12 +27,12 @@ export default function App() {
           zIndex: 20,
           right: "calc(50vw - min(310px, 45vw))",
           top: "1.4%",
-          backgroundColor: "#5865F2",
+          background: "linear-gradient(135deg, #1e3a8a 0%, #7c3aed 25%, #ec4899 50%, #f97316 75%, #eab308 100%)",
           color: "white",
           padding: "5px 10px",
         }}
       >
-        <FaDiscord />
+        <FaInstagram />
         <b>Get Updates</b>
       </a>
 
