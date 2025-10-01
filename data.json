@@ -8,7 +8,7 @@
     "source": "https://www.instagram.com/p/DPJ83cXgZWC/",
     "food": "Drinks and Snacks",
     "description": "Chill out with snacks and drinks while making friendship bracelets, buttons, watercolor art, and more in a fun, crafty space.",
-    "new": true
+    "new": false
   },
   {
     "date": "Sep 30",
@@ -41,7 +41,7 @@
     "source": "https://www.instagram.com/p/DPMmfGhAapb/?utm_source=ig_web_copy_link",
     "food": "Treats",
     "description": "Come meet new friends, enjoy delicious treats, and get some more information about the upcoming First Year Rep position 👀",
-    "new": true
+    "new": false
   },
   {
     "date": "Oct 1",
@@ -52,7 +52,7 @@
     "source": "https://www.instagram.com/p/DPC4XskgesR/",
     "food": "Coffee, Tea, and Baked Goods",
     "description": "Take a midweek break with coffee, tea, and baked goods while chatting with professors and fellow students interested in the Nordic program.",
-    "new": true
+    "new": false
   },
   {
     "date": "Oct 1",
@@ -64,6 +64,16 @@
     "food": "Bubble Tea, Dinner, and Gift Cards",
     "description": "Meet the First-Year Rep candidates, hear their platforms, enjoy dinner and bubble tea, and win prizes while getting ready to vote.",
     "new": false
+  },
+  {
+    "date": "Oct 1",
+    "dayOfWeek": "Wednesday",
+    "time": "6:30 PM",
+    "title": "KUS October Open Meeting",
+    "location": "War Memorial Gym Room 30",
+    "source": "https://www.instagram.com/p/DPQJtO7DB7c/",
+    "food": "Pizza",
+    "description": "Share ideas, give feedback, and hear updates at this open meeting while enjoying free pizza with the Kinesiology community."
   },
   {
     "date": "Oct 2",
@@ -140,7 +150,7 @@
     "source": "https://www.instagram.com/p/DPC4LI8gQDw/",
     "food": "Tea and Snacks",
     "description": "Enjoy tea, snacks, and great company while connecting with faculty and students interested in Slavic studies at this monthly social event.",
-    "new": true
+    "new": false
   },
   {
     "date": "Oct 3",
@@ -184,7 +194,7 @@
     "source": "https://www.instagram.com/p/DPCVRNyEplr/",
     "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
     "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
-    "new": true
+    "new": false
   },
   {
     "date": "Oct 6",
@@ -206,7 +216,7 @@
     "source": "https://www.instagram.com/p/DPE5-RCACk1/",
     "food": "Refreshments and Snacks",
     "description": "Meet awesome organizations, explore volunteer opportunities in health, tech, ecology, and more, all while enjoying free snacks and connecting with your community.",
-    "new": true
+    "new": false
   },
   {
     "date": "Oct 7",
@@ -217,7 +227,7 @@
     "source": "https://www.instagram.com/p/DPCe212jySV/",
     "food": "Coffee and Tea",
     "description": "Sip coffee (or tea) and hear Rosalie Gunawan share about the Chinese Canadian Museum's educational and public programming initiatives while connecting with the Anthropology community.",
-    "new": true
+    "new": false
   },
   {
     "date": "Oct 7",
@@ -228,7 +238,7 @@
     "source": "https://www.instagram.com/p/DPCVRNyEplr/",
     "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
     "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
-    "new": true
+    "new": false
   },
   {
     "date": "Oct 8",
@@ -239,7 +249,7 @@
     "source": "https://www.instagram.com/p/DPC4XskgesR/",
     "food": "Coffee, Tea, and Baked Goods",
     "description": "Take a midweek break with coffee, tea, and baked goods while chatting with professors and fellow students interested in the Nordic program.",
-    "new": true
+    "new": false
   },
   {
     "date": "Oct 8",
@@ -250,7 +260,7 @@
     "source": "https://www.instagram.com/p/DPEw4DPgcor/",
     "food": "Snacks and Drinks",
     "description": "Get crafty with button-making and painting while connecting with fellow students who care about social justice, plus enjoy snacks and drinks.",
-    "new": true
+    "new": false
   },
   {
     "date": "Oct 8",
@@ -264,6 +274,16 @@
     "new": false
   },
   {
+    "date": "Oct 9",
+    "dayOfWeek": "Thursday",
+    "time": "5:00 PM",
+    "title": "Theatre & Film Industry Networking Event",
+    "location": "TBD (UBC Campus)",
+    "source": "https://www.instagram.com/p/DPNf4FLEfj9/?igsh=Z2Jnb2pua3BuOHlk",
+    "food": "Snacks",
+    "description": "Network with industry professionals, UBC clubs, and professors while learning how to get involved in theatre and film—plus enjoy free snacks along the way."
+  },
+  {
     "date": "Oct 10",
     "dayOfWeek": "Friday",
     "time": "5:00 PM",
@@ -275,6 +295,28 @@
     "new": false
   },
   {
+    "date": "Oct 13",
+    "dayOfWeek": "Monday",
+    "time": "12:00 PM",
+    "title": "Free Produce Market",
+    "location": "Sprouts Cafe",
+    "source": "https://www.instagram.com/p/DPCVRNyEplr/",
+    "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
+    "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
+    "new": false
+  },
+  {
+    "date": "Oct 14",
+    "dayOfWeek": "Tuesday",
+    "time": "12:00 PM",
+    "title": "Free Produce Market",
+    "location": "Sprouts Cafe",
+    "source": "https://www.instagram.com/p/DPCVRNyEplr/",
+    "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
+    "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
+    "new": false
+  },
+  {
     "date": "Oct 14",
     "dayOfWeek": "Tuesday",
     "time": "1:00 PM",
@@ -283,7 +325,7 @@
     "source": "https://www.instagram.com/p/DPM9ti7kpCm/?utm_source=ig_web_copy_link",
     "food": "Lunch",
     "description": "If you are a Black undergraduate student looking for full-time research opportunities in Summer 2026, the UBC Career Centre is conducting info-sessions specifically for Black students interested in applying for Undergraduate Students Research Awards (USRA)",
-    "new": true
+    "new": false
   },
   {
     "date": "Oct 16",
@@ -294,7 +336,7 @@
     "source": "https://anth.ubc.ca/events/event/dr-helena-zeweri-the-enduring-effects-of-deterrence-border-regimes-afghan-hazara-narratives-of-social-dislocation-and-refuge-in-australia/",
     "food": "Refreshments",
     "description": "Join a talk exploring how deterrence border regimes impact Afghan Hazara communities, with reflections on social dislocation, refuge, and resilience.",
-    "new": true
+    "new": false
   },
   {
     "date": "Oct 16",
@@ -305,7 +347,7 @@
     "source": "https://www.instagram.com/p/DPM9ti7kpCm/?utm_source=ig_web_copy_link",
     "food": "Lunch",
     "description": "If you are a Black undergraduate student looking for full-time research opportunities in Summer 2026, the UBC Career Centre is conducting info-sessions specifically for Black students interested in applying for Undergraduate Students Research Awards (USRA)",
-    "new": true
+    "new": false
   },
   {
     "date": "Oct 16",

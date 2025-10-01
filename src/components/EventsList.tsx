@@ -18,14 +18,18 @@ export function EventsList({ events }: EventsListProps) {
     return acc;
   }, {} as Record<string, Event[]>);
 
+  const today = new Date(Date.now());
+  today.setHours(0, 0, 0, 0);
+
   const twoWeekFromNow = new Date();
   twoWeekFromNow.setDate(twoWeekFromNow.getDate() + 14);
 
-  const dateEntries = Object.entries(eventsByDate).filter(
-    ([_, dateEvents]) =>
-      new Date(`${dateEvents[0].date} ${new Date().getFullYear()}`) <=
-      twoWeekFromNow
-  );
+  const dateEntries = Object.entries(eventsByDate).filter(([_, dateEvents]) => {
+    const eventDate = new Date(
+      `${dateEvents[0].date} ${new Date().getFullYear()}`
+    );
+    return today <= eventDate && eventDate <= twoWeekFromNow;
+  });
 
   return (
     <div>
