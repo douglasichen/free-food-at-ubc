@@ -11,7 +11,7 @@ export default function App() {
   const isNewPage = location.pathname === "/new";
 
   const filteredSampleEvents = sampleEvents.filter(
-    (event) => event.new == isNewPage
+    (event) => !!event.new == !!isNewPage
   );
 
   return (
