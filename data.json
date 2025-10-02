@@ -1,81 +1,5 @@
 [
   {
-    "date": "Sep 30",
-    "dayOfWeek": "Tuesday",
-    "time": "4:30 PM",
-    "title": "Decorate + Decompress",
-    "location": "Nest Egg Performance Theatre",
-    "source": "https://www.instagram.com/p/DPJ83cXgZWC/",
-    "food": "Drinks and Snacks",
-    "description": "Chill out with snacks and drinks while making friendship bracelets, buttons, watercolor art, and more in a fun, crafty space.",
-    "new": false
-  },
-  {
-    "date": "Sep 30",
-    "dayOfWeek": "Tuesday",
-    "time": "5:00 PM",
-    "title": "Vegan Club Meeting",
-    "location": "NEST, room 2514",
-    "source": "https://www.instagram.com/p/DPHQBkijnHe/?hl=en",
-    "food": "Snacks",
-    "description": "Everyone is welcome to come and join us, whether you're vegan or veg-curious, or just want to meet new people! You don't need to be a member or be vegan.",
-    "new": false
-  },
-  {
-    "date": "Oct 1",
-    "dayOfWeek": "Wednesday",
-    "time": "2:00 PM",
-    "title": "AMS: Rally for Skytrain to UBC",
-    "location": "Nest Plaza (outside 6133 University Boulevard)",
-    "source": "https://www.instagram.com/p/DO_uTCwj_2K/?img_index=1",
-    "food": "Barbecue",
-    "description": "Enjoy a free BBQ with live music while rallying support to push for funding and approval of the SkyTrain extension to UBC.",
-    "new": false
-  },
-  {
-    "date": "Oct 1",
-    "dayOfWeek": "Wednesday",
-    "time": "5:00 PM",
-    "title": "First Year Mixer",
-    "location": "Black Student Space, Exchange Student Residence",
-    "source": "https://www.instagram.com/p/DPMmfGhAapb/?utm_source=ig_web_copy_link",
-    "food": "Treats",
-    "description": "Come meet new friends, enjoy delicious treats, and get some more information about the upcoming First Year Rep position 👀",
-    "new": false
-  },
-  {
-    "date": "Oct 1",
-    "dayOfWeek": "Wednesday",
-    "time": "3:00 PM",
-    "title": "UBC Fika",
-    "location": "Buchanan Tower 910",
-    "source": "https://www.instagram.com/p/DPC4XskgesR/",
-    "food": "Coffee, Tea, and Baked Goods",
-    "description": "Take a midweek break with coffee, tea, and baked goods while chatting with professors and fellow students interested in the Nordic program.",
-    "new": false
-  },
-  {
-    "date": "Oct 1",
-    "dayOfWeek": "Wednesday",
-    "time": "6:00 PM",
-    "title": "CUS: All Candidates Forum",
-    "location": "Henry Angus 492",
-    "source": "https://docs.google.com/forms/d/e/1FAIpQLScJ7ocIR-SMtjxt_BkUKeT4ZRAr7ysVo3KzrwVxqg1Ul8qchw/viewform",
-    "food": "Bubble Tea, Dinner, and Gift Cards",
-    "description": "Meet the First-Year Rep candidates, hear their platforms, enjoy dinner and bubble tea, and win prizes while getting ready to vote.",
-    "new": false
-  },
-  {
-    "date": "Oct 1",
-    "dayOfWeek": "Wednesday",
-    "time": "6:30 PM",
-    "title": "KUS October Open Meeting",
-    "location": "War Memorial Gym Room 30",
-    "source": "https://www.instagram.com/p/DPQJtO7DB7c/",
-    "food": "Pizza",
-    "description": "Share ideas, give feedback, and hear updates at this open meeting while enjoying free pizza with the Kinesiology community."
-  },
-  {
     "date": "Oct 2",
     "dayOfWeek": "Thursday",
     "time": "12:30 PM",
@@ -133,23 +57,22 @@
   {
     "date": "Oct 2",
     "dayOfWeek": "Thursday",
-    "time": "6:00 PM",
-    "title": "Undergraduate Research Awards Workshop",
-    "location": "Career Center Front Lounge",
-    "source": "https://docs.google.com/forms/d/e/1FAIpQLSd6CcrmL1uNCGJASRzPXT6v-Tu0B8yF0mUXnRIOz-zk5jsTxA/viewform",
-    "food": "Food and Snacks",
-    "description": "Learn about paid research opportunities, hear tips from past award recipients, and get your questions answered over free food and snacks.",
-    "new": false
-  },
-  {
-    "date": "Oct 2",
-    "dayOfWeek": "Thursday",
     "time": "6:30 PM",
     "title": "Agora Cafe Community Dinner",
     "location": "Agora Cafe",
     "source": "https://www.instagram.com/p/DPRzX5GksFp/?hl=en",
     "food": "Carrot & Squash Ginger Lentil Soup, Rice, and Pita",
     "description": "Enjoy a cozy vegan and vegetarian community dinner featuring carrot & squash ginger lentil soup with rice and pita—just remember to bring your own container and utensils!"
+  },
+  {
+    "date": "Oct 3",
+    "dayOfWeek": "Friday",
+    "time": "3:00 PM",
+    "title": "HIH: Get to Know Us",
+    "location": "Nest Performance Theatre",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfxVAp3jLdYKDa3Z399aAYLP633V4UwVuLr1TzyyqHsdyYUOw/viewform",
+    "food": "Food",
+    "description": "Hear from clinician Julie Tipping about BC's healthcare system and narrative medicine, connect with peers, and enjoy free food at this interactive community event."
   },
   {
     "date": "Oct 3",
@@ -183,6 +106,26 @@
     "food": "Pizza",
     "description": "Play bingo and win prizes, mold proteins with clay, meet new friends through icebreakers, and enjoy free pizza while learning about the club.",
     "new": false
+  },
+  {
+    "date": "Oct 4",
+    "dayOfWeek": "Saturday",
+    "time": "5:00 PM",
+    "title": "TFFRA Welcome Back BBQ",
+    "location": "Thunderbird Commonsblock Field",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSdsjoNVnx0Ys0nHDMa1MgwacleuAes9yC9x25fQ20SgvwnRWQ/viewform",
+    "food": "BBQ with Halal and Vegetarian Options",
+    "description": "Kick off the year with delicious BBQ, fun games, drinks, and community vibes at this welcome back social."
+  },
+  {
+    "date": "Oct 4",
+    "dayOfWeek": "Saturday",
+    "time": "5:00 PM",
+    "title": "Chai & Chill",
+    "location": "Ponderosa Cedar 18F Lounge",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSe4UNH2XCLJex0sQk1CVVMXCwO4egVV7HGN_9TQXetqEJNigA/viewform",
+    "food": "Chai and Biscuits",
+    "description": "Relax with warm chai, biscuits, and fun trivia games while hanging out with friends."
   },
   {
     "date": "Oct 5",
@@ -242,6 +185,16 @@
   {
     "date": "Oct 7",
     "dayOfWeek": "Tuesday",
+    "time": "12:15 PM",
+    "title": "L'Oreal x PhUS Lunch and Learn",
+    "location": "PHRM 1101",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSe2WQgFhSJupfj53VQKApaaNjCEYeNoLAaJcO1wi9WaoWD3-w/viewform?fbclid=PAZXh0bgNhZW0CMTEAAadgOJQi_PUvOiPRywJYKMruR1MnyxUnQgY2-TVDFs9AQJFL1yPydmO6hPgFPQ_aem_Tj1uaB2ninRXlwH1Du5gXw",
+    "food": "Lunch",
+    "description": "Join L'Oreal for a lunch and learn session while enjoying free food and insights on skincare and career opportunities."
+  },
+  {
+    "date": "Oct 7",
+    "dayOfWeek": "Tuesday",
     "time": "5:00 PM",
     "title": "Free Produce Market",
     "location": "Sprouts Cafe",
@@ -249,6 +202,16 @@
     "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
     "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
     "new": false
+  },
+  {
+    "date": "Oct 7",
+    "dayOfWeek": "Tuesday",
+    "time": "5:30 PM",
+    "title": "Intro to the Outdoors (VOC x Surf Club)",
+    "location": "Tower Beach",
+    "source": "https://www.instagram.com/p/DO7KMPED2rW/?hl=en",
+    "food": "Hotdogs and S'mores",
+    "description": "Learn camping and surfing tips, meet new adventure buddies, and wrap up the night with a bonfire, hotdogs, and s’mores by the beach. Rescheduled to Oct 7 due to weather."
   },
   {
     "date": "Oct 8",
@@ -353,7 +316,7 @@
     "time": "12:30 PM",
     "title": "Dr. Helena Zeweri Talk",
     "location": "ANSO 134",
-    "source": "https://anth.ubc.ca/events/event/dr-helena-zeweri-the-enduring-effects-of-deterrence-border-regimes-afghan-hazara-narratives-of-social-dislocation-and-refuge-in-australia/",
+    "source": "https://anth.ubc.ca/colloquia-series-rsvp-dr-helena-zeweri-oct-16-2025/",
     "food": "Refreshments",
     "description": "Join a talk exploring how deterrence border regimes impact Afghan Hazara communities, with reflections on social dislocation, refuge, and resilience.",
     "new": false
