@@ -67,6 +67,26 @@
   {
     "date": "Oct 3",
     "dayOfWeek": "Friday",
+    "time": "9:00 AM",
+    "title": "Free Breakfast Friday",
+    "location": "School of Music Lobby",
+    "source": "https://www.instagram.com/p/DOMb-8NElMG/",
+    "food": "Coffee, Tea, and Donuts",
+    "description": "Grab a free light breakfast with coffee, tea, and donuts—first come, first served!"
+  },
+  {
+    "date": "Oct 3",
+    "dayOfWeek": "Friday",
+    "time": "12:00 PM",
+    "title": "Understanding Through Comics Welcome & Launch",
+    "location": "iSchool Terrace Lab or Online",
+    "source": "https://www.instagram.com/p/DOwo_IAktpd/",
+    "food": "Pizza, Salad, and Sweets",
+    "description": "Kick off the Understanding Through Comics Journal Club with a fun welcome lunch while exploring comics as a tool for equity and social justice."
+  },
+  {
+    "date": "Oct 3",
+    "dayOfWeek": "Friday",
     "time": "3:00 PM",
     "title": "HIH: Get to Know Us",
     "location": "Nest Performance Theatre",
@@ -84,6 +104,16 @@
     "food": "Tea and Snacks",
     "description": "Enjoy tea, snacks, and great company while connecting with faculty and students interested in Slavic studies at this monthly social event.",
     "new": false
+  },
+  {
+    "date": "Oct 3",
+    "dayOfWeek": "Thursday",
+    "time": "4:00 PM",
+    "title": "Painting Event",
+    "location": "Math Annex",
+    "source": "https://docs.google.com/forms/d/1NGwqUqBslmoK-ameJKYXLHTXRzFRt8WWvtJYq28jP4s/viewform?pli=1&pli=1&fbclid=PAZXh0bgNhZW0CMTEAAaclWndzMGpampQqGE9XZM-npYt7zyijaSNf1Zq_gFU6xo4yzxtB0eMFOXxC4g_aem_nigjFHwSp_tQkvdcsFH5eg&edit_requested=true",
+    "food": "Snacks",
+    "description": "Enjoy an evening of painting, snacks, and fun conversations with paints and brushes provided."
   },
   {
     "date": "Oct 3",
@@ -269,6 +299,16 @@
   {
     "date": "Oct 10",
     "dayOfWeek": "Friday",
+    "time": "9:00 AM",
+    "title": "Come Out for Brunch",
+    "location": "Abdul Ladha",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSc3QcCV1IR-gurgwHY-9WFi3B7lckYXlBxQ3L7pBVyWAfzVPw/viewform",
+    "food": "Brunch",
+    "description": "Celebrate National Coming Out Day with a joyful brunch featuring drag performances, community, and good vibes."
+  },
+  {
+    "date": "Oct 10",
+    "dayOfWeek": "Friday",
     "time": "5:00 PM",
     "title": "Clothing Drive & Swap",
     "location": "NEST 2504",
@@ -344,6 +384,16 @@
     "new": false
   },
   {
+    "date": "Oct 16",
+    "dayOfWeek": "Thursday",
+    "time": "11:00 AM",
+    "title": "World Food Day",
+    "location": "UBC Bookstore Plaza",
+    "source": "https://food.ubc.ca/event/ubc-world-food-day-oct-16/",
+    "food": "Free Samples",
+    "description": "Explore hands-on stations on food security and sustainability, enjoy a cooking demo with samples, crafts, prizes, and resources from UBC partners."
+  },
+  {
     "date": "Oct 18",
     "dayOfWeek": "Saturday",
     "time": "10:00 AM",
@@ -366,6 +416,16 @@
     "new": false
   },
   {
+    "date": "Oct 21",
+    "dayOfWeek": "Tuesday",
+    "time": "10:30 AM",
+    "title": "3Cs with Dr. Alessandro Mongili",
+    "location": "POND G Office Annex Lounge",
+    "source": "https://www.instagram.com/p/DPUoRsjDHVi/",
+    "food": "Coffee and Tea",
+    "description": "Join Dr. Alessandro Mongili for a talk on technology in the margins of Europe while connecting with the Anthropology community over coffee and conversation."
+  },
+  {
     "date": "Oct 22",
     "dayOfWeek": "Wednesday",
     "time": "5:00 PM",
@@ -375,6 +435,16 @@
     "food": "Pizza",
     "description": "Meet Kiewit reps, explore their big engineering and construction projects, and learn about career opportunities—all with free pizza.",
     "new": false
+  },
+  {
+    "date": "Oct 23",
+    "dayOfWeek": "Thursday",
+    "time": "7:00 PM",
+    "title": "AI Safety Term Social",
+    "location": "Abdul Ladha Science Student Centre (Second Floor)",
+    "source": "https://luma.com/qp6v4let",
+    "food": "Dinner and Snacks",
+    "description": "Connect with peers across disciplines, share your AI insights, join light activities, and enjoy food and conversation in a relaxed social setting."
   },
   {
     "date": "Oct 29",
