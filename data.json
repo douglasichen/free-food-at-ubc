@@ -296,6 +296,16 @@
     "description": "Find out what HESO is all about, meet alumni and members, and enjoy food and drinks at this fun social gathering."
   },
   {
+    "date": "Oct 8",
+    "dayOfWeek": "Wednesday",
+    "time": "7:00 PM",
+    "title": "Earth On Screen Movie Night",
+    "location": "TBD",
+    "source": "https://www.bouncelife.com/events/68da16150d157169ac3ad96d",
+    "food": "Snacks",
+    "description": "Join UBC Greens for a science fiction movie night featuring Interstellar and enjoy free snacks while watching with friends."
+  },
+  {
     "date": "Oct 9",
     "dayOfWeek": "Thursday",
     "time": "5:00 PM",
@@ -399,6 +409,16 @@
     "source": "https://ubc.ca1.qualtrics.com/jfe/form/SV_9zE1TvRu4XHaRrE",
     "food": "Matcha Lattes",
     "description": "Unwind with an all-levels yoga session followed by a refreshing matcha latte while connecting with other women in computer science."
+  },
+  {
+    "date": "Oct 15",
+    "dayOfWeek": "Wednesday",
+    "time": "6:00 PM",
+    "title": "UBC Greens General Meeting",
+    "location": "TBD",
+    "source": "https://www.bouncelife.com/events/68dde83d35ff0484f1b0ce54",
+    "food": "Refreshments",
+    "description": "Share your thoughts on upcoming projects and initiatives while connecting with other UBC Green members over refreshments."
   },
   {
     "date": "Oct 16",
