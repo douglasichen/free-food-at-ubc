@@ -182,6 +182,16 @@
   {
     "date": "Oct 6",
     "dayOfWeek": "Monday",
+    "time": "12:00 PM",
+    "title": "UBC Psychology Community Pantry",
+    "location": "Douglas T. Kenny Building, Suedfeld Lounge",
+    "source": "https://www.instagram.com/p/DPRxe6Kgf28/",
+    "food": "Snacks",
+    "description": "Access free snacks and supplies or donate food and essentials to support the UBC Psychology community."
+  },
+  {
+    "date": "Oct 6",
+    "dayOfWeek": "Monday",
     "time": "4:30 PM",
     "title": "Shift Leader Social",
     "location": "Agora Cafe",
@@ -246,6 +256,16 @@
   {
     "date": "Oct 8",
     "dayOfWeek": "Wednesday",
+    "time": "12:00 PM",
+    "title": "UBC Psychology Community Pantry",
+    "location": "Douglas T. Kenny Building, Suedfeld Lounge",
+    "source": "https://www.instagram.com/p/DPRxe6Kgf28/",
+    "food": "Snacks",
+    "description": "Access free snacks and supplies or donate food and essentials to support the UBC Psychology community."
+  },
+  {
+    "date": "Oct 8",
+    "dayOfWeek": "Wednesday",
     "time": "3:00 PM",
     "title": "UBC Fika",
     "location": "Buchanan Tower 910",
@@ -288,6 +308,16 @@
   {
     "date": "Oct 9",
     "dayOfWeek": "Thursday",
+    "time": "5:30 PM",
+    "title": "Actuary 101 + ASNA Info Session",
+    "location": "TBA",
+    "source": "https://www.instagram.com/p/DPXx64RkUuu/",
+    "food": "Donuts",
+    "description": "Learn about the actuarial career path, get exam and internship tips, and connect with upper-year students and actuarial interns."
+  },
+  {
+    "date": "Oct 9",
+    "dayOfWeek": "Thursday",
     "time": "6:00 PM",
     "title": "SISA: Friends Giving",
     "location": "Henry Angus, Birmingham",
@@ -305,6 +335,16 @@
     "source": "https://docs.google.com/forms/d/e/1FAIpQLSc3QcCV1IR-gurgwHY-9WFi3B7lckYXlBxQ3L7pBVyWAfzVPw/viewform",
     "food": "Brunch",
     "description": "Celebrate National Coming Out Day with a joyful brunch featuring drag performances, community, and good vibes."
+  },
+  {
+    "date": "Oct 10",
+    "dayOfWeek": "Friday",
+    "time": "5:00 PM",
+    "title": "Pride UBC General Meeting",
+    "location": "LIFE 2212",
+    "source": "https://www.instagram.com/p/DOaEKtxkfIN/?hl=en",
+    "food": "Food",
+    "description": "Join the Pride Collective for weekly general meetings with food, budget voting, and community updates on queer resources and events around UBC."
   },
   {
     "date": "Oct 10",
@@ -351,6 +391,16 @@
     "new": false
   },
   {
+    "date": "Oct 15",
+    "dayOfWeek": "Wednesday",
+    "time": "5:30 PM",
+    "title": "Yoga + Matcha Social",
+    "location": "Abdul Ladha",
+    "source": "https://ubc.ca1.qualtrics.com/jfe/form/SV_9zE1TvRu4XHaRrE",
+    "food": "Matcha Lattes",
+    "description": "Unwind with an all-levels yoga session followed by a refreshing matcha latte while connecting with other women in computer science."
+  },
+  {
     "date": "Oct 16",
     "dayOfWeek": "Thursday",
     "time": "12:30 PM",
@@ -392,6 +442,46 @@
     "source": "https://food.ubc.ca/event/ubc-world-food-day-oct-16/",
     "food": "Free Samples",
     "description": "Explore hands-on stations on food security and sustainability, enjoy a cooking demo with samples, crafts, prizes, and resources from UBC partners."
+  },
+  {
+    "date": "Oct 16",
+    "dayOfWeek": "Thursday",
+    "time": "4:00 PM",
+    "title": "Cuban Salsa - Intercultural Physical Activity Series",
+    "location": "SRC Gym 1",
+    "source": "https://ubc.perfectmind.com/24063/Classes/BookMe4LandingPages/CoursesLandingPage?courseId=fc02b773-ba1f-4df5-b1d3-acca7d3b85ea",
+    "food": "Snacks",
+    "description": "Learn and dance Cuban salsa with the UBC Salsa Rueda Club while celebrating culture, music, and movement in this fun and free session."
+  },
+  {
+    "date": "Oct 17",
+    "dayOfWeek": "Friday",
+    "time": "5:00 PM",
+    "title": "Lift-Off: UBC Startups Launch Event",
+    "location": "Nest Room 2306/2309",
+    "source": "https://luma.com/37mfta4u",
+    "food": "Snacks",
+    "description": "Join fellow students to tackle real startup challenges, pitch ideas, vote on the most fundable visions, and network with the UBC startup community."
+  },
+  {
+    "date": "Oct 17",
+    "dayOfWeek": "Friday",
+    "time": "5:00 PM",
+    "title": "Pride UBC General Meeting",
+    "location": "LIFE 2212",
+    "source": "https://www.instagram.com/p/DOaEKtxkfIN/?hl=en",
+    "food": "Food",
+    "description": "Join the Pride Collective for weekly general meetings with food, budget voting, and community updates on queer resources and events around UBC."
+  },
+  {
+    "date": "Oct 17",
+    "dayOfWeek": "Friday",
+    "time": "6:00 PM",
+    "title": "Amplify Your Degree",
+    "location": "Bruce R. Birmingham Undergraduate Centre",
+    "source": "https://www.instagram.com/p/DPSXc9GD7an/",
+    "food": "Food",
+    "description": "Meet professors and network with delegates while exploring Sauder career paths like finance, marketing, and accounting—all with free food and good vibes."
   },
   {
     "date": "Oct 18",
@@ -445,6 +535,16 @@
     "source": "https://luma.com/qp6v4let",
     "food": "Dinner and Snacks",
     "description": "Connect with peers across disciplines, share your AI insights, join light activities, and enjoy food and conversation in a relaxed social setting."
+  },
+  {
+    "date": "Oct 24",
+    "dayOfWeek": "Friday",
+    "time": "5:00 PM",
+    "title": "Pride UBC General Meeting",
+    "location": "LIFE 2212",
+    "source": "https://www.instagram.com/p/DOaEKtxkfIN/?hl=en",
+    "food": "Food",
+    "description": "Join the Pride Collective for weekly general meetings with food, budget voting, and community updates on queer resources and events around UBC."
   },
   {
     "date": "Oct 29",
