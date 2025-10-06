@@ -9,5 +9,15 @@
     "food": "Food and Snacks",
     "description": "Learn about paid research opportunities, hear tips from past award recipients, and get your questions answered over free food and snacks.",
     "new": false
+  },
+  {
+    "date": "Oct 15",
+    "dayOfWeek": "Wednesday",
+    "time": "5:30 PM",
+    "title": "Yoga + Matcha Social",
+    "location": "Abdul Ladha",
+    "source": "https://ubc.ca1.qualtrics.com/jfe/form/SV_9zE1TvRu4XHaRrE",
+    "food": "Matcha Lattes",
+    "description": "Unwind with an all-levels yoga session followed by a refreshing matcha latte while connecting with other women in computer science."
   }
 ]
