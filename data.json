@@ -105,6 +105,16 @@
     "description": "Network with industry professionals and learn about companies hiring FIZZ and IGEN grads while enjoying snacks and great conversations."
   },
   {
+    "date": "Oct 7",
+    "dayOfWeek": "Tuesday",
+    "time": "6:30 PM",
+    "title": "Community Dinner: Veggie Soup & Pita",
+    "location": "Agora Café",
+    "source": "https://www.instagram.com/p/DPemWsTktnJ/",
+    "food": "Veggie Soup and Pita",
+    "description": "Enjoy a free vegan and vegetarian community dinner of hearty veggie soup and pita—just bring your own container and utensils!"
+  },
+  {
     "date": "Oct 8",
     "dayOfWeek": "Wednesday",
     "time": "12:00 PM",
@@ -140,11 +150,31 @@
     "date": "Oct 8",
     "dayOfWeek": "Wednesday",
     "time": "5:00 PM",
+    "title": "Reading Group Week 2: Scheming",
+    "location": "IKB Room 263",
+    "source": "https://www.instagram.com/p/DPeacfpktbQ/",
+    "food": "Dinner",
+    "description": "Join UBC AI Safety for a biweekly technical paper reading group exploring cutting-edge AI safety research topics over dinner."
+  },
+  {
+    "date": "Oct 8",
+    "dayOfWeek": "Wednesday",
+    "time": "5:00 PM",
     "title": "IGENxFIZZ ELEC 204 Tutoring & Study Session",
     "location": "Swing Space, Room 122",
     "source": "https://www.instagram.com/p/DPZhVzrEmV3/",
     "food": "Pizza",
     "description": "Get ready for the midterm with extra study help from peers and upper years while enjoying free pizza and new practice problems."
+  },
+  {
+    "date": "Oct 8",
+    "dayOfWeek": "Wednesday",
+    "time": "6:00 PM",
+    "title": "EUS Tutoring Session: APSC 160 & PHYS 157",
+    "location": "KAIS 2020",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSciwDAi7UN8z9DuWrbqjnmUKvQ5_Ilo4RwddLsQg4CjuCHtkA/viewform?fbclid=PAZXh0bgNhZW0CMTEAAafwjSNHqLnNNLNn17pgISq8EK1D4VXB-vtVi_Hyl0R2C4uVozJWp4iK1946UQ_aem_YV9pKbqDln_vbE-EDrWsWQ",
+    "food": "Pizza",
+    "description": "Get midterm help from upper-year tutors with review packages and free pizza while preparing for APSC 160 and PHYS 157 exams."
   },
   {
     "date": "Oct 8",
@@ -165,6 +195,16 @@
     "source": "https://www.bouncelife.com/events/68da16150d157169ac3ad96d",
     "food": "Snacks",
     "description": "Join UBC Greens for a science fiction movie night featuring Interstellar and enjoy free snacks while watching with friends."
+  },
+  {
+    "date": "Oct 9",
+    "dayOfWeek": "Thursday",
+    "time": "12:00 PM",
+    "title": "CIS & AISA Community Soup Lunch",
+    "location": "CIS Meeting Room, Buchanan E Room 273",
+    "source": "https://www.instagram.com/p/DPeeriNgMkx/",
+    "food": "Soup",
+    "description": "Warm up with a bowl of soup and good company at the CIS & AISA Community Soup Lunch."
   },
   {
     "date": "Oct 9",
@@ -220,6 +260,16 @@
   {
     "date": "Oct 10",
     "dayOfWeek": "Friday",
+    "time": "12:00 PM",
+    "title": "Sprouts Community Eats",
+    "location": "Sprouts Café",
+    "source": "https://www.instagram.com/p/DPeu6YogbDv/",
+    "food": "Meal",
+    "description": "Drop by Sprouts Café for a free community meal, just bring your own container and utensils!"
+  },
+  {
+    "date": "Oct 10",
+    "dayOfWeek": "Friday",
     "time": "5:00 PM",
     "title": "Pride UBC General Meeting",
     "location": "LIFE 2212",
@@ -247,17 +297,6 @@
     "source": "https://luma.com/cxxyipi5",
     "food": "Snacks",
     "description": "Calling all artists, engineers, writers, programmers, and makers of every kind—explore your curiosity, build passion projects, and share your creations with a supportive community.",
-    "new": false
-  },
-  {
-    "date": "Oct 13",
-    "dayOfWeek": "Monday",
-    "time": "12:00 PM",
-    "title": "Free Produce Market",
-    "location": "Sprouts Cafe",
-    "source": "https://www.instagram.com/p/DPCVRNyEplr/",
-    "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
-    "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
     "new": false
   },
   {
@@ -358,6 +397,16 @@
   {
     "date": "Oct 17",
     "dayOfWeek": "Friday",
+    "time": "12:00 PM",
+    "title": "Sprouts Community Eats",
+    "location": "Sprouts Café",
+    "source": "https://www.instagram.com/p/DPeu6YogbDv/",
+    "food": "Meal",
+    "description": "Drop by Sprouts Café for a free community meal, just bring your own container and utensils!"
+  },
+  {
+    "date": "Oct 17",
+    "dayOfWeek": "Friday",
     "time": "5:00 PM",
     "title": "WiDS@UBC AlumNight",
     "location": "Abdul Ladha Science Student Centre",
@@ -384,6 +433,16 @@
     "source": "https://www.instagram.com/p/DOaEKtxkfIN/?hl=en",
     "food": "Food",
     "description": "Join the Pride Collective for weekly general meetings with food, budget voting, and community updates on queer resources and events around UBC."
+  },
+  {
+    "date": "Oct 17",
+    "dayOfWeek": "Friday",
+    "time": "6:00 PM",
+    "title": "Amplify",
+    "location": "Bruce R. Birmingham Undergraduate Centre",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSczEewcrazgHOaiLhlB1YxeMLdtlKzZ7RZcitfE_5dR3JWzjQ/viewform",
+    "food": "Sandwiches and Dinner",
+    "description": "Learn strategies for academic success and network with Sauder professors and students over a free dinner featuring homemade sandwiches from Jo’s Italian Deli."
   },
   {
     "date": "Oct 17",
@@ -427,6 +486,16 @@
     "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
     "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
     "new": false
+  },
+  {
+    "date": "Oct 20",
+    "dayOfWeek": "Monday",
+    "time": "5:30 PM",
+    "title": "BUCS Night 1",
+    "location": "UBC Sauder, Big 4 Conference Room",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSdpCjSCkf78Y3h1Cx15yA064x946LBsE7Kvyw1Rc1JP4TQ-DA/viewform",
+    "food": "Poke Bowls",
+    "description": "Connect with BUCS students and alumni through fun icebreakers, an inspiring panel, and open networking over a poke bowl dinner."
   },
   {
     "date": "Oct 21",
@@ -490,6 +559,16 @@
     "source": "https://www.instagram.com/p/DOaEKtxkfIN/?hl=en",
     "food": "Food",
     "description": "Join the Pride Collective for weekly general meetings with food, budget voting, and community updates on queer resources and events around UBC."
+  },
+  {
+    "date": "Oct 24",
+    "dayOfWeek": "Friday",
+    "time": "12:00 PM",
+    "title": "Sprouts Community Eats",
+    "location": "Sprouts Café",
+    "source": "https://www.instagram.com/p/DPeu6YogbDv/",
+    "food": "Meal",
+    "description": "Drop by Sprouts Café for a free community meal, just bring your own container and utensils!"
   },
   {
     "date": "Oct 26",
