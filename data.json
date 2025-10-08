@@ -238,6 +238,16 @@
     "description": "Join the Ukrainian Student Union for a fun social night with games, snacks, and conversations to meet new members and grow the community."
   },
   {
+    "date": "Oct 9",
+    "dayOfWeek": "Tuesday",
+    "time": "6:30 PM",
+    "title": "Community Dinner: Sweet Potato, Cauliflower & Spinach Dahl",
+    "location": "Agora Cafe",
+    "source": "https://www.instagram.com/p/DPjcLDlkYgV/?hl=en",
+    "food": "Sweet Potato, Cauliflower & Spinach Dahl",
+    "description": "Enjoy a cozy vegan community dinner at Agora Cafe featuring sweet potato, cauliflower, and spinach dahl. Bring your own container and utensils."
+  },
+  {
     "date": "Oct 10",
     "dayOfWeek": "Friday",
     "time": "9:00 AM",
@@ -322,6 +332,16 @@
     "new": false
   },
   {
+    "date": "Oct 14",
+    "dayOfWeek": "Tuesday",
+    "time": "3:00 PM",
+    "title": "Girls, Gays, & Theys Afternoon Tea",
+    "location": "CEME 1203",
+    "source": "https://www.instagram.com/p/DPjycIiAWAz/",
+    "food": "Tea and Sweet Treats",
+    "description": "Relax with Club Mech & Gears and Queers for an afternoon tea featuring a selection of teas, sweet treats, and great company. All women, queer, allied, and gender non-conforming folks are welcome."
+  },
+  {
     "date": "Oct 15",
     "dayOfWeek": "Wednesday",
     "time": "6:00 PM",
@@ -373,6 +393,16 @@
     "source": "https://food.ubc.ca/event/ubc-world-food-day-oct-16/",
     "food": "Free Samples",
     "description": "Explore hands-on stations on food security and sustainability, enjoy a cooking demo with samples, crafts, prizes, and resources from UBC partners."
+  },
+  {
+    "date": "Oct 16",
+    "dayOfWeek": "Thursday",
+    "time": "4:00 PM",
+    "title": "Sprouts Mushroom Walk",
+    "location": "Pacific Spirit Park (Douglas Fir Trailhead, near Wesbrook Village)",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSdrcF4WE63HBfvGKowJU3fjIrkDA8K-PUkzchIAJ_j3gyGqJg/viewform",
+    "food": "Snacks",
+    "description": "Join Sprouts and UBC's mushroom expert Dr. Monika Fischer for a guided walk through Pacific Spirit Park to learn about local mushrooms and enjoy provided snacks. Not a foraging trip!"
   },
   {
     "date": "Oct 16",

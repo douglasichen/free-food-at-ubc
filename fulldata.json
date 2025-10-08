@@ -19,5 +19,15 @@
     "source": "https://ubc.ca1.qualtrics.com/jfe/form/SV_9zE1TvRu4XHaRrE",
     "food": "Matcha Lattes",
     "description": "Unwind with an all-levels yoga session followed by a refreshing matcha latte while connecting with other women in computer science."
-  }
+  },
+  {
+    "date": "Oct 7",
+    "dayOfWeek": "Tuesday",
+    "time": "12:15 PM",
+    "title": "L'Oreal x PhUS Lunch and Learn",
+    "location": "PHRM 1101",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSe2WQgFhSJupfj53VQKApaaNjCEYeNoLAaJcO1wi9WaoWD3-w/viewform?fbclid=PAZXh0bgNhZW0CMTEAAadgOJQi_PUvOiPRywJYKMruR1MnyxUnQgY2-TVDFs9AQJFL1yPydmO6hPgFPQ_aem_Tj1uaB2ninRXlwH1Du5gXw",
+    "food": "Lunch",
+    "description": "Join L'Oreal for a lunch and learn session while enjoying free food and insights on skincare and career opportunities."
+  },
 ]
