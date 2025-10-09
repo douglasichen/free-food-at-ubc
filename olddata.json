@@ -479,5 +479,193 @@
     "food": "Snacks",
     "description": "Calling all artists, engineers, writers, programmers, and makers of every kind—explore your curiosity, build passion projects, and share your creations with a supportive community.",
     "new": false
+  },
+
+  {
+    "date": "Oct 6",
+    "dayOfWeek": "Monday",
+    "time": "12:00 PM",
+    "title": "Free Produce Market",
+    "location": "Sprouts Cafe",
+    "source": "https://www.instagram.com/p/DPCVRNyEplr/",
+    "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
+    "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
+    "new": false
+  },
+  {
+    "date": "Oct 6",
+    "dayOfWeek": "Monday",
+    "time": "12:00 PM",
+    "title": "UBC Psychology Community Pantry",
+    "location": "Douglas T. Kenny Building, Suedfeld Lounge",
+    "source": "https://www.instagram.com/p/DPRxe6Kgf28/",
+    "food": "Snacks",
+    "description": "Access free snacks and supplies or donate food and essentials to support the UBC Psychology community."
+  },
+  {
+    "date": "Oct 6",
+    "dayOfWeek": "Monday",
+    "time": "12:30 PM",
+    "title": "Haida Gwaii Institute Info Session",
+    "location": "Forest Sciences Centre, Room 4001",
+    "source": "https://ubc.ca1.qualtrics.com/jfe/form/SV_1yVgXsvh9ifeJfM",
+    "food": "Pizza",
+    "description": "Learn about Haida Gwaii Institute’s immersive education programs from the Director and an alum while enjoying a free pizza lunch."
+  },
+  {
+    "date": "Oct 6",
+    "dayOfWeek": "Monday",
+    "time": "4:30 PM",
+    "title": "Shift Leader Social",
+    "location": "Agora Cafe",
+    "source": "https://www.instagram.com/p/DPIMM6KCfy2/?igsh=dmN0dzc4Z3hiMXVr",
+    "food": "Desserts",
+    "description": "Make clay crafts, enjoy desserts, and connect with shift leaders and execs in a fun, casual hangout.",
+    "new": false
+  },
+  {
+    "date": "Oct 6",
+    "dayOfWeek": "Monday",
+    "time": "5:00 PM",
+    "title": "Community Engagement Fair",
+    "location": "Abdul Ladha Science Centre",
+    "source": "https://www.instagram.com/p/DPE5-RCACk1/",
+    "food": "Refreshments and Snacks",
+    "description": "Meet awesome organizations, explore volunteer opportunities in health, tech, ecology, and more, all while enjoying free snacks and connecting with your community.",
+    "new": false
+  },
+  {
+    "date": "Oct 7",
+    "dayOfWeek": "Tuesday",
+    "time": "10:30 AM",
+    "title": "3Cs Rosalie Gunawan",
+    "location": "POND G Office Annex Lounge (2044 Lower Mall)",
+    "source": "https://www.instagram.com/p/DPCe212jySV/",
+    "food": "Coffee and Tea",
+    "description": "Sip coffee (or tea) and hear Rosalie Gunawan share about the Chinese Canadian Museum's educational and public programming initiatives while connecting with the Anthropology community.",
+    "new": false
+  },
+  {
+    "date": "Oct 7",
+    "dayOfWeek": "Tuesday",
+    "time": "5:00 PM",
+    "title": "Free Produce Market",
+    "location": "Sprouts Cafe",
+    "source": "https://www.instagram.com/p/DPCVRNyEplr/",
+    "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
+    "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
+    "new": false
+  },
+  {
+    "date": "Oct 7",
+    "dayOfWeek": "Tuesday",
+    "time": "5:30 PM",
+    "title": "Intro to the Outdoors (VOC x Surf Club)",
+    "location": "Tower Beach",
+    "source": "https://www.instagram.com/p/DO7KMPED2rW/?hl=en",
+    "food": "Hotdogs and S'mores",
+    "description": "Learn camping and surfing tips, meet new adventure buddies, and wrap up the night with a bonfire, hotdogs, and s’mores by the beach. Rescheduled to Oct 7 due to weather."
+  },
+  {
+    "date": "Oct 7",
+    "dayOfWeek": "Tuesday",
+    "time": "6:00 PM",
+    "title": "FIZZ x IGEN Industry Night",
+    "location": "Engineering Student Centre",
+    "source": "https://www.instagram.com/p/DO_aykdDrxi/",
+    "food": "Snacks",
+    "description": "Network with industry professionals and learn about companies hiring FIZZ and IGEN grads while enjoying snacks and great conversations."
+  },
+  {
+    "date": "Oct 7",
+    "dayOfWeek": "Tuesday",
+    "time": "6:30 PM",
+    "title": "Community Dinner: Veggie Soup & Pita",
+    "location": "Agora Café",
+    "source": "https://www.instagram.com/p/DPemWsTktnJ/",
+    "food": "Veggie Soup and Pita",
+    "description": "Enjoy a free vegan and vegetarian community dinner of hearty veggie soup and pita—just bring your own container and utensils!"
+  },
+  {
+    "date": "Oct 8",
+    "dayOfWeek": "Wednesday",
+    "time": "12:00 PM",
+    "title": "UBC Psychology Community Pantry",
+    "location": "Douglas T. Kenny Building, Suedfeld Lounge",
+    "source": "https://www.instagram.com/p/DPRxe6Kgf28/",
+    "food": "Snacks",
+    "description": "Access free snacks and supplies or donate food and essentials to support the UBC Psychology community."
+  },
+  {
+    "date": "Oct 8",
+    "dayOfWeek": "Wednesday",
+    "time": "3:00 PM",
+    "title": "UBC Fika",
+    "location": "Buchanan Tower 910",
+    "source": "https://www.instagram.com/p/DPC4XskgesR/",
+    "food": "Coffee, Tea, and Baked Goods",
+    "description": "Take a midweek break with coffee, tea, and baked goods while chatting with professors and fellow students interested in the Nordic program.",
+    "new": false
+  },
+  {
+    "date": "Oct 8",
+    "dayOfWeek": "Wednesday",
+    "time": "4:30 PM",
+    "title": "Feminist Social",
+    "location": "S1111, SUS Building, UFV Abbotsford",
+    "source": "https://www.instagram.com/p/DPEw4DPgcor/",
+    "food": "Snacks and Drinks",
+    "description": "Get crafty with button-making and painting while connecting with fellow students who care about social justice, plus enjoy snacks and drinks.",
+    "new": false
+  },
+  {
+    "date": "Oct 8",
+    "dayOfWeek": "Wednesday",
+    "time": "5:00 PM",
+    "title": "Reading Group Week 2: Scheming",
+    "location": "IKB Room 263",
+    "source": "https://www.instagram.com/p/DPeacfpktbQ/",
+    "food": "Dinner",
+    "description": "Join UBC AI Safety for a biweekly technical paper reading group exploring cutting-edge AI safety research topics over dinner."
+  },
+  {
+    "date": "Oct 8",
+    "dayOfWeek": "Wednesday",
+    "time": "5:00 PM",
+    "title": "IGENxFIZZ ELEC 204 Tutoring & Study Session",
+    "location": "Swing Space, Room 122",
+    "source": "https://www.instagram.com/p/DPZhVzrEmV3/",
+    "food": "Pizza",
+    "description": "Get ready for the midterm with extra study help from peers and upper years while enjoying free pizza and new practice problems."
+  },
+  {
+    "date": "Oct 8",
+    "dayOfWeek": "Wednesday",
+    "time": "6:00 PM",
+    "title": "EUS Tutoring Session: APSC 160 & PHYS 157",
+    "location": "KAIS 2020",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSciwDAi7UN8z9DuWrbqjnmUKvQ5_Ilo4RwddLsQg4CjuCHtkA/viewform?fbclid=PAZXh0bgNhZW0CMTEAAafwjSNHqLnNNLNn17pgISq8EK1D4VXB-vtVi_Hyl0R2C4uVozJWp4iK1946UQ_aem_YV9pKbqDln_vbE-EDrWsWQ",
+    "food": "Pizza",
+    "description": "Get midterm help from upper-year tutors with review packages and free pizza while preparing for APSC 160 and PHYS 157 exams."
+  },
+  {
+    "date": "Oct 8",
+    "dayOfWeek": "Wednesday",
+    "time": "7:00 PM",
+    "title": "Hello HESO",
+    "location": "Room 2504, The Nest",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSf7avVBjmm6uYAEwpTpI2pOFfRpku-f7aLXGcGzKJRCFzpk5Q/viewform",
+    "food": "Food and Drinks",
+    "description": "Find out what HESO is all about, meet alumni and members, and enjoy food and drinks at this fun social gathering."
+  },
+  {
+    "date": "Oct 8",
+    "dayOfWeek": "Wednesday",
+    "time": "7:00 PM",
+    "title": "Earth On Screen Movie Night",
+    "location": "TBD",
+    "source": "https://www.bouncelife.com/events/68da16150d157169ac3ad96d",
+    "food": "Snacks",
+    "description": "Join UBC Greens for a science fiction movie night featuring Interstellar and enjoy free snacks while watching with friends."
   }
 ]
