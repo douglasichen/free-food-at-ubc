@@ -155,6 +155,16 @@
   {
     "date": "Oct 14",
     "dayOfWeek": "Tuesday",
+    "time": "11:00 AM",
+    "title": "Coffee Boothing",
+    "location": "CPA Hall",
+    "source": "https://www.instagram.com/p/DPolGfrEX3W/",
+    "food": "Coffee",
+    "description": "Grab a free cup of coffee from the Commerce Community Booth to kickstart your morning!"
+  },
+  {
+    "date": "Oct 14",
+    "dayOfWeek": "Tuesday",
     "time": "12:00 PM",
     "title": "Free Produce Market",
     "location": "Sprouts Cafe",
@@ -193,6 +203,16 @@
     "source": "https://www.instagram.com/p/DPkiw7QkffB/",
     "food": "Snacks and Refreshments",
     "description": "Join WiDS@UBC and USS for a DSCI 100 Study Social where you can study with friends, get mentor advice, and enjoy snacks and refreshments while preparing for your midterm."
+  },
+  {
+    "date": "Oct 14",
+    "dayOfWeek": "Tuesday",
+    "time": "5:30 PM",
+    "title": "FHM x UBC Pride Collective Thanksgiving Dinner",
+    "location": "BC Hydro Theatre, CIRS",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSe_S-nfIeF80dFcy_GwLbFM1M8kkgxxsHkYXrMwBhxCjeL0-A/viewform",
+    "food": "Dinner",
+    "description": "Celebrate a 'friendsgiving' dinner connecting the UBC community over comforting dishes, storytelling, and inclusive conversations on food security and queer identities."
   },
   {
     "date": "Oct 15",
