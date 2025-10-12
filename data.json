@@ -217,6 +217,16 @@
   {
     "date": "Oct 15",
     "dayOfWeek": "Wednesday",
+    "time": "4:30 PM",
+    "title": "Study with A(US)",
+    "location": "ASC Second Floor",
+    "source": "https://www.instagram.com/p/DPuFvBdDspi/",
+    "food": "Pumpkin Spice Latte",
+    "description": "Cozy up for a chill study session with pumpkin spice lattes, a crackling projector fireplace, and perfect fall vibes."
+  },
+  {
+    "date": "Oct 15",
+    "dayOfWeek": "Wednesday",
     "time": "6:00 PM",
     "title": "UBC Greens General Meeting",
     "location": "TBD",
