@@ -207,12 +207,32 @@
   {
     "date": "Oct 14",
     "dayOfWeek": "Tuesday",
+    "time": "5:00 PM",
+    "title": "Collage Night",
+    "location": "The Nest, Room 2514",
+    "source": "https://www.instagram.com/p/DPw6Dyjkt9n/",
+    "food": "Snacks",
+    "description": "Join Vegans of UBC for a fun artsy collage night with free snacks—bring your own scissors, glue, and magazines to get creative!"
+  },
+  {
+    "date": "Oct 14",
+    "dayOfWeek": "Tuesday",
     "time": "5:30 PM",
     "title": "FHM x UBC Pride Collective Thanksgiving Dinner",
     "location": "BC Hydro Theatre, CIRS",
     "source": "https://docs.google.com/forms/d/e/1FAIpQLSe_S-nfIeF80dFcy_GwLbFM1M8kkgxxsHkYXrMwBhxCjeL0-A/viewform",
     "food": "Dinner",
     "description": "Celebrate a 'friendsgiving' dinner connecting the UBC community over comforting dishes, storytelling, and inclusive conversations on food security and queer identities."
+  },
+  {
+    "date": "Oct 14",
+    "dayOfWeek": "Tuesday",
+    "time": "6:30 PM",
+    "title": "Potato & Leek Soup Community Dinner",
+    "location": "Agora Cafe",
+    "source": "https://www.instagram.com/p/DPxnY0GDjgV/",
+    "food": "Potato & Leek Soup with Rice/Pita",
+    "description": "Enjoy a cozy community dinner with warm potato and leek soup—just bring your own container and utensils!"
   },
   {
     "date": "Oct 15",
@@ -233,6 +253,16 @@
     "source": "https://www.bouncelife.com/events/68dde83d35ff0484f1b0ce54",
     "food": "Refreshments",
     "description": "Share your thoughts on upcoming projects and initiatives while connecting with other UBC Green members over refreshments."
+  },
+  {
+    "date": "Oct 15",
+    "dayOfWeek": "Wednesday",
+    "time": "6:00 PM",
+    "title": "EUS Tutoring Session: CHEM 154 & PHYS 170",
+    "location": "KAIS 2020",
+    "source": "https://www.instagram.com/p/DPw7t-CkjRp/",
+    "food": "Pizza",
+    "description": "Get midterm help for CHEM 154 and PHYS 170 with review packages, upper-year tutors, and free pizza to keep you fueled while you study!"
   },
   {
     "date": "Oct 16",
@@ -476,6 +506,16 @@
   {
     "date": "Oct 23",
     "dayOfWeek": "Thursday",
+    "time": "6:00 PM",
+    "title": "Finance Networking Night",
+    "location": "IKB 302 Dodson Room, UBC",
+    "source": "https://www.instagram.com/p/DPuUunSkmdw/",
+    "food": "Light Refreshments",
+    "description": "Connect with finance and banking professionals through round-table sessions and open networking during this exclusive evening event."
+  },
+  {
+    "date": "Oct 23",
+    "dayOfWeek": "Thursday",
     "time": "7:00 PM",
     "title": "AI Safety Term Social",
     "location": "Abdul Ladha Science Student Centre (Second Floor)",
@@ -483,6 +523,17 @@
     "food": "Dinner and Snacks",
     "description": "Connect with peers across disciplines, share your AI insights, join light activities, and enjoy food and conversation in a relaxed social setting."
   },
+  {
+    "date": "Oct 24",
+    "dayOfWeek": "Friday",
+    "time": "12:00 PM",
+    "title": "Sprouts Community Eats",
+    "location": "Sprouts Café",
+    "source": "https://www.instagram.com/p/DPeu6YogbDv/",
+    "food": "Meal",
+    "description": "Drop by Sprouts Café for a free community meal, just bring your own container and utensils!"
+  },
+
   {
     "date": "Oct 24",
     "dayOfWeek": "Friday",
@@ -496,12 +547,12 @@
   {
     "date": "Oct 24",
     "dayOfWeek": "Friday",
-    "time": "12:00 PM",
-    "title": "Sprouts Community Eats",
-    "location": "Sprouts Café",
-    "source": "https://www.instagram.com/p/DPeu6YogbDv/",
-    "food": "Meal",
-    "description": "Drop by Sprouts Café for a free community meal, just bring your own container and utensils!"
+    "time": "5:30 PM",
+    "title": "Halloween Pumpkin Painting + DIY Room Decor",
+    "location": "Arts Student Centre, First Floor",
+    "source": "https://www.instagram.com/p/DPus_evCR0R/",
+    "food": "Baked Goods and Refreshments",
+    "description": "Unwind after midterms with pumpkin painting, DIY crafts, snacks, and cozy fall vibes—decorate your own mini pumpkin and meet new people!"
   },
   {
     "date": "Oct 26",
