@@ -349,7 +349,7 @@
   },
   {
     "date": "Oct 16",
-    "dayOfWeek": "Tuesday",
+    "dayOfWeek": "Thursday",
     "time": "6:30 PM",
     "title": "Thai Red Curry Community Dinner",
     "location": "Agora Cafe",
@@ -464,6 +464,16 @@
     "date": "Oct 20",
     "dayOfWeek": "Monday",
     "time": "5:30 PM",
+    "title": "Bingo Night",
+    "location": "šxʷta:təxʷəm student space",
+    "source": "https://www.instagram.com/p/DP1smAXj2Yn/",
+    "food": "Snacks",
+    "description": "Take a study break with snacks, prizes, and a fun round of bingo with friends!"
+  },
+  {
+    "date": "Oct 20",
+    "dayOfWeek": "Monday",
+    "time": "5:30 PM",
     "title": "BUCS Night 1",
     "location": "UBC Sauder, Big 4 Conference Room",
     "source": "https://docs.google.com/forms/d/e/1FAIpQLSdpCjSCkf78Y3h1Cx15yA064x946LBsE7Kvyw1Rc1JP4TQ-DA/viewform",
@@ -501,16 +511,6 @@
     "food": "Food and Refreshments",
     "description": "Curious about marketing?  Want to get your name out there through our case competition? Join us for a fun evening of workshops, networking, and FREE FOOD! 😋",
     "new": false
-  },
-  {
-    "date": "Oct 21",
-    "dayOfWeek": "Monday",
-    "time": "5:30 PM",
-    "title": "Bingo Night",
-    "location": "šxʷta:təxʷəm student space",
-    "source": "https://www.instagram.com/p/DP1smAXj2Yn/",
-    "food": "Snacks",
-    "description": "Take a study break with snacks, prizes, and a fun round of bingo with friends!"
   },
   {
     "date": "Oct 21",
