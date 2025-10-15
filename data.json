@@ -330,12 +330,32 @@
   {
     "date": "Oct 16",
     "dayOfWeek": "Thursday",
+    "time": "5:00 PM",
+    "title": "Hot Chocolate and Chill",
+    "location": "HENN 307 Lounge",
+    "source": "https://www.instagram.com/p/DPzq9QbEiAh/",
+    "food": "Hot Chocolate with Marshmallows and Whipped Cream",
+    "description": "Relax with free hot chocolate, board games, and friends—bring your own mug or use a paper cup!"
+  },
+  {
+    "date": "Oct 16",
+    "dayOfWeek": "Thursday",
     "time": "6:00 PM",
     "title": "Vancouver Premiere of Frieda's Case",
     "location": "IKB",
     "source": "https://www.eventbrite.ca/e/friedas-fall-free-film-screening-tickets-1755247264819",
     "food": "Pizza",
     "description": "Watch the award-winning Swiss historical drama Frieda's Case followed by a Q&A and discussion with Dr. Florian Gassner and a Swiss researcher."
+  },
+  {
+    "date": "Oct 16",
+    "dayOfWeek": "Tuesday",
+    "time": "6:30 PM",
+    "title": "Thai Red Curry Community Dinner",
+    "location": "Agora Cafe",
+    "source": "https://www.instagram.com/p/DP1ZqsMkaDn/",
+    "food": "Thai Red Curry (spicy and non-spicy versions)",
+    "description": "Enjoy a cozy community dinner with Thai red curry—bring your own container and utensils for a sustainable meal!"
   },
   {
     "date": "Oct 17",
@@ -453,6 +473,16 @@
   {
     "date": "Oct 21",
     "dayOfWeek": "Tuesday",
+    "time": "10:30 AM",
+    "title": "3Cs with Dr. Alessandro Mongili",
+    "location": "POND G Office Annex Lounge",
+    "source": "https://www.instagram.com/p/DPUoRsjDHVi/",
+    "food": "Coffee and Tea",
+    "description": "Join Dr. Alessandro Mongili for a talk on technology in the margins of Europe while connecting with the Anthropology community over coffee and conversation."
+  },
+  {
+    "date": "Oct 21",
+    "dayOfWeek": "Tuesday",
     "time": "5:00 PM",
     "title": "Free Produce Market",
     "location": "Sprouts Cafe",
@@ -474,13 +504,23 @@
   },
   {
     "date": "Oct 21",
+    "dayOfWeek": "Monday",
+    "time": "5:30 PM",
+    "title": "Bingo Night",
+    "location": "šxʷta:təxʷəm student space",
+    "source": "https://www.instagram.com/p/DP1smAXj2Yn/",
+    "food": "Snacks",
+    "description": "Take a study break with snacks, prizes, and a fun round of bingo with friends!"
+  },
+  {
+    "date": "Oct 21",
     "dayOfWeek": "Tuesday",
-    "time": "10:30 AM",
-    "title": "3Cs with Dr. Alessandro Mongili",
-    "location": "POND G Office Annex Lounge",
-    "source": "https://www.instagram.com/p/DPUoRsjDHVi/",
-    "food": "Coffee and Tea",
-    "description": "Join Dr. Alessandro Mongili for a talk on technology in the margins of Europe while connecting with the Anthropology community over coffee and conversation."
+    "time": "6:30 PM",
+    "title": "Journal Club with Dr. Kurt Haas",
+    "location": "DMCBH 3402, 2194 Health Sciences Mall",
+    "source": "https://www.instagram.com/p/DP1reuvD0-3/",
+    "food": "Pizza and Drinks",
+    "description": "Join the Neuroscience Association’s journal club to discuss brain circuitry and ASD research with Dr. Kurt Haas while enjoying free pizza and drinks!"
   },
   {
     "date": "Oct 22",
