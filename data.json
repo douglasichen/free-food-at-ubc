@@ -267,6 +267,27 @@
   {
     "date": "Oct 16",
     "dayOfWeek": "Thursday",
+    "time": "10:00 AM",
+    "title": "BIPOC Coffee Hour",
+    "location": "ANSO Building",
+    "source": "https://anth.ubc.ca/events/event/bipoc-coffee-hour/",
+    "food": "Refreshments",
+    "description": "Connect with fellow BIPOC students in a welcoming space and enjoy light refreshments together.",
+    "new": false
+  },
+  {
+    "date": "Oct 16",
+    "dayOfWeek": "Thursday",
+    "time": "11:00 AM",
+    "title": "World Food Day",
+    "location": "UBC Bookstore Plaza",
+    "source": "https://food.ubc.ca/event/ubc-world-food-day-oct-16/",
+    "food": "Free Samples",
+    "description": "Explore hands-on stations on food security and sustainability, enjoy a cooking demo with samples, crafts, prizes, and resources from UBC partners."
+  },
+  {
+    "date": "Oct 16",
+    "dayOfWeek": "Thursday",
     "time": "12:30 PM",
     "title": "Dr. Helena Zeweri Talk",
     "location": "ANSO 134",
@@ -285,27 +306,6 @@
     "food": "Lunch",
     "description": "If you are a Black undergraduate student looking for full-time research opportunities in Summer 2026, the UBC Career Centre is conducting info-sessions specifically for Black students interested in applying for Undergraduate Students Research Awards (USRA)",
     "new": false
-  },
-  {
-    "date": "Oct 16",
-    "dayOfWeek": "Thursday",
-    "time": "10:00 AM",
-    "title": "BIPOC Coffee Hour",
-    "location": "ANSO Building",
-    "source": "https://anth.ubc.ca/events/event/bipoc-coffee-hour/",
-    "food": "Refreshments",
-    "description": "Connect with fellow BIPOC students in a welcoming space and enjoy light refreshments together.",
-    "new": false
-  },
-  {
-    "date": "Oct 16",
-    "dayOfWeek": "Thursday",
-    "time": "11:00 AM",
-    "title": "World Food Day",
-    "location": "UBC Bookstore Plaza",
-    "source": "https://food.ubc.ca/event/ubc-world-food-day-oct-16/",
-    "food": "Free Samples",
-    "description": "Explore hands-on stations on food security and sustainability, enjoy a cooking demo with samples, crafts, prizes, and resources from UBC partners."
   },
   {
     "date": "Oct 16",
