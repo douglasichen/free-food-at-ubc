@@ -515,6 +515,16 @@
   {
     "date": "Oct 21",
     "dayOfWeek": "Tuesday",
+    "time": "5:00 PM",
+    "title": "Weekly Social: Group Pomodoro Study Session",
+    "location": "Iona Lounge",
+    "source": "https://www.instagram.com/p/DP5OHdJEYBi/",
+    "food": "Snacks",
+    "description": "Join the Cognitive Systems Society for a fun group pomodoro study session with snacks, merch, and collective doom scrolling!"
+  },
+  {
+    "date": "Oct 21",
+    "dayOfWeek": "Tuesday",
     "time": "6:30 PM",
     "title": "Women's Centre General Meeting",
     "location": "The Nest, Room 2114",
@@ -567,6 +577,16 @@
     "date": "Oct 23",
     "dayOfWeek": "Thursday",
     "time": "12:30 PM",
+    "title": "Beef & Pizza",
+    "location": "SWNG 121",
+    "source": "https://www.instagram.com/p/DP4s3piEilF/",
+    "food": "Pizza",
+    "description": "Join Fizz Council to chat about your classes, share feedback, and grab a free slice of pizza!"
+  },
+  {
+    "date": "Oct 23",
+    "dayOfWeek": "Thursday",
+    "time": "12:30 PM",
     "title": "Beef and Pizza (ENVL Year 3)",
     "location": "CHBE DDS 2nd Floor",
     "source": "https://www.instagram.com/p/DP1Yk41DiJS/",
@@ -592,6 +612,16 @@
     "source": "https://www.instagram.com/p/DP1Yk41DiJS/",
     "food": "Pizza",
     "description": "Give your Year 2 ENVL course feedback and enjoy some free pizza at this casual event!"
+  },
+  {
+    "date": "Oct 23",
+    "dayOfWeek": "Thursday",
+    "time": "5:30 PM",
+    "title": "Spooktacular Study Social",
+    "location": "IBLC 461 (in IKB)",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLScnbqkz0cThy8b4HZx9ZfOrGFjb7_rTxeAIEP6Rsq7X0cXQQA/viewform",
+    "food": "Snacks",
+    "description": "Join UBC Women in Science for a cozy Halloween-themed study night filled with snacks, music, and good vibes!"
   },
   {
     "date": "Oct 23",
@@ -718,6 +748,16 @@
     "food": "Catering",
     "description": "Join thought-provoking talks and discussions on language barriers, linguistic justice, and the dominance of English at universities—all with catered food to enjoy.",
     "new": false
+  },
+  {
+    "date": "Oct 29",
+    "dayOfWeek": "Wednesday",
+    "time": "6:30 PM",
+    "title": "Halloween Tote Bag Painting",
+    "location": "Henry Angus 334",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSdWnJ6ElyI80nfHSmnvWs9omAhzFsdDSEBSDALP844IDPE1bQ/viewform",
+    "food": "Snacks and Light Refreshments",
+    "description": "Take a cozy midterm break with a creative evening of tote bag painting—materials, snacks, and good vibes provided!"
   },
   {
     "date": "Oct 30",
