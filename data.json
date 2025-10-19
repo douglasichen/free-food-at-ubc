@@ -545,6 +545,16 @@
   {
     "date": "Oct 22",
     "dayOfWeek": "Wednesday",
+    "time": "1:00 PM",
+    "title": "UBC Kaffeestunde",
+    "location": "Buchanan Tower Room 910",
+    "source": "https://www.instagram.com/p/DP_8w5XjwNX/",
+    "food": "Tea, Coffee, and Snacks",
+    "description": "Join the UBC German Studies community for an afternoon of tea, coffee, snacks, and friendly conversation in both English and German."
+  },
+  {
+    "date": "Oct 22",
+    "dayOfWeek": "Wednesday",
     "time": "5:00 PM",
     "title": "Slice of Soci",
     "location": "Arts Student Centre",
@@ -562,6 +572,16 @@
     "food": "Pizza",
     "description": "Meet Kiewit reps, explore their big engineering and construction projects, and learn about career opportunities—all with free pizza.",
     "new": false
+  },
+  {
+    "date": "Oct 22",
+    "dayOfWeek": "Wednesday",
+    "time": "6:00 PM",
+    "title": "AUS AGM Watch Party",
+    "location": "ASC Floor 1",
+    "source": "https://www.instagram.com/p/DQAAX1qDicZ/",
+    "food": "Pizza",
+    "description": "Watch the AMS General Meeting on the big screen with the Arts Undergraduate Society and enjoy free pizza while tuning in!"
   },
   {
     "date": "Oct 23",
