@@ -1,445 +1,5 @@
 [
   {
-    "date": "Oct 9",
-    "dayOfWeek": "Thursday",
-    "time": "12:00 PM",
-    "title": "CIS & AISA Community Soup Lunch",
-    "location": "CIS Meeting Room, Buchanan E Room 273",
-    "source": "https://www.instagram.com/p/DPeeriNgMkx/",
-    "food": "Soup",
-    "description": "Warm up with a bowl of soup and good company at the CIS & AISA Community Soup Lunch."
-  },
-  {
-    "date": "Oct 9",
-    "dayOfWeek": "Thursday",
-    "time": "5:00 PM",
-    "title": "UBC Players Club Industry Event",
-    "location": "Great Hall North, AMS Student Nest",
-    "source": "https://www.instagram.com/p/DPkc77EkR-a/",
-    "food": "Pizza and Pop + Vegan Options",
-    "description": "Join the UBC Players Club for an exciting evening of panel presentations, speaker talks, and a swordfight demo. Enjoy free pizza, drinks, and a raffle for UBC Players Club merchandise!"
-  },
-  {
-    "date": "Oct 9",
-    "dayOfWeek": "Thursday",
-    "time": "5:00 PM",
-    "title": "Theatre & Film Industry Networking Event",
-    "location": "TBD (UBC Campus)",
-    "source": "https://www.instagram.com/p/DPNf4FLEfj9/?igsh=Z2Jnb2pua3BuOHlk",
-    "food": "Snacks",
-    "description": "Network with industry professionals, UBC clubs, and professors while learning how to get involved in theatre and film—plus enjoy free snacks along the way."
-  },
-  {
-    "date": "Oct 9",
-    "dayOfWeek": "Thursday",
-    "time": "5:30 PM",
-    "title": "Actuary 101 + ASNA Info Session",
-    "location": "TBA",
-    "source": "https://www.instagram.com/p/DPXx64RkUuu/",
-    "food": "Donuts",
-    "description": "Learn about the actuarial career path, get exam and internship tips, and connect with upper-year students and actuarial interns."
-  },
-  {
-    "date": "Oct 9",
-    "dayOfWeek": "Thursday",
-    "time": "6:00 PM",
-    "title": "SISA: Friends Giving",
-    "location": "Henry Angus, Birmingham",
-    "source": "https://forms.gle/kigndKdAypCsuZ1cA",
-    "food": "Dinner and Desserts",
-    "description": "Enjoy a free night of dinner, desserts, games, and a photo booth while hanging out with friends and community.",
-    "new": false
-  },
-  {
-    "date": "Oct 9",
-    "dayOfWeek": "Thursday",
-    "time": "6:00 PM",
-    "title": "USU Social @ Koerner's",
-    "location": "Koerner's Pub (1758 West Mall)",
-    "source": "https://www.instagram.com/p/DPUS-69j3c2/",
-    "food": "Snacks and Dessert",
-    "description": "Join the Ukrainian Student Union for a fun social night with games, snacks, and conversations to meet new members and grow the community."
-  },
-  {
-    "date": "Oct 9",
-    "dayOfWeek": "Thursday",
-    "time": "6:30 PM",
-    "title": "Community Dinner: Sweet Potato, Cauliflower & Spinach Dahl",
-    "location": "Agora Cafe",
-    "source": "https://www.instagram.com/p/DPjcLDlkYgV/?hl=en",
-    "food": "Sweet Potato, Cauliflower & Spinach Dahl",
-    "description": "Enjoy a cozy vegan community dinner at Agora Cafe featuring sweet potato, cauliflower, and spinach dahl. Bring your own container and utensils."
-  },
-  {
-    "date": "Oct 10",
-    "dayOfWeek": "Friday",
-    "time": "9:00 AM",
-    "title": "Come Out for Brunch",
-    "location": "Abdul Ladha",
-    "source": "https://docs.google.com/forms/d/e/1FAIpQLSc3QcCV1IR-gurgwHY-9WFi3B7lckYXlBxQ3L7pBVyWAfzVPw/viewform",
-    "food": "Brunch",
-    "description": "Celebrate National Coming Out Day with a joyful brunch featuring drag performances, community, and good vibes."
-  },
-  {
-    "date": "Oct 10",
-    "dayOfWeek": "Friday",
-    "time": "12:00 PM",
-    "title": "Sprouts Community Eats",
-    "location": "Sprouts Café",
-    "source": "https://www.instagram.com/p/DPeu6YogbDv/",
-    "food": "Meal",
-    "description": "Drop by Sprouts Café for a free community meal, just bring your own container and utensils!"
-  },
-  {
-    "date": "Oct 10",
-    "dayOfWeek": "Friday",
-    "time": "4:00 PM",
-    "title": "AMS Signs: First Social",
-    "location": "IKB, Room 264",
-    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfTfy-XL0QeMCo3oLEOp7f4WQUAVQKP4dkanwJTVo7i3h2mzw/viewform",
-    "food": "Snacks",
-    "description": "Hang out with fellow ASL enthusiasts for a fun evening of snacks, fingerspelling, and good vibes—open to both members and non-members!"
-  },
-  {
-    "date": "Oct 10",
-    "dayOfWeek": "Friday",
-    "time": "5:00 PM",
-    "title": "Pride UBC General Meeting",
-    "location": "LIFE 2212",
-    "source": "https://www.instagram.com/p/DOaEKtxkfIN/?hl=en",
-    "food": "Food",
-    "description": "Join the Pride Collective for weekly general meetings with food, budget voting, and community updates on queer resources and events around UBC."
-  },
-  {
-    "date": "Oct 10",
-    "dayOfWeek": "Friday",
-    "time": "5:00 PM",
-    "title": "Clothing Drive & Swap",
-    "location": "NEST 2504",
-    "source": "https://www.instagram.com/p/DPK129sEb_F/?igsh=dW16bjZ3NWcycTlw",
-    "food": "Refreshments",
-    "description": "Refresh your wardrobe & give back! 👕✨",
-    "new": false
-  },
-  {
-    "date": "Oct 10",
-    "dayOfWeek": "Friday",
-    "time": "5:00 PM",
-    "title": "Water, Power, and the Carbon Politics of Computing",
-    "location": "IKB, Room 265",
-    "source": "https://www.instagram.com/p/DPh9mPikeCB/",
-    "food": "Snacks",
-    "description": "Explore how AI impacts the environment through its energy use, water consumption, and carbon footprint in this interactive policy reading session."
-  },
-  {
-    "date": "Oct 12",
-    "dayOfWeek": "Sunday",
-    "time": "10:00 AM",
-    "title": "TFFRA UBC Botanical Garden Greenheart Treewalk",
-    "location": "UBC Botanical Garden",
-    "source": "https://docs.google.com/forms/d/e/1FAIpQLSf9ncNovk7_nvA_zbFreA93CPPhi5lZmzJ0db5px73kR6xOrA/viewform",
-    "food": "Ice Cream",
-    "description": "Join a fun morning treewalk at the UBC Botanical Garden and enjoy some ice cream afterwards!"
-  },
-  {
-    "date": "Oct 12",
-    "dayOfWeek": "Sunday",
-    "time": "1:00 PM",
-    "title": "Atelier: UBC #103",
-    "location": "Orchard Commons Room 3018",
-    "source": "https://luma.com/cxxyipi5",
-    "food": "Snacks",
-    "description": "Calling all artists, engineers, writers, programmers, and makers of every kind—explore your curiosity, build passion projects, and share your creations with a supportive community.",
-    "new": false
-  },
-  {
-    "date": "Oct 14",
-    "dayOfWeek": "Tuesday",
-    "time": "11:00 AM",
-    "title": "Coffee Boothing",
-    "location": "CPA Hall",
-    "source": "https://www.instagram.com/p/DPolGfrEX3W/",
-    "food": "Coffee",
-    "description": "Grab a free cup of coffee from the Commerce Community Booth to kickstart your morning!"
-  },
-  {
-    "date": "Oct 14",
-    "dayOfWeek": "Tuesday",
-    "time": "12:00 PM",
-    "title": "Free Produce Market",
-    "location": "Sprouts Cafe",
-    "source": "https://www.instagram.com/p/DPCVRNyEplr/",
-    "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
-    "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
-    "new": false
-  },
-  {
-    "date": "Oct 14",
-    "dayOfWeek": "Tuesday",
-    "time": "1:00 PM",
-    "title": "Black Student Researchers Info-Session",
-    "location": "Black Student Space",
-    "source": "https://www.instagram.com/p/DPM9ti7kpCm/?utm_source=ig_web_copy_link",
-    "food": "Lunch",
-    "description": "If you are a Black undergraduate student looking for full-time research opportunities in Summer 2026, the UBC Career Centre is conducting info-sessions specifically for Black students interested in applying for Undergraduate Students Research Awards (USRA)",
-    "new": false
-  },
-  {
-    "date": "Oct 14",
-    "dayOfWeek": "Tuesday",
-    "time": "3:00 PM",
-    "title": "Girls, Gays, & Theys Afternoon Tea",
-    "location": "CEME 1203",
-    "source": "https://www.instagram.com/p/DPjycIiAWAz/",
-    "food": "Tea and Sweet Treats",
-    "description": "Relax with Club Mech & Gears and Queers for an afternoon tea featuring a selection of teas, sweet treats, and great company. All women, queer, allied, and gender non-conforming folks are welcome."
-  },
-  {
-    "date": "Oct 14",
-    "dayOfWeek": "Tuesday",
-    "time": "5:00 PM",
-    "title": "DSCI 100 Study Social",
-    "location": "BUCH B215",
-    "source": "https://www.instagram.com/p/DPkiw7QkffB/",
-    "food": "Snacks and Refreshments",
-    "description": "Join WiDS@UBC and USS for a DSCI 100 Study Social where you can study with friends, get mentor advice, and enjoy snacks and refreshments while preparing for your midterm."
-  },
-  {
-    "date": "Oct 14",
-    "dayOfWeek": "Tuesday",
-    "time": "5:00 PM",
-    "title": "Collage Night",
-    "location": "The Nest, Room 2514",
-    "source": "https://www.instagram.com/p/DPw6Dyjkt9n/",
-    "food": "Snacks",
-    "description": "Join Vegans of UBC for a fun artsy collage night with free snacks—bring your own scissors, glue, and magazines to get creative!"
-  },
-  {
-    "date": "Oct 14",
-    "dayOfWeek": "Tuesday",
-    "time": "5:30 PM",
-    "title": "FHM x UBC Pride Collective Thanksgiving Dinner",
-    "location": "BC Hydro Theatre, CIRS",
-    "source": "https://docs.google.com/forms/d/e/1FAIpQLSe_S-nfIeF80dFcy_GwLbFM1M8kkgxxsHkYXrMwBhxCjeL0-A/viewform",
-    "food": "Dinner",
-    "description": "Celebrate a 'friendsgiving' dinner connecting the UBC community over comforting dishes, storytelling, and inclusive conversations on food security and queer identities."
-  },
-  {
-    "date": "Oct 14",
-    "dayOfWeek": "Tuesday",
-    "time": "6:30 PM",
-    "title": "Potato & Leek Soup Community Dinner",
-    "location": "Agora Cafe",
-    "source": "https://www.instagram.com/p/DPxnY0GDjgV/",
-    "food": "Potato & Leek Soup with Rice/Pita",
-    "description": "Enjoy a cozy community dinner with warm potato and leek soup—just bring your own container and utensils!"
-  },
-  {
-    "date": "Oct 15",
-    "dayOfWeek": "Wednesday",
-    "time": "4:30 PM",
-    "title": "Study with A(US)",
-    "location": "ASC Second Floor",
-    "source": "https://www.instagram.com/p/DPuFvBdDspi/",
-    "food": "Pumpkin Spice Latte",
-    "description": "Cozy up for a chill study session with pumpkin spice lattes, a crackling projector fireplace, and perfect fall vibes."
-  },
-  {
-    "date": "Oct 15",
-    "dayOfWeek": "Wednesday",
-    "time": "6:00 PM",
-    "title": "UBC Greens General Meeting",
-    "location": "TBD",
-    "source": "https://www.bouncelife.com/events/68dde83d35ff0484f1b0ce54",
-    "food": "Refreshments",
-    "description": "Share your thoughts on upcoming projects and initiatives while connecting with other UBC Green members over refreshments."
-  },
-  {
-    "date": "Oct 15",
-    "dayOfWeek": "Wednesday",
-    "time": "6:00 PM",
-    "title": "EUS Tutoring Session: CHEM 154 & PHYS 170",
-    "location": "KAIS 2020",
-    "source": "https://www.instagram.com/p/DPw7t-CkjRp/",
-    "food": "Pizza",
-    "description": "Get midterm help for CHEM 154 and PHYS 170 with review packages, upper-year tutors, and free pizza to keep you fueled while you study!"
-  },
-  {
-    "date": "Oct 16",
-    "dayOfWeek": "Thursday",
-    "time": "10:00 AM",
-    "title": "BIPOC Coffee Hour",
-    "location": "ANSO Building",
-    "source": "https://anth.ubc.ca/events/event/bipoc-coffee-hour/",
-    "food": "Refreshments",
-    "description": "Connect with fellow BIPOC students in a welcoming space and enjoy light refreshments together.",
-    "new": false
-  },
-  {
-    "date": "Oct 16",
-    "dayOfWeek": "Thursday",
-    "time": "11:00 AM",
-    "title": "World Food Day",
-    "location": "UBC Bookstore Plaza",
-    "source": "https://food.ubc.ca/event/ubc-world-food-day-oct-16/",
-    "food": "Free Samples",
-    "description": "Explore hands-on stations on food security and sustainability, enjoy a cooking demo with samples, crafts, prizes, and resources from UBC partners."
-  },
-  {
-    "date": "Oct 16",
-    "dayOfWeek": "Thursday",
-    "time": "12:30 PM",
-    "title": "Dr. Helena Zeweri Talk",
-    "location": "ANSO 134",
-    "source": "https://anth.ubc.ca/colloquia-series-rsvp-dr-helena-zeweri-oct-16-2025/",
-    "food": "Refreshments",
-    "description": "Join a talk exploring how deterrence border regimes impact Afghan Hazara communities, with reflections on social dislocation, refuge, and resilience.",
-    "new": false
-  },
-  {
-    "date": "Oct 16",
-    "dayOfWeek": "Thursday",
-    "time": "1:00 PM",
-    "title": "Black Student Researchers Info-Session",
-    "location": "Black Student Space",
-    "source": "https://www.instagram.com/p/DPM9ti7kpCm/?utm_source=ig_web_copy_link",
-    "food": "Lunch",
-    "description": "If you are a Black undergraduate student looking for full-time research opportunities in Summer 2026, the UBC Career Centre is conducting info-sessions specifically for Black students interested in applying for Undergraduate Students Research Awards (USRA)",
-    "new": false
-  },
-  {
-    "date": "Oct 16",
-    "dayOfWeek": "Thursday",
-    "time": "4:00 PM",
-    "title": "Sprouts Mushroom Walk",
-    "location": "Pacific Spirit Park (Douglas Fir Trailhead, near Wesbrook Village)",
-    "source": "https://docs.google.com/forms/d/e/1FAIpQLSdrcF4WE63HBfvGKowJU3fjIrkDA8K-PUkzchIAJ_j3gyGqJg/viewform",
-    "food": "Snacks",
-    "description": "Join Sprouts and UBC's mushroom expert Dr. Monika Fischer for a guided walk through Pacific Spirit Park to learn about local mushrooms and enjoy provided snacks. Not a foraging trip!"
-  },
-  {
-    "date": "Oct 16",
-    "dayOfWeek": "Thursday",
-    "time": "4:00 PM",
-    "title": "Cuban Salsa - Intercultural Physical Activity Series",
-    "location": "SRC Gym 1",
-    "source": "https://ubc.perfectmind.com/24063/Classes/BookMe4LandingPages/CoursesLandingPage?courseId=fc02b773-ba1f-4df5-b1d3-acca7d3b85ea",
-    "food": "Snacks",
-    "description": "Learn and dance Cuban salsa with the UBC Salsa Rueda Club while celebrating culture, music, and movement in this fun and free session."
-  },
-  {
-    "date": "Oct 16",
-    "dayOfWeek": "Thursday",
-    "time": "5:00 PM",
-    "title": "Hot Chocolate and Chill",
-    "location": "HENN 307 Lounge",
-    "source": "https://www.instagram.com/p/DPzq9QbEiAh/",
-    "food": "Hot Chocolate with Marshmallows and Whipped Cream",
-    "description": "Relax with free hot chocolate, board games, and friends—bring your own mug or use a paper cup!"
-  },
-  {
-    "date": "Oct 16",
-    "dayOfWeek": "Thursday",
-    "time": "6:00 PM",
-    "title": "Vancouver Premiere of Frieda's Case",
-    "location": "IKB",
-    "source": "https://www.eventbrite.ca/e/friedas-fall-free-film-screening-tickets-1755247264819",
-    "food": "Pizza",
-    "description": "Watch the award-winning Swiss historical drama Frieda's Case followed by a Q&A and discussion with Dr. Florian Gassner and a Swiss researcher."
-  },
-  {
-    "date": "Oct 16",
-    "dayOfWeek": "Thursday",
-    "time": "6:30 PM",
-    "title": "Thai Red Curry Community Dinner",
-    "location": "Agora Cafe",
-    "source": "https://www.instagram.com/p/DP1ZqsMkaDn/",
-    "food": "Thai Red Curry (spicy and non-spicy versions)",
-    "description": "Enjoy a cozy community dinner with Thai red curry—bring your own container and utensils for a sustainable meal!"
-  },
-  {
-    "date": "Oct 17",
-    "dayOfWeek": "Friday",
-    "time": "12:00 PM",
-    "title": "Sprouts Community Eats",
-    "location": "Sprouts Café",
-    "source": "https://www.instagram.com/p/DPeu6YogbDv/",
-    "food": "Meal",
-    "description": "Drop by Sprouts Café for a free community meal, just bring your own container and utensils!"
-  },
-  {
-    "date": "Oct 17",
-    "dayOfWeek": "Friday",
-    "time": "4:00 PM",
-    "title": "Barista Club Study Session",
-    "location": "Room 2514, Nest",
-    "source": "https://www.instagram.com/p/DPkVynOElU8/",
-    "food": "Drinks and Snacks",
-    "description": "Join the AMS Barista Club for a cozy study session with free coffee and snacks. Meet other coffee and tea enthusiasts, study together, and unwind during midterm season."
-  },
-  {
-    "date": "Oct 17",
-    "dayOfWeek": "Friday",
-    "time": "5:00 PM",
-    "title": "WiDS@UBC AlumNight",
-    "location": "Abdul Ladha Science Student Centre",
-    "source": "https://qualtricsxmq8jpscv2q.qualtrics.com/jfe/form/SV_08MylcJ3lCrhXH8",
-    "food": "Dinner",
-    "description": "Reconnect with the Women in Data Science community over dinner, roundtable discussions, and inspiring talks celebrating stories and mentorship in data science."
-  },
-  {
-    "date": "Oct 17",
-    "dayOfWeek": "Friday",
-    "time": "5:00 PM",
-    "title": "Lift-Off: UBC Startups Launch Event",
-    "location": "Nest Room 2306/2309",
-    "source": "https://luma.com/37mfta4u",
-    "food": "Snacks",
-    "description": "Join fellow students to tackle real startup challenges, pitch ideas, vote on the most fundable visions, and network with the UBC startup community."
-  },
-  {
-    "date": "Oct 17",
-    "dayOfWeek": "Friday",
-    "time": "5:00 PM",
-    "title": "Pride UBC General Meeting",
-    "location": "LIFE 2212",
-    "source": "https://www.instagram.com/p/DOaEKtxkfIN/?hl=en",
-    "food": "Food",
-    "description": "Join the Pride Collective for weekly general meetings with food, budget voting, and community updates on queer resources and events around UBC."
-  },
-  {
-    "date": "Oct 17",
-    "dayOfWeek": "Friday",
-    "time": "6:00 PM",
-    "title": "Amplify",
-    "location": "Bruce R. Birmingham Undergraduate Centre",
-    "source": "https://docs.google.com/forms/d/e/1FAIpQLSczEewcrazgHOaiLhlB1YxeMLdtlKzZ7RZcitfE_5dR3JWzjQ/viewform",
-    "food": "Sandwiches and Dinner",
-    "description": "Learn strategies for academic success and network with Sauder professors and students over a free dinner featuring homemade sandwiches from Jo’s Italian Deli."
-  },
-  {
-    "date": "Oct 18",
-    "dayOfWeek": "Saturday",
-    "time": "10:00 AM",
-    "title": "In Tune With Your Brain: The Power of Music",
-    "location": "UBC School of Music",
-    "source": "https://www.eventbrite.ca/e/in-tune-with-your-brain-the-power-of-music-tickets-1696214867329?aff=ebdssbdestsearch&keep_tld=1",
-    "food": "Lunch",
-    "description": "Discover how music shapes the brain through inspiring talks, live performances, and interactive discussions that blend science, wellness, and creativity.",
-    "new": false
-  },
-  {
-    "date": "Oct 19",
-    "dayOfWeek": "Sunday",
-    "time": "1:00 PM",
-    "title": "Atelier: UBC #104",
-    "location": "Orchard Commons Room 3018",
-    "source": "https://luma.com/ycz30t7p",
-    "food": "Snacks",
-    "description": "Calling all artists, engineers, writers, programmers, and makers of every kind—explore your curiosity, build passion projects, and share your creations with a supportive community.",
-    "new": false
-  },
-  {
     "date": "Oct 20",
     "dayOfWeek": "Monday",
     "time": "12:00 PM",
@@ -516,6 +76,16 @@
     "date": "Oct 21",
     "dayOfWeek": "Tuesday",
     "time": "6:30 PM",
+    "title": "Community Dinner: Mystery Soup?!",
+    "location": "Agora Cafe",
+    "source": "https://www.instagram.com/p/DQCNKyPEUjh/",
+    "food": "Mystery Soup",
+    "description": "Bring your own container and utensils for a cozy community dinner featuring a surprise vegan and vegetarian soup—no RSVP needed!"
+  },
+  {
+    "date": "Oct 21",
+    "dayOfWeek": "Tuesday",
+    "time": "6:30 PM",
     "title": "Women's Centre General Meeting",
     "location": "The Nest, Room 2114",
     "source": "https://www.instagram.com/p/DP2hl5BCZ_I/",
@@ -576,6 +146,16 @@
   {
     "date": "Oct 22",
     "dayOfWeek": "Wednesday",
+    "time": "5:00 PM",
+    "title": "Technical Paper Reading Group: Safety Evaluations",
+    "location": "IKB Room 263",
+    "source": "https://luma.com/t53tz9vc",
+    "food": "Dinner",
+    "description": "Dive deep into AI safety evaluations—discussing how to assess model safety, compare methods, and explore the strengths and weaknesses of current approaches over dinner."
+  },
+  {
+    "date": "Oct 22",
+    "dayOfWeek": "Wednesday",
     "time": "6:00 PM",
     "title": "AUS AGM Watch Party",
     "location": "ASC Floor 1",
@@ -622,6 +202,26 @@
     "source": "https://www.instagram.com/p/DP1Yk41DiJS/",
     "food": "Pizza",
     "description": "Give your Year 2 ENVL course feedback and enjoy some free pizza at this casual event!"
+  },
+  {
+    "date": "Oct 23",
+    "dayOfWeek": "Thursday",
+    "time": "5:30 PM",
+    "title": "Volunteer Social",
+    "location": "Agora Cafe",
+    "source": "https://www.instagram.com/p/DQAamqTEnCv/",
+    "food": "Dinner and Pumpkin Cake",
+    "description": "Join Agora Cafe’s volunteer social for a night of arts and crafts, good food, and great company—don’t forget your container and utensils!"
+  },
+  {
+    "date": "Oct 23",
+    "dayOfWeek": "Thursday",
+    "time": "5:30 PM",
+    "title": "UBC PLS Info Session",
+    "location": "UBC PharmSci Building, Room 3101",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSeNhhIbXiJEKPWm26In6v57um36cWckIYiikoik00ebGAd5fA/viewform",
+    "food": "Dinner",
+    "description": "Join PLS for an info night with dinner, raffle prizes, and a chance to meet the Executive Team while learning about the Pharmacy Leadership Society and how to apply."
   },
   {
     "date": "Oct 23",
@@ -687,6 +287,16 @@
   {
     "date": "Oct 24",
     "dayOfWeek": "Friday",
+    "time": "5:00 PM",
+    "title": "Policy Reading Group: Governing AI Beyond the West",
+    "location": "IKB",
+    "source": "https://luma.com/gjxwigpi",
+    "food": "Snacks",
+    "description": "Join the AI Policy Reading Group to explore global approaches to AI governance beyond the Western context—no prior experience required!"
+  },
+  {
+    "date": "Oct 24",
+    "dayOfWeek": "Friday",
     "time": "5:30 PM",
     "title": "Halloween Pumpkin Painting + DIY Room Decor",
     "location": "Arts Student Centre, First Floor",
@@ -715,7 +325,6 @@
     "description": "Calling all artists, engineers, writers, programmers, and makers of every kind—explore your curiosity, build passion projects, and share your creations with a supportive community.",
     "new": false
   },
-
   {
     "date": "Oct 27",
     "dayOfWeek": "Monday",
@@ -788,6 +397,116 @@
     "source": "https://luma.com/51f83eym",
     "food": "Snacks",
     "description": "Calling all artists, engineers, writers, programmers, and makers of every kind—explore your curiosity, build passion projects, and share your creations with a supportive community.",
+    "new": false
+  },
+  {
+    "date": "Nov 3",
+    "dayOfWeek": "Monday",
+    "time": "12:00 PM",
+    "title": "Free Produce Market",
+    "location": "Sprouts Cafe",
+    "source": "https://www.instagram.com/p/DPCVRNyEplr/",
+    "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
+    "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
+    "new": false
+  },
+  {
+    "date": "Nov 4",
+    "dayOfWeek": "Tuesday",
+    "time": "5:00 PM",
+    "title": "Free Produce Market",
+    "location": "Sprouts Cafe",
+    "source": "https://www.instagram.com/p/DPCVRNyEplr/",
+    "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
+    "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
+    "new": false
+  },
+  {
+    "date": "Nov 10",
+    "dayOfWeek": "Monday",
+    "time": "12:00 PM",
+    "title": "Free Produce Market",
+    "location": "Sprouts Cafe",
+    "source": "https://www.instagram.com/p/DPCVRNyEplr/",
+    "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
+    "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
+    "new": false
+  },
+  {
+    "date": "Nov 11",
+    "dayOfWeek": "Tuesday",
+    "time": "5:00 PM",
+    "title": "Free Produce Market",
+    "location": "Sprouts Cafe",
+    "source": "https://www.instagram.com/p/DPCVRNyEplr/",
+    "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
+    "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
+    "new": false
+  },
+  {
+    "date": "Nov 17",
+    "dayOfWeek": "Monday",
+    "time": "12:00 PM",
+    "title": "Free Produce Market",
+    "location": "Sprouts Cafe",
+    "source": "https://www.instagram.com/p/DPCVRNyEplr/",
+    "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
+    "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
+    "new": false
+  },
+  {
+    "date": "Nov 18",
+    "dayOfWeek": "Tuesday",
+    "time": "5:00 PM",
+    "title": "Free Produce Market",
+    "location": "Sprouts Cafe",
+    "source": "https://www.instagram.com/p/DPCVRNyEplr/",
+    "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
+    "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
+    "new": false
+  },
+  {
+    "date": "Nov 24",
+    "dayOfWeek": "Monday",
+    "time": "12:00 PM",
+    "title": "Free Produce Market",
+    "location": "Sprouts Cafe",
+    "source": "https://www.instagram.com/p/DPCVRNyEplr/",
+    "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
+    "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
+    "new": false
+  },
+  {
+    "date": "Nov 25",
+    "dayOfWeek": "Tuesday",
+    "time": "5:00 PM",
+    "title": "Free Produce Market",
+    "location": "Sprouts Cafe",
+    "source": "https://www.instagram.com/p/DPCVRNyEplr/",
+    "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
+    "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
+    "new": false
+  },
+  {
+    "date": "Dec 1",
+    "dayOfWeek": "Monday",
+    "time": "12:00 PM",
+    "title": "Free Produce Market",
+    "location": "Sprouts Cafe",
+    "source": "https://www.instagram.com/p/DPCVRNyEplr/",
+    "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
+    "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
+    "new": false
+  },
+  {
+    "date": "Dec 2",
+    "dayOfWeek": "Tuesday",
+    "time": "5:00 PM",
+    "title": "Free Produce Market",
+    "location": "Sprouts Cafe",
+    "source": "https://www.instagram.com/p/DPCVRNyEplr/",
+    "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
+    "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
     "new": false
   }
 ]
