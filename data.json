@@ -257,6 +257,16 @@
     "date": "Oct 23",
     "dayOfWeek": "Thursday",
     "time": "7:30 PM",
+    "title": "Thursday Night Knockout Social",
+    "location": "Nest Room 2311",
+    "source": "https://www.instagram.com/p/DQFGybriTNl/",
+    "food": "Pizza and pop",
+    "description": "Join the UBC Boxing Club for a Super Smash Bros tournament with free pizza, drinks, and a chance to win boxing wraps in a fun, social evening open to all students."
+  },
+  {
+    "date": "Oct 23",
+    "dayOfWeek": "Thursday",
+    "time": "7:30 PM",
     "title": "Halloween Pumpkin Painting",
     "location": "Pho Real Lounge (ICICS)",
     "source": "https://docs.google.com/forms/d/e/1FAIpQLSdBssVk6elDTbk-aZboYsHrqWdLf0jYKluKTQqsWwztL5h7tg/viewform",
@@ -326,6 +336,16 @@
     "new": false
   },
   {
+    "date": "Oct 26",
+    "dayOfWeek": "Sunday",
+    "time": "7:00 PM",
+    "title": "Fall for New Friends Social Event",
+    "location": "Event Space Orchard Commons (next to dining hall)",
+    "source": "https://www.instagram.com/p/DQFb8d_kqBj/",
+    "food": "Snacks and munchies",
+    "description": "Join a cozy evening of music, games, crafts, and conversation to make new friends and enjoy free snacks."
+  },
+  {
     "date": "Oct 27",
     "dayOfWeek": "Monday",
     "time": "12:00 PM",
@@ -345,6 +365,36 @@
     "source": "https://docs.google.com/forms/d/e/1FAIpQLSfdfXUKfUahR67QErU78uh21u1atSIZvKTOJEo74bGlPsHMHQ/viewform",
     "food": "Café-style Drinks and Baked Goods",
     "description": "Join an interactive evening on staying organized with Notion, featuring hands-on workshops, free café-style drinks, and baked goods."
+  },
+  {
+    "date": "Oct 27",
+    "dayOfWeek": "Monday",
+    "time": "6:00 PM",
+    "title": "Scream for Ice Cream",
+    "location": "LIFE 1505",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSdRVPTPBUQDN1XUwWT9qRwOXEWwQbyAEQJZWKPQwzYbU7XX8g/viewform",
+    "food": "Ice cream and refreshments",
+    "description": "Join a Halloween-themed scavenger hunt to find the stolen ice cream, enjoy free treats and goodie bags, and take part in a fun raffle draw."
+  },
+  {
+    "date": "Oct 27",
+    "dayOfWeek": "Monday",
+    "time": "6:00 PM",
+    "title": "Best Buddies UBC Halloween Party",
+    "location": "IBLC 216",
+    "source": "https://www.instagram.com/p/DQGTUs0jqlj/",
+    "food": "Snacks and refreshments",
+    "description": "Celebrate Halloween with Best Buddies UBC at their annual party featuring food, games, mingling, and a fun costume runway."
+  },
+  {
+    "date": "Oct 28",
+    "dayOfWeek": "Tuesday",
+    "time": "1:00 PM",
+    "title": "MANU Beef & Pizza",
+    "location": "Frank Forward 319",
+    "source": "https://www.instagram.com/p/DQF2OfHjFCc/",
+    "food": "Pizza",
+    "description": "A feedback session for Manufacturing Engineering students to share thoughts on courses, voice concerns, and bond over free pizza with peers."
   },
   {
     "date": "Oct 28",
@@ -387,6 +437,16 @@
     "source": "https://www.instagram.com/p/DP10P8BEu-p/",
     "food": "Food",
     "description": "Join the FYC Halloween Carnival for spooky fun, games, food, and raffles with friends!"
+  },
+  {
+    "date": "Oct 30",
+    "dayOfWeek": "Thursday",
+    "time": "7:00 PM",
+    "title": "Movie Night: Balkan Style",
+    "location": "UBC Global Lounge",
+    "source": "https://www.instagram.com/p/DQFpwxZkiGj/",
+    "food": "Popcorn and snacks",
+    "description": "Enjoy a cozy Balkan-style movie night with humor, snacks, and good company hosted by the UBC Balkan Student Association."
   },
   {
     "date": "Nov 2",
