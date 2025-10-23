@@ -125,6 +125,16 @@
   {
     "date": "Oct 22",
     "dayOfWeek": "Wednesday",
+    "time": "3:00 PM",
+    "title": "Midterm Care Packages",
+    "location": "Forest Sciences Centre",
+    "source": "https://www.instagram.com/p/DQGVSj2juz4/",
+    "food": "Snacks",
+    "description": "Pick up a care package to recharge and power through midterms with snacks and a little boost of energy."
+  },
+  {
+    "date": "Oct 22",
+    "dayOfWeek": "Wednesday",
     "time": "5:00 PM",
     "title": "Slice of Soci",
     "location": "Arts Student Centre",
@@ -162,6 +172,16 @@
     "source": "https://www.instagram.com/p/DQAAX1qDicZ/",
     "food": "Pizza",
     "description": "Watch the AMS General Meeting on the big screen with the Arts Undergraduate Society and enjoy free pizza while tuning in!"
+  },
+  {
+    "date": "Oct 23",
+    "dayOfWeek": "Thursday",
+    "time": "11:30 AM",
+    "title": "Midterm Care Packages",
+    "location": "Forest Sciences Centre",
+    "source": "https://www.instagram.com/p/DQGVSj2juz4/",
+    "food": "Snacks",
+    "description": "Pick up a care package to recharge and power through midterms with snacks and a little boost of energy."
   },
   {
     "date": "Oct 23",
@@ -237,6 +257,16 @@
     "date": "Oct 23",
     "dayOfWeek": "Thursday",
     "time": "6:00 PM",
+    "title": "Resistor Racing",
+    "location": "ESC, Room 213",
+    "source": "https://www.instagram.com/p/DQIjHgXDJrj/",
+    "food": "Snacks and Drinks",
+    "description": "Join mock resistor races with friends or new teammates, show off your competitive spirit, and enjoy snacks and drinks!"
+  },
+  {
+    "date": "Oct 23",
+    "dayOfWeek": "Thursday",
+    "time": "6:00 PM",
     "title": "Finance Networking Night",
     "location": "IKB 302 Dodson Room, UBC",
     "source": "https://www.instagram.com/p/DPuUunSkmdw/",
@@ -283,7 +313,16 @@
     "food": "Meal",
     "description": "Drop by Sprouts Café for a free community meal, just bring your own container and utensils!"
   },
-
+  {
+    "date": "Oct 24",
+    "dayOfWeek": "Friday",
+    "time": "2:00 PM",
+    "title": "Midterm Care Packages",
+    "location": "Forest Sciences Centre",
+    "source": "https://www.instagram.com/p/DQGVSj2juz4/",
+    "food": "Snacks",
+    "description": "Stop by for a midterm pick-me-up and collect a free care package with snacks to help you push through the week."
+  },
   {
     "date": "Oct 24",
     "dayOfWeek": "Friday",
@@ -399,6 +438,16 @@
   {
     "date": "Oct 28",
     "dayOfWeek": "Tuesday",
+    "time": "4:00 PM",
+    "title": "Majors & Minors Evenings: Night 2",
+    "location": "Geography Building, Room 223",
+    "source": "https://www.instagram.com/p/DQIyymvDp8p/",
+    "food": "Free Pizza",
+    "description": "Learn about the Geography Department’s programs, including GIS, Geographical Sciences, and Atmospheric Sciences, with a presentation by Professor Tianjia Liu."
+  },
+  {
+    "date": "Oct 28",
+    "dayOfWeek": "Tuesday",
     "time": "5:00 PM",
     "title": "Free Produce Market",
     "location": "Sprouts Cafe",
@@ -406,6 +455,16 @@
     "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
     "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
     "new": false
+  },
+  {
+    "date": "Oct 28",
+    "dayOfWeek": "Tuesday",
+    "time": "7:30 PM",
+    "title": "FrankenSTEM Movie Night",
+    "location": "Abdul Ladha",
+    "source": "https://www.instagram.com/p/DQIGIxYkonB/",
+    "food": "Hot Chocolate, Candy, Popcorn, and Soda",
+    "description": "Join PHYSOC, UMS, ASTRO Club, CSSS, and WIDS for a Halloween movie night with free snacks, costumes encouraged, and a movie voted on by attendees."
   },
   {
     "date": "Oct 29",
@@ -421,12 +480,32 @@
   {
     "date": "Oct 29",
     "dayOfWeek": "Wednesday",
+    "time": "5:00 PM",
+    "title": "It's Alive Halloween Party",
+    "location": "Hatch Art Gallery",
+    "source": "https://www.instagram.com/p/DQID-u6krig/",
+    "food": "Light Snacks",
+    "description": "Join the Hatch Gallery for a spooky Halloween social featuring a costume contest, music, and art from the 'Monsters and Other(ed) Bodies' exhibition."
+  },
+  {
+    "date": "Oct 29",
+    "dayOfWeek": "Wednesday",
     "time": "6:30 PM",
     "title": "Halloween Tote Bag Painting",
     "location": "Henry Angus 334",
     "source": "https://docs.google.com/forms/d/e/1FAIpQLSdWnJ6ElyI80nfHSmnvWs9omAhzFsdDSEBSDALP844IDPE1bQ/viewform",
     "food": "Snacks and Light Refreshments",
     "description": "Take a cozy midterm break with a creative evening of tote bag painting—materials, snacks, and good vibes provided!"
+  },
+  {
+    "date": "Oct 30",
+    "dayOfWeek": "Thursday",
+    "time": "4:00 PM",
+    "title": "BMEUSA x SBME Townhall",
+    "location": "Kaiser 2020/2030",
+    "source": "https://www.instagram.com/p/DQIrFWnkU1u/",
+    "food": "Food Provided",
+    "description": "Share your thoughts on BMEG classes and make your voice heard in an open discussion with peers and faculty."
   },
   {
     "date": "Oct 30",
@@ -469,6 +548,16 @@
     "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
     "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
     "new": false
+  },
+  {
+    "date": "Nov 4",
+    "dayOfWeek": "Tuesday",
+    "time": "10:30 AM",
+    "title": "3Cs: Oriana Smy",
+    "location": "POND G Office Annex Lounge",
+    "source": "https://www.instagram.com/p/DQHs-Q1DzNe/",
+    "food": "Coffee and Tea",
+    "description": "Join Oriana Smy for a conversation on the human dimensions of marine plastic pollution and connect with the Anthropology community over coffee."
   },
   {
     "date": "Nov 4",
