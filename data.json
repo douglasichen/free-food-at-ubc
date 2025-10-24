@@ -459,6 +459,16 @@
   {
     "date": "Oct 28",
     "dayOfWeek": "Tuesday",
+    "time": "6:00 PM",
+    "title": "Halloween Movie Night: The Nightmare Before Christmas",
+    "location": "UBC AMS Nest, Resource Group Lounge Room 2102",
+    "source": "https://www.instagram.com/p/DQLMJZMkXDJ/",
+    "food": "Pizza, Pies, Popcorn, Snacks, and Drinks",
+    "description": "Join DUC’s first social of the term for a cozy, sensory-friendly Halloween movie night featuring The Nightmare Before Christmas with free food and drinks."
+  },
+  {
+    "date": "Oct 28",
+    "dayOfWeek": "Tuesday",
     "time": "7:30 PM",
     "title": "FrankenSTEM Movie Night",
     "location": "Abdul Ladha",
@@ -476,6 +486,16 @@
     "food": "Catering",
     "description": "Join thought-provoking talks and discussions on language barriers, linguistic justice, and the dominance of English at universities—all with catered food to enjoy.",
     "new": false
+  },
+  {
+    "date": "Oct 29",
+    "dayOfWeek": "Wednesday",
+    "time": "5:00 PM",
+    "title": "Boo & Bites",
+    "location": "Policy Lab, CIRS Building, 2260 West Mall",
+    "source": "https://www.instagram.com/p/DQKbGShEmSv/",
+    "food": "Treats and Cookies",
+    "description": "Enjoy a cozy Halloween night with treats, laughs, and a talk on food literacy at Boo & Bites."
   },
   {
     "date": "Oct 29",
@@ -506,6 +526,16 @@
     "source": "https://www.instagram.com/p/DQIrFWnkU1u/",
     "food": "Food Provided",
     "description": "Share your thoughts on BMEG classes and make your voice heard in an open discussion with peers and faculty."
+  },
+  {
+    "date": "Oct 30",
+    "dayOfWeek": "Thursday",
+    "time": "4:30 PM",
+    "title": "Healthcare Info Session",
+    "location": "NEST, Room 2504",
+    "source": "https://www.instagram.com/p/DQKhP0nEu9G/",
+    "food": "Snacks",
+    "description": "Get your questions answered about the UBC/GSS Health & Dental Plan from StudentCare representatives while enjoying some snacks."
   },
   {
     "date": "Oct 30",
@@ -571,6 +601,16 @@
     "new": false
   },
   {
+    "date": "Nov 5",
+    "dayOfWeek": "Wednesday",
+    "time": "7:00 PM",
+    "title": "Volunteer Social: Fantastic Mr. Fox",
+    "location": "Sprouts Cafe",
+    "source": "https://www.instagram.com/p/DQNA-_8EunL/",
+    "food": "Snacks and Drinks",
+    "description": "Join fellow volunteers for a cozy movie night featuring Fantastic Mr. Fox, with snacks, drinks, and good company."
+  },
+  {
     "date": "Nov 10",
     "dayOfWeek": "Monday",
     "time": "12:00 PM",
@@ -613,6 +653,16 @@
     "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
     "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
     "new": false
+  },
+  {
+    "date": "Nov 21",
+    "dayOfWeek": "Friday",
+    "time": "6:00 PM",
+    "title": "Meet the Dietitian Night",
+    "location": "Agora Space, 2357 Main Mall",
+    "source": "https://www.instagram.com/p/DQKwXHekuBO/",
+    "food": "Food and Refreshments",
+    "description": "Connect with registered dietitians, hear about their field experiences, and enjoy food, refreshments, and prizes in an engaging evening of networking and learning."
   },
   {
     "date": "Nov 24",
