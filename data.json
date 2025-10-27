@@ -387,6 +387,16 @@
   {
     "date": "Oct 27",
     "dayOfWeek": "Monday",
+    "time": "8:30 AM",
+    "title": "Pancake Breakfast",
+    "location": "Forestry Atrium",
+    "source": "https://www.instagram.com/p/DQSPCp1Ely9/",
+    "food": "Pancakes",
+    "description": "Kick off Forestry Week with a cozy pancake breakfast in the atrium and enjoy good food and good vibes with fellow foresters."
+  },
+  {
+    "date": "Oct 27",
+    "dayOfWeek": "Monday",
     "time": "12:00 PM",
     "title": "Free Produce Market",
     "location": "Sprouts Cafe",
@@ -408,9 +418,19 @@
   {
     "date": "Oct 27",
     "dayOfWeek": "Monday",
+    "time": "5:00 PM",
+    "title": "Trivia & Movie Night: The Blair Witch Project",
+    "location": "IBLC 182",
+    "source": "https://www.instagram.com/p/DQPhrzKErJ4/",
+    "food": "Snacks",
+    "description": "Join UBC Book Club for a spooky night of trivia and a screening of The Blair Witch Project, complete with snacks and costumes to celebrate folk horror month."
+  },
+  {
+    "date": "Oct 27",
+    "dayOfWeek": "Monday",
     "time": "6:00 PM",
     "title": "Scream for Ice Cream",
-    "location": "LIFE 1505",
+    "location": "LIFE 1501",
     "source": "https://docs.google.com/forms/d/e/1FAIpQLSdRVPTPBUQDN1XUwWT9qRwOXEWwQbyAEQJZWKPQwzYbU7XX8g/viewform",
     "food": "Ice cream and refreshments",
     "description": "Join a Halloween-themed scavenger hunt to find the stolen ice cream, enjoy free treats and goodie bags, and take part in a fun raffle draw."
@@ -506,6 +526,16 @@
     "source": "https://www.instagram.com/p/DQID-u6krig/",
     "food": "Light Snacks",
     "description": "Join the Hatch Gallery for a spooky Halloween social featuring a costume contest, music, and art from the 'Monsters and Other(ed) Bodies' exhibition."
+  },
+  {
+    "date": "Oct 29",
+    "dayOfWeek": "Wednesday",
+    "time": "6:00 PM",
+    "title": "Dinner & Trivia Night",
+    "location": "FSC First-Floor Study Area",
+    "source": "https://www.instagram.com/p/DQR9WE6j3Or/",
+    "food": "Free Curry and Rice Dinner",
+    "description": "Join the Forestry Undergraduate Society for a fun trivia night featuring free dinner from Agora Café, prizes, and a chance to meet your first-year reps."
   },
   {
     "date": "Oct 29",
@@ -609,6 +639,16 @@
     "source": "https://www.instagram.com/p/DQNA-_8EunL/",
     "food": "Snacks and Drinks",
     "description": "Join fellow volunteers for a cozy movie night featuring Fantastic Mr. Fox, with snacks, drinks, and good company."
+  },
+  {
+    "date": "Nov 6",
+    "dayOfWeek": "Thursday",
+    "time": "5:30 PM",
+    "title": "Dine & Debug",
+    "location": "ICICS X860",
+    "source": "https://www.instagram.com/p/DQNs3jPicWb/",
+    "food": "Indomie Noodles",
+    "description": "Take a break from studying for a cozy night of coding, noodles, and community—work on projects, share ideas, and unwind with fellow students."
   },
   {
     "date": "Nov 10",
