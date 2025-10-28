@@ -489,6 +489,16 @@
   {
     "date": "Oct 28",
     "dayOfWeek": "Tuesday",
+    "time": "6:30 PM",
+    "title": "Dal Makhani Community Dinner",
+    "location": "Agora Café",
+    "source": "https://www.instagram.com/p/DQUeWgyD75k/",
+    "food": "Free Vegetarian Dal Makhani",
+    "description": "Join Agora Café for a free vegetarian community dinner featuring Dal Makhani. Bring your own container and utensils for this cozy meal!"
+  },
+  {
+    "date": "Oct 28",
+    "dayOfWeek": "Tuesday",
     "time": "7:30 PM",
     "title": "FrankenSTEM Movie Night",
     "location": "Abdul Ladha",
@@ -550,6 +560,16 @@
   {
     "date": "Oct 30",
     "dayOfWeek": "Thursday",
+    "time": "3:30 PM",
+    "title": "Fuel the Fans: Soccer Playoffs",
+    "location": "Ken Woods Field",
+    "source": "https://www.instagram.com/p/DQVHcM9l9NG/",
+    "food": "Free Warm Drinks",
+    "description": "Cheer on the UBC Thunderbirds soccer team at the playoffs and grab a free warm drink sponsored by Lululemon."
+  },
+  {
+    "date": "Oct 30",
+    "dayOfWeek": "Thursday",
     "time": "4:00 PM",
     "title": "BMEUSA x SBME Townhall",
     "location": "Kaiser 2020/2030",
@@ -587,6 +607,17 @@
     "food": "Popcorn and snacks",
     "description": "Enjoy a cozy Balkan-style movie night with humor, snacks, and good company hosted by the UBC Balkan Student Association."
   },
+
+  {
+    "date": "Oct 31",
+    "dayOfWeek": "Friday",
+    "time": "12:30 PM",
+    "title": "Fuel the Fans: Soccer Playoffs",
+    "location": "Ken Woods Field",
+    "source": "https://www.instagram.com/p/DQVHcM9l9NG/",
+    "food": "Free Warm Drinks",
+    "description": "Cheer on the UBC Thunderbirds soccer team at the playoffs and grab a free warm drink sponsored by Lululemon."
+  },
   {
     "date": "Nov 2",
     "dayOfWeek": "Sunday",
@@ -608,6 +639,16 @@
     "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
     "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
     "new": false
+  },
+  {
+    "date": "Nov 3",
+    "dayOfWeek": "Monday",
+    "time": "2:00 PM",
+    "title": "Snack and Study",
+    "location": "Agora Café",
+    "source": "https://www.instagram.com/p/DQVUgTwgUvM/",
+    "food": "Snacks and Red Bull",
+    "description": "Join fellow LFS students for a relaxed study session with free snacks and Red Bull, connect with peers, and chat with program reps."
   },
   {
     "date": "Nov 4",
@@ -703,6 +744,16 @@
     "source": "https://www.instagram.com/p/DQKwXHekuBO/",
     "food": "Food and Refreshments",
     "description": "Connect with registered dietitians, hear about their field experiences, and enjoy food, refreshments, and prizes in an engaging evening of networking and learning."
+  },
+  {
+    "date": "Nov 22",
+    "dayOfWeek": "Saturday",
+    "time": "1:00 PM",
+    "title": "IGNITE 2025",
+    "location": "Forest Sciences Centre (Forestry)",
+    "source": "https://www.instagram.com/p/DQVX8vqD26p/",
+    "food": "Dinner",
+    "description": "Join SJSU for a day of networking and career growth featuring resume building, interview workshops, academic navigation tips, and inspiring panelists, plus free dinner and prize giveaways."
   },
   {
     "date": "Nov 24",
