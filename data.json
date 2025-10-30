@@ -609,6 +609,16 @@
     "description": "Cheer on the UBC Thunderbirds soccer team at the playoffs and grab a free warm drink sponsored by Lululemon."
   },
   {
+    "date": "Oct 31",
+    "dayOfWeek": "Friday",
+    "time": "5:30 PM",
+    "title": "Halloween Social",
+    "location": "Earth and Ocean Science Main (EOSM 105)",
+    "source": "https://www.instagram.com/p/DQXr0XEEg_l/",
+    "food": "Snacks",
+    "description": "Celebrate Halloween with the Storm Club! Meet other weather enthusiasts, enjoy snacks, and join fun activities. Costumes welcome!"
+  },
+  {
     "date": "Nov 2",
     "dayOfWeek": "Sunday",
     "time": "1:00 PM",
@@ -641,6 +651,16 @@
     "description": "Join fellow LFS students for a relaxed study session with free snacks and Red Bull, connect with peers, and chat with program reps."
   },
   {
+    "date": "Nov 3",
+    "dayOfWeek": "Monday",
+    "time": "6:00 PM",
+    "title": "Pumpkin Carving Event and Burgers",
+    "location": "Acadia Activity Room",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfnJ7s9iUtOW6PQZZH_7Ayn7bTlK0MutgaaJLEW_BFhAPhbNw/viewform",
+    "food": "Pumpkin pie, fried chicken burgers, and refreshments",
+    "description": "Join the Fairview and Fraser community for a fun pumpkin carving event featuring food, pumpkin pie, and fried chicken burgers from Chicken World. RSVP required."
+  },
+  {
     "date": "Nov 4",
     "dayOfWeek": "Tuesday",
     "time": "10:30 AM",
@@ -662,6 +682,36 @@
     "new": false
   },
   {
+    "date": "Nov 4",
+    "dayOfWeek": "Tuesday",
+    "time": "6:00 PM",
+    "title": "PHYS vs FIZZ Trivia Night",
+    "location": "Hebb 116",
+    "source": "https://www.instagram.com/p/DQXNUyVEhv8/",
+    "food": "Pizza",
+    "description": "Join PHYS and FIZZ for a fun-filled trivia showdown! Build a team of four or join as a free agent, compete for prizes, and enjoy free pizza while testing your knowledge."
+  },
+  {
+    "date": "Nov 5",
+    "dayOfWeek": "Wednesday",
+    "time": "5:00 PM",
+    "title": "Gather & Taste: A Celebration of Latin Food and Culture",
+    "location": "Global Lounge, 2205 Lower Mall",
+    "source": "https://www.instagram.com/p/DQaLzEiEi4s/",
+    "food": "Variety of dishes and snacks from Mexico, Brazil, and Colombia",
+    "description": "Celebrate Latin food and culture with free admission, live music, and open mic. Enjoy diverse dishes from Mexico, Brazil, and Colombia while connecting with UBC's global community."
+  },
+  {
+    "date": "Nov 5",
+    "dayOfWeek": "Wednesday",
+    "time": "5:00 PM",
+    "title": "Hope to House Open Meeting",
+    "location": "AMS Nest 2508",
+    "source": "https://www.instagram.com/p/DQX2ol4Egqv/",
+    "food": "Free refreshments",
+    "description": "Join Hope to House for an open meeting with interactive games, team chats, and a chance to meet new friends while enjoying free snacks."
+  },
+  {
     "date": "Nov 5",
     "dayOfWeek": "Wednesday",
     "time": "7:00 PM",
@@ -670,6 +720,16 @@
     "source": "https://www.instagram.com/p/DQNA-_8EunL/",
     "food": "Snacks and Drinks",
     "description": "Join fellow volunteers for a cozy movie night featuring Fantastic Mr. Fox, with snacks, drinks, and good company."
+  },
+  {
+    "date": "Nov 6",
+    "dayOfWeek": "Thursday",
+    "time": "5:00 PM",
+    "title": "Treats & Trivia Night",
+    "location": "Abdul Ladha Science Student Centre (2nd Floor)",
+    "source": "https://www.instagram.com/p/DQalRVRidvY/",
+    "food": "Sweet snacks from TeaDot, Rain or Shine, and Loafe Café",
+    "description": "Join Project Hastings for a cozy evening of trivia, prizes, and treats. Form a team of up to four and enjoy snacks while testing your pop culture and academic knowledge."
   },
   {
     "date": "Nov 6",
@@ -724,6 +784,16 @@
     "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
     "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
     "new": false
+  },
+  {
+    "date": "Nov 18",
+    "dayOfWeek": "Tuesday",
+    "time": "5:30 PM",
+    "title": "ANSO Farewell Party",
+    "location": "ANSO Undergrad Lounge",
+    "source": "https://www.instagram.com/p/DQarmhyEYMt/",
+    "food": "Pizza",
+    "description": "Join the ANSO community for a farewell party with pizza and a tour. Say goodbye to ANSO and hang out with fellow students one last time!"
   },
   {
     "date": "Nov 21",
