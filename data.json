@@ -663,6 +663,16 @@
   {
     "date": "Nov 4",
     "dayOfWeek": "Tuesday",
+    "time": "All day",
+    "title": "Thrive with A(US)",
+    "location": "Arts Student Centre (ASC) Floor 1",
+    "source": "https://www.instagram.com/p/DQmM2YiEvvl/",
+    "food": "Smoothies",
+    "description": "Join AUS Health and Wellness for Thrive Month to spread positivity and mindfulness. Write or take an encouraging note to inspire yourself and others. Participate in activities like Smoothie Cycle and Bingo for free smoothies and prizes."
+  },
+  {
+    "date": "Nov 4",
+    "dayOfWeek": "Tuesday",
     "time": "10:30 AM",
     "title": "3Cs: Oriana Smy",
     "location": "POND G Office Annex Lounge",
@@ -684,12 +694,33 @@
   {
     "date": "Nov 4",
     "dayOfWeek": "Tuesday",
+    "time": "5:00 PM",
+    "title": "Board Games Night",
+    "location": "AMS Nest, Room 2514 (Level 2)",
+    "source": "https://www.instagram.com/p/DQfdUzFkrgF/",
+    "food": "Snacks",
+    "description": "Join Vegans of UBC for a fun evening of board games and snacks! Everyone is welcome—no need to be vegan or RSVP. Bring your friends and your favorite games for a relaxed night of fun at the Nest."
+  },
+  {
+    "date": "Nov 4",
+    "dayOfWeek": "Tuesday",
     "time": "6:00 PM",
     "title": "PHYS vs FIZZ Trivia Night",
     "location": "Hebb 116",
     "source": "https://www.instagram.com/p/DQXNUyVEhv8/",
     "food": "Pizza",
     "description": "Join PHYS and FIZZ for a fun-filled trivia showdown! Build a team of four or join as a free agent, compete for prizes, and enjoy free pizza while testing your knowledge."
+  },
+
+  {
+    "date": "Nov 5",
+    "dayOfWeek": "Wednesday",
+    "time": "All day",
+    "title": "Thrive with A(US)",
+    "location": "Arts Student Centre (ASC) Floor 1",
+    "source": "https://www.instagram.com/p/DQmM2YiEvvl/",
+    "food": "Smoothies",
+    "description": "Join AUS Health and Wellness for Thrive Month to spread positivity and mindfulness. Write or take an encouraging note to inspire yourself and others. Participate in activities like Smoothie Cycle and Bingo for free smoothies and prizes."
   },
   {
     "date": "Nov 5",
@@ -700,6 +731,16 @@
     "source": "https://www.instagram.com/p/DQaLzEiEi4s/",
     "food": "Variety of dishes and snacks from Mexico, Brazil, and Colombia",
     "description": "Celebrate Latin food and culture with free admission, live music, and open mic. Enjoy diverse dishes from Mexico, Brazil, and Colombia while connecting with UBC's global community."
+  },
+  {
+    "date": "Nov 5",
+    "dayOfWeek": "Wednesday",
+    "time": "5:00 PM",
+    "title": "Technical Paper Reading Group",
+    "location": "IKB, Room TBD",
+    "source": "https://www.instagram.com/p/DQfOsYnklje/",
+    "food": "Dinner",
+    "description": "Join UBC AI Safety for their 4th technical paper reading session focusing on mechanistic interpretability. Discuss techniques for reverse-engineering neural networks, explore recent advances and challenges, and enjoy dinner while diving deep into AI research topics."
   },
   {
     "date": "Nov 5",
@@ -738,7 +779,7 @@
     "title": "Dine & Debug",
     "location": "ICICS X860",
     "source": "https://www.instagram.com/p/DQNs3jPicWb/",
-    "food": "Indomie Noodles",
+    "food": "Ramen",
     "description": "Take a break from studying for a cozy night of coding, noodles, and community—work on projects, share ideas, and unwind with fellow students."
   },
   {
@@ -762,6 +803,16 @@
     "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
     "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
     "new": false
+  },
+  {
+    "date": "Nov 13",
+    "dayOfWeek": "Thursday",
+    "time": "7:00 PM",
+    "title": "Scoop Showdown Game Night",
+    "location": "TBA",
+    "source": "https://www.instagram.com/p/DQlSHvWkQ93/",
+    "food": "Ice cream",
+    "description": "Join the UBC Ice Cream Club for a fun evening of Jeopardy and Jackbox games while enjoying free ice cream! Admission is free for everyone, but spots are limited."
   },
   {
     "date": "Nov 17",
