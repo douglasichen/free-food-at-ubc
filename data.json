@@ -666,7 +666,7 @@
     "time": "All day",
     "title": "Thrive with A(US)",
     "location": "Arts Student Centre (ASC) Floor 1",
-    "source": "https://www.instagram.com/p/DQmM2YiEvvl/",
+    "source": "https://www.instagram.com/p/DQiXKPyCfBR?img_index=2",
     "food": "Smoothies",
     "description": "Join AUS Health and Wellness for Thrive Month to spread positivity and mindfulness. Write or take an encouraging note to inspire yourself and others. Participate in activities like Smoothie Cycle and Bingo for free smoothies and prizes."
   },
@@ -676,7 +676,7 @@
     "time": "10:30 AM",
     "title": "3Cs: Oriana Smy",
     "location": "POND G Office Annex Lounge",
-    "source": "https://www.instagram.com/p/DQHs-Q1DzNe/",
+    "source": "https://www.instagram.com/p/DQKvVCMAUTl/",
     "food": "Coffee and Tea",
     "description": "Join Oriana Smy for a conversation on the human dimensions of marine plastic pollution and connect with the Anthropology community over coffee."
   },
@@ -728,7 +728,7 @@
     "time": "All day",
     "title": "Thrive with A(US)",
     "location": "Arts Student Centre (ASC) Floor 1",
-    "source": "https://www.instagram.com/p/DQmM2YiEvvl/",
+    "source": "https://www.instagram.com/p/DQiXKPyCfBR?img_index=2",
     "food": "Smoothies",
     "description": "Join AUS Health and Wellness for Thrive Month to spread positivity and mindfulness. Write or take an encouraging note to inspire yourself and others. Participate in activities like Smoothie Cycle and Bingo for free smoothies and prizes."
   },
@@ -763,16 +763,6 @@
     "description": "Join Hope to House for an open meeting with interactive games, team chats, and a chance to meet new friends while enjoying free snacks."
   },
   {
-    "date": "Nov 5",
-    "dayOfWeek": "Wednesday",
-    "time": "7:00 PM",
-    "title": "Volunteer Social: Fantastic Mr. Fox",
-    "location": "Sprouts Cafe",
-    "source": "https://www.instagram.com/p/DQNA-_8EunL/",
-    "food": "Snacks and Drinks",
-    "description": "Join fellow volunteers for a cozy movie night featuring Fantastic Mr. Fox, with snacks, drinks, and good company."
-  },
-  {
     "date": "Nov 6",
     "dayOfWeek": "Thursday",
     "time": "5:00 PM",
@@ -791,6 +781,16 @@
     "source": "https://www.instagram.com/p/DQNs3jPicWb/",
     "food": "Ramen",
     "description": "Take a break from studying for a cozy night of coding, noodles, and community—work on projects, share ideas, and unwind with fellow students."
+  },
+  {
+    "date": "Nov 9",
+    "dayOfWeek": "Sunday",
+    "time": "1:00 PM",
+    "title": "Atelier: UBC #107",
+    "location": "Orchard Commons Room 3018",
+    "source": "https://luma.com/i8cykuq9",
+    "food": "Snacks",
+    "description": "Calling all artists, engineers, writers, programmers, and makers of every kind—explore your curiosity, build passion projects, and share your creations with a supportive community."
   },
   {
     "date": "Nov 10",
@@ -823,6 +823,16 @@
     "source": "https://www.instagram.com/p/DQlSHvWkQ93/",
     "food": "Ice cream",
     "description": "Join the UBC Ice Cream Club for a fun evening of Jeopardy and Jackbox games while enjoying free ice cream! Admission is free for everyone, but spots are limited."
+  },
+  {
+    "date": "Nov 16",
+    "dayOfWeek": "Sunday",
+    "time": "1:00 PM",
+    "title": "Atelier: UBC #108",
+    "location": "Orchard Commons Room 3018",
+    "source": "https://luma.com/9g4o7mrx",
+    "food": "Snacks",
+    "description": "Calling all artists, engineers, writers, programmers, and makers of every kind—explore your curiosity, build passion projects, and share your creations with a supportive community."
   },
   {
     "date": "Nov 17",
@@ -887,6 +897,16 @@
     "description": "Join SJSU for a day of networking and career growth featuring resume building, interview workshops, academic navigation tips, and inspiring panelists, plus free dinner and prize giveaways."
   },
   {
+    "date": "Nov 23",
+    "dayOfWeek": "Sunday",
+    "time": "1:00 PM",
+    "title": "Atelier: UBC #109",
+    "location": "Orchard Commons Room 3018",
+    "source": "https://luma.com/sd2gmf7a",
+    "food": "Snacks",
+    "description": "Calling all artists, engineers, writers, programmers, and makers of every kind—explore your curiosity, build passion projects, and share your creations with a supportive community."
+  },
+  {
     "date": "Nov 24",
     "dayOfWeek": "Monday",
     "time": "12:00 PM",
@@ -909,6 +929,16 @@
     "new": false
   },
   {
+    "date": "Nov 30",
+    "dayOfWeek": "Sunday",
+    "time": "1:00 PM",
+    "title": "Atelier: UBC #110",
+    "location": "Orchard Commons Room 3018",
+    "source": "https://luma.com/1m0mtj4c",
+    "food": "Snacks",
+    "description": "Calling all artists, engineers, writers, programmers, and makers of every kind—explore your curiosity, build passion projects, and share your creations with a supportive community."
+  },
+  {
     "date": "Dec 1",
     "dayOfWeek": "Monday",
     "time": "12:00 PM",
@@ -929,5 +959,15 @@
     "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
     "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
     "new": false
+  },
+  {
+    "date": "Dec 7",
+    "dayOfWeek": "Sunday",
+    "time": "1:00 PM",
+    "title": "Atelier: UBC #111",
+    "location": "Orchard Commons Room 3018",
+    "source": "https://luma.com/mgx8xe0a",
+    "food": "Snacks",
+    "description": "Calling all artists, engineers, writers, programmers, and makers of every kind—explore your curiosity, build passion projects, and share your creations with a supportive community."
   }
 ]
