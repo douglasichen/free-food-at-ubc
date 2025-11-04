@@ -711,6 +711,16 @@
     "food": "Pizza",
     "description": "Join PHYS and FIZZ for a fun-filled trivia showdown! Build a team of four or join as a free agent, compete for prizes, and enjoy free pizza while testing your knowledge."
   },
+  {
+    "date": "Nov 4",
+    "dayOfWeek": "Tuesday",
+    "time": "6:30 PM",
+    "title": "Veggie Soup Community Dinner",
+    "location": "Agora Cafe",
+    "source": "https://www.instagram.com/p/DQm_ekQkgSx/",
+    "food": "Veggie soup with rice and pita (vegetarian & gluten-free)",
+    "description": "Enjoy free veggie soup with rice and pita, chill with friendly people, and bring your own container and utensils."
+  },
 
   {
     "date": "Nov 5",
@@ -845,6 +855,16 @@
     "source": "https://www.instagram.com/p/DQarmhyEYMt/",
     "food": "Pizza",
     "description": "Join the ANSO community for a farewell party with pizza and a tour. Say goodbye to ANSO and hang out with fellow students one last time!"
+  },
+  {
+    "date": "Nov 21",
+    "dayOfWeek": "Friday",
+    "time": "2:00 PM",
+    "title": "Wellness Event (Board Games & Hot Beverages)",
+    "location": "Buchanan Tower, Room 1112",
+    "source": "https://www.instagram.com/p/DQm4TatkikU/",
+    "food": "Beverages and biscuits",
+    "description": "Hang out, sip warm drinks, and play board games to unwind with friends."
   },
   {
     "date": "Nov 21",
