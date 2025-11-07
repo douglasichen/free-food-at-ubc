@@ -817,12 +817,42 @@
   {
     "date": "Nov 13",
     "dayOfWeek": "Thursday",
+    "time": "5:00 PM",
+    "title": "Mech 2 Game Night",
+    "location": "CEME 2207",
+    "source": "https://www.instagram.com/p/DQxQyQrE9NG/?hl=en",
+    "food": "Pizza",
+    "description": "Play games, enjoy pizza, and hang out with fellow mech students for a fun evening of relaxation and good company!"
+  },
+  {
+    "date": "Nov 13",
+    "dayOfWeek": "Thursday",
+    "time": "5:30 PM",
+    "title": "Free Latin American Community Potluck",
+    "location": "Arts Student Centre, 2nd Floor",
+    "source": "https://www.instagram.com/p/DQniyXWEYpI/",
+    "food": "Latin American dishes",
+    "description": "Enjoy a free Latin American potluck with dishes from Mexico, Central America, and Colombia while connecting with the UBC Latin American community."
+  },
+  {
+    "date": "Nov 13",
+    "dayOfWeek": "Thursday",
     "time": "7:00 PM",
     "title": "Scoop Showdown Game Night",
     "location": "TBA",
     "source": "https://www.instagram.com/p/DQlSHvWkQ93/",
     "food": "Ice cream",
     "description": "Join the UBC Ice Cream Club for a fun evening of Jeopardy and Jackbox games while enjoying free ice cream! Admission is free for everyone, but spots are limited."
+  },
+  {
+    "date": "Nov 13",
+    "dayOfWeek": "Wednesday",
+    "time": "7:00 PM",
+    "title": "Board Game Night",
+    "location": "Arts Student Centre – Floor 1",
+    "source": "https://www.instagram.com/p/DQsuewjETwA/?hl=en",
+    "food": "Hot chocolate and marshmallows",
+    "description": "Unwind with friends over board games, warm hot chocolate, and chill vibes after a busy midterm season!"
   },
   {
     "date": "Nov 16",
@@ -846,6 +876,46 @@
     "new": false
   },
   {
+    "date": "Nov 17",
+    "dayOfWeek": "Monday",
+    "time": "5:00 PM",
+    "title": "Brew Your Network",
+    "location": "UBC Career Centre",
+    "source": "https://www.instagram.com/p/DQsksdMiTYH/",
+    "food": "Free bubble tea",
+    "description": "Join a relaxed networking event to make authentic connections over free boba and coffee chats, perfect for students of all backgrounds."
+  },
+  {
+    "date": "Nov 17",
+    "dayOfWeek": "Monday",
+    "time": "5:30 PM",
+    "title": "Pizza & Profs",
+    "location": "Abdul Ladha Science Student Centre",
+    "source": "https://www.instagram.com/p/DQsFrOYErfm/",
+    "food": "Pizza",
+    "description": "Meet professors from various research fields, enjoy pizza, join a Q&A, and network in a relaxed small-group setting!"
+  },
+  {
+    "date": "Nov 18",
+    "dayOfWeek": "Tuesday",
+    "time": "10:30 AM",
+    "title": "3Cs: Dr. Oralia Gómez-Ramirez",
+    "location": "POND G Office Annex Lounge (2044 Lower Mall)",
+    "source": "https://www.instagram.com/p/DQr_QG0klG0/",
+    "food": "Coffee and tea",
+    "description": "Join Dr. Oralia Gómez-Ramirez for a talk on using critical social science and innovative methodologies to understand health promotion, with coffee and conversation."
+  },
+  {
+    "date": "Nov 18",
+    "dayOfWeek": "Tuesday",
+    "time": "11:00 AM",
+    "title": "CIS & AISA Community Soup Lunch",
+    "location": "CIS Meeting Room, Buchanan E Room 273",
+    "source": "https://www.instagram.com/p/DQuW5mFgD2F/",
+    "food": "Soup",
+    "description": "Warm up with a bowl of hot soup and enjoy good company at this cozy community lunch hosted by CIS and AISA."
+  },
+  {
     "date": "Nov 18",
     "dayOfWeek": "Tuesday",
     "time": "5:00 PM",
@@ -865,6 +935,46 @@
     "source": "https://www.instagram.com/p/DQarmhyEYMt/",
     "food": "Pizza",
     "description": "Join the ANSO community for a farewell party with pizza and a tour. Say goodbye to ANSO and hang out with fellow students one last time!"
+  },
+  {
+    "date": "Nov 19",
+    "dayOfWeek": "Wednesday",
+    "time": "5:30 PM",
+    "title": "Thrive! Cards, Games, Food & More",
+    "location": "Abdul Ladha Science Student Centre",
+    "source": "https://www.instagram.com/p/DQxYYTZkr4q/?hl=en",
+    "food": "Snacks and food",
+    "description": "Take a break before finals with board games, cards, coloring, and snacks while meeting other biochem students!"
+  },
+  {
+    "date": "Nov 19",
+    "dayOfWeek": "Wednesday",
+    "time": "6:00 PM",
+    "title": "SISA Global Networking Night",
+    "location": "Big 4 Rooms, Henry Angus Building",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSdFUa2RSip5HMoJ-ysr4vsuRrXTSCcrayrriLtuButP3zedrg/viewform",
+    "food": "Food and refreshments",
+    "description": "Connect with industry professionals and students during a panel discussion and open networking session featuring food, conversation, and career insights."
+  },
+  {
+    "date": "Nov 20",
+    "dayOfWeek": "Thursday",
+    "time": "4:00 PM",
+    "title": "Nostalgic Taste Buds",
+    "location": "CIRS Building, Policy Lab, Main Floor (2260 West Mall)",
+    "source": "https://www.instagram.com/p/DQxWb7HEmLj/?hl=en",
+    "food": "None mentioned",
+    "description": "Share stories, reflect on childhood food memories, and create collages around food and gender in a cozy, creative setting."
+  },
+  {
+    "date": "Nov 20",
+    "dayOfWeek": "Thursday",
+    "time": "7:00 PM",
+    "title": "Georox Industry Mixer",
+    "location": "EOS-M 208 (Geo Lounge)",
+    "source": "https://www.instagram.com/p/DQpvCoHklqo/",
+    "food": "Dinner and drinks",
+    "description": "Connect with industry professionals and fellow geoscience students at this fun evening mixer featuring food, drinks, and networking opportunities."
   },
   {
     "date": "Nov 21",
@@ -929,6 +1039,26 @@
     "new": false
   },
   {
+    "date": "Nov 26",
+    "dayOfWeek": "Wednesday",
+    "time": "6:00 PM",
+    "title": "Knowvember",
+    "location": "LSI 1410 (Life Sciences Institute)",
+    "source": "https://www.instagram.com/p/DQsAALGEqsq/",
+    "food": "Snacks and refreshments",
+    "description": "Hear UBC professors share their exciting research and chat with speakers during an evening of learning and discussion with snacks provided."
+  },
+  {
+    "date": "Nov 27",
+    "dayOfWeek": "Thursday",
+    "time": "7:30 PM",
+    "title": "Festive Face-Off",
+    "location": "Abdul Ladha Science Student Centre (Floors 2 & 3)",
+    "source": "https://www.instagram.com/p/DQxOWB0krlJ/?hl=en",
+    "food": "Snacks and sweets",
+    "description": "Join a cozy night of mini games, Jeopardy, cookie decorating, and prizes while enjoying food and festive fun before finals!"
+  },
+  {
     "date": "Nov 30",
     "dayOfWeek": "Sunday",
     "time": "1:00 PM",
@@ -959,6 +1089,16 @@
     "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
     "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
     "new": false
+  },
+  {
+    "date": "Dec 2",
+    "dayOfWeek": "Tuesday",
+    "time": "7:30 PM",
+    "title": "Annual General Meeting 2025",
+    "location": "Abdul Ladha Science Student Centre",
+    "source": "https://www.instagram.com/p/DQuy12-kmiJ/?hl=en",
+    "food": "Food and drinks",
+    "description": "Celebrate VLC’s achievements, meet the new executive team, play fun games like Vaccine Bingo, and connect over food and conversation!"
   },
   {
     "date": "Dec 7",
