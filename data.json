@@ -855,6 +855,16 @@
     "description": "Unwind with friends over board games, warm hot chocolate, and chill vibes after a busy midterm season!"
   },
   {
+    "date": "Nov 15",
+    "dayOfWeek": "Saturday",
+    "time": "6:00 PM",
+    "title": "Relaxation Movie Night",
+    "location": "TBD",
+    "source": "https://www.instagram.com/p/DQzzlf6khmN/",
+    "food": "Pizza and Drinks",
+    "description": "Watch Legally Blonde, relax with friends, and enjoy free pizza and drinks."
+  },
+  {
     "date": "Nov 16",
     "dayOfWeek": "Sunday",
     "time": "1:00 PM",
@@ -896,6 +906,16 @@
     "description": "Meet professors from various research fields, enjoy pizza, join a Q&A, and network in a relaxed small-group setting!"
   },
   {
+    "date": "Nov 17",
+    "dayOfWeek": "Monday",
+    "time": "7:00 PM",
+    "title": "Pizza Trivia Night",
+    "location": "Ponderosa Arbutus Collegium",
+    "source": "https://www.instagram.com/p/DRAo9L0kqPn/",
+    "food": "Pizza",
+    "description": "Enjoy a fun night of 2SLGBTQIA+ trivia, prizes, and hanging out with friends."
+  },
+  {
     "date": "Nov 18",
     "dayOfWeek": "Tuesday",
     "time": "10:30 AM",
@@ -904,6 +924,16 @@
     "source": "https://www.instagram.com/p/DQr_QG0klG0/",
     "food": "Coffee and tea",
     "description": "Join Dr. Oralia Gómez-Ramirez for a talk on using critical social science and innovative methodologies to understand health promotion, with coffee and conversation."
+  },
+  {
+    "date": "Nov 18",
+    "dayOfWeek": "Tuesday",
+    "time": "11:00 AM",
+    "title": "Meet the Director: Glen Coulthard (Community Soup Lunch)",
+    "location": "CIS Meeting Room Buchanan E Room 273",
+    "source": "https://www.instagram.com/p/DRAmQEngHei/",
+    "food": "Soup",
+    "description": "Meet the CIS director while enjoying a warm bowl of soup with the community."
   },
   {
     "date": "Nov 18",
@@ -939,12 +969,32 @@
   {
     "date": "Nov 19",
     "dayOfWeek": "Wednesday",
+    "time": "12:00 PM",
+    "title": "Stuff Swap Lunch & Learn",
+    "location": "Marine Drive Ballroom",
+    "source": "https://www.instagram.com/p/DQ5Ff9VEuq5/",
+    "food": "Pizza, Snacks, Drinks",
+    "description": "Swap items, explore the free market, and learn about zero-waste and recycling in student housing."
+  },
+  {
+    "date": "Nov 19",
+    "dayOfWeek": "Wednesday",
     "time": "5:30 PM",
     "title": "Thrive! Cards, Games, Food & More",
     "location": "Abdul Ladha Science Student Centre",
     "source": "https://www.instagram.com/p/DQxYYTZkr4q/?hl=en",
     "food": "Snacks and food",
     "description": "Take a break before finals with board games, cards, coloring, and snacks while meeting other biochem students!"
+  },
+  {
+    "date": "Nov 19",
+    "dayOfWeek": "Wednesday",
+    "time": "6:00 PM",
+    "title": "Industry Night ENV x CHBE",
+    "location": "CHBE Atrium",
+    "source": "https://www.instagram.com/p/DQ7Z43hEpiz/",
+    "food": "Refreshments",
+    "description": "Network with industry reps, explore career opportunities, and enjoy free refreshments."
   },
   {
     "date": "Nov 19",
@@ -969,12 +1019,42 @@
   {
     "date": "Nov 20",
     "dayOfWeek": "Thursday",
+    "time": "5:00 PM",
+    "title": "Journaling 101 Workshop",
+    "location": "TBD",
+    "source": "https://www.instagram.com/p/DRD07OSjdQY/",
+    "food": "Refreshments",
+    "description": "Learn beginner-friendly journaling tips while creating and decorating your own gratitude journal with all supplies provided."
+  },
+  {
+    "date": "Nov 20",
+    "dayOfWeek": "Thursday",
+    "time": "5:30 PM",
+    "title": "Colour & Sip",
+    "location": "Global Lounge",
+    "source": "https://www.instagram.com/p/DQ58fhBkdcd/",
+    "food": "Mocktails",
+    "description": "Unwind with mindful colouring, chill vibes, and tasty mocktails before exams."
+  },
+  {
+    "date": "Nov 20",
+    "dayOfWeek": "Thursday",
     "time": "7:00 PM",
     "title": "Georox Industry Mixer",
     "location": "EOS-M 208 (Geo Lounge)",
     "source": "https://www.instagram.com/p/DQpvCoHklqo/",
     "food": "Dinner and drinks",
     "description": "Connect with industry professionals and fellow geoscience students at this fun evening mixer featuring food, drinks, and networking opportunities."
+  },
+  {
+    "date": "Nov 21",
+    "dayOfWeek": "Friday",
+    "time": "11:00 AM",
+    "title": "Pizza + Iron Ring Info Session",
+    "location": "KAIS 2020",
+    "source": "https://www.instagram.com/p/DRC7-9wka0L/",
+    "food": "Pizza",
+    "description": "Learn about the Iron Ring ceremony, deadlines, and ring sizing while grabbing free pizza."
   },
   {
     "date": "Nov 21",
@@ -995,6 +1075,16 @@
     "source": "https://www.instagram.com/p/DQKwXHekuBO/",
     "food": "Food and Refreshments",
     "description": "Connect with registered dietitians, hear about their field experiences, and enjoy food, refreshments, and prizes in an engaging evening of networking and learning."
+  },
+  {
+    "date": "Nov 21",
+    "dayOfWeek": "Friday",
+    "time": "7:00 PM",
+    "title": "Make Dubai Chocolate Bars and Strawberry Cups",
+    "location": "Acadia Highrise Space",
+    "source": "https://www.instagram.com/p/DQ5PQ_LEorJ/",
+    "food": "Chocolate and Strawberries",
+    "description": "Create your own Dubai-style chocolate bars and strawberry cups in a fun hands-on session."
   },
   {
     "date": "Nov 22",
@@ -1026,6 +1116,16 @@
     "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
     "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
     "new": false
+  },
+  {
+    "date": "Nov 24",
+    "dayOfWeek": "Monday",
+    "time": "5:00 PM",
+    "title": "Beef & Pizza",
+    "location": "Engineering Student Centre",
+    "source": "https://www.instagram.com/p/DQ5H4tkEo3V/",
+    "food": "Pizza",
+    "description": "Share your thoughts on first-year engineering classes while enjoying free pizza and good company."
   },
   {
     "date": "Nov 25",
@@ -1109,5 +1209,15 @@
     "source": "https://luma.com/mgx8xe0a",
     "food": "Snacks",
     "description": "Calling all artists, engineers, writers, programmers, and makers of every kind—explore your curiosity, build passion projects, and share your creations with a supportive community."
+  },
+  {
+    "date": "Dec 9",
+    "dayOfWeek": "Tuesday",
+    "time": "2:00 PM",
+    "title": "Board Games & Pizza",
+    "location": "Pizza Ludica (189 Keefer Place)",
+    "source": "https://www.instagram.com/p/DRAmpe9EmFC/",
+    "food": "Pizza",
+    "description": "Hang out with friends, play board games, and enjoy a free main order of pizza."
   }
 ]
