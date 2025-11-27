@@ -3,5 +3,15 @@
   "outputDirectory": "build",
   "framework": "vite",
   "trailingSlash": false,
-  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }],
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.freefoodatubc.ca/$1",
+      "permanent": true,
+      "has": [
+        { "type": "host", "value": "freefoodatubc.ca" }
+      ]
+    }
+  ]
 }
