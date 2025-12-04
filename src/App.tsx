@@ -31,8 +31,10 @@ export default function App() {
   const location = useLocation();
   const isNewPage = location.pathname === "/new";
   const [events, setEvents] = useState<Event[]>([]);
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
+    setLoading(true);
     fetch(eventsApiUrl).then((res) =>
       res.json().then((data) => {
         const rawEvents = data.events.map((event) => event.ai_data);
@@ -73,6 +75,8 @@ export default function App() {
         setEvents(sortedEvents);
       }).catch((err) => {
         console.error(err);
+      }).finally(() => {
+        setLoading(false);
       })
     );
   }, []);
@@ -112,7 +116,14 @@ export default function App() {
             Click events to <b style={{ color: "red" }}>RSVP</b>
           </p>
         </div>
-        <EventsList events={events} />
+        {loading ? (
+          <div className="flex flex-col justify-center items-center py-20">
+            <div className="animate-spin rounded-full h-16 w-16 border-4 border-gray-200 border-t-blue-600"></div>
+            <p className="mt-4 text-gray-600 font-medium">Loading events...</p>
+          </div>
+        ) : (
+          <EventsList events={events} />
+        )}
         <div style={{ height: "35rem" }} />
       </div>
     </div>
