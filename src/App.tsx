@@ -10,12 +10,20 @@ const eventsApiUrl = import.meta.env.VITE_EVENTS_API_URL;
 function translateDatetime(datetime: string): { month: string; dayNumber: string; dayOfWeek: string; time: string } {
   const date = new Date(datetime);
   const strMonths = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-  const strDays = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+  const strDays = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
   return {
     month: strMonths[date.getMonth()],
     dayNumber: date.getDate().toString(),
     dayOfWeek: strDays[date.getDay()],
-    time: date.getHours().toString() + ":" + date.getMinutes().toString(),
+    time: (() => {
+      let hours = date.getHours();
+      let minutes = date.getMinutes();
+      const ampm = hours >= 12 ? "PM" : "AM";
+      hours = hours % 12;
+      hours = hours === 0 ? 12 : hours; // the hour '0' should be '12'
+      const minutesStr = minutes.toString().padStart(2, "0");
+      return `${hours}:${minutesStr} ${ampm}`;
+    })(),
   };
 }
 
@@ -28,29 +36,41 @@ export default function App() {
     fetch(eventsApiUrl).then((res) =>
       res.json().then((data) => {
         const rawEvents = data.events.map((event) => event.ai_data);
+        console.log(`rawEvents:`, rawEvents);
         const eventsWithFreeFood = rawEvents.filter(
-          (event) => event?.free !== "no" && event?.has_food_or_drinks === true
+          (event) => event?.free !== "no" && event?.has_food_or_drinks === true && event?.food_or_drinks && event?.food_or_drinks !== ""
         );
 
         console.log(eventsWithFreeFood);
-        const structuredEventsFromApi: Event[] = eventsWithFreeFood.map((event) => {
+        const structuredEventsFromApi = eventsWithFreeFood.map((event) => {
           const { month, dayNumber, dayOfWeek, time } = translateDatetime(event.datetime);
           return {
+            datetime: event.datetime,
             date: `${month} ${dayNumber}`,
             dayOfWeek,
             time,
             title: event.event_name,
             source: event.instagram_url,
             location: event.location,
-            food: event.food,
+            food: event.food_or_drinks,
             description: event.description,
           };
         });
 
-        console.log(structuredEventsFromApi);
+        // console.log(structuredEventsFromApi);
 
         const allEvents = [...structuredEventsFromApi, ...staticEvents];
-        setEvents(allEvents);
+        const sortedEvents = allEvents.sort((a, b) => {
+          const dateA = new Date(a.datetime);
+          const dateB = new Date(b.datetime);
+          const isDecemberA = dateA.getMonth() === 11;
+          const isDecemberB = dateB.getMonth() === 11;
+          if (isDecemberA && !isDecemberB) return -1;
+          if (!isDecemberA && isDecemberB) return 1;
+          return dateA.getTime() - dateB.getTime();
+        });
+        console.log(sortedEvents);
+        setEvents(sortedEvents);
       }).catch((err) => {
         console.error(err);
       })
