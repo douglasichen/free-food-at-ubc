@@ -1,167 +1,6 @@
 [
   {
-    "date": "Nov 27",
-    "dayOfWeek": "Thursday",
-    "time": "5:00 PM",
-    "title": "First-year Crafts & Cookies",
-    "location": "Hennings 307 (PHYSOCC Lounge)",
-    "source": "https://www.instagram.com/p/DRc01LcEguT/",
-    "food": "Tea and Cookies",
-    "description": "Make origami stars and constellation keychains while enjoying tea, cookies, and relaxing before finals."
-  },
-  {
-    "date": "Nov 27",
-    "dayOfWeek": "Thursday",
-    "time": "7:30 PM",
-    "title": "Festive Face-Off",
-    "location": "Abdul Ladha Science Student Centre (Floors 2 & 3)",
-    "source": "https://www.instagram.com/p/DQxOWB0krlJ/?hl=en",
-    "food": "Snacks and sweets",
-    "description": "Join a cozy night of mini games, Jeopardy, cookie decorating, and prizes while enjoying food and festive fun before finals!"
-  },
-  {
-    "date": "Nov 27",
-    "dayOfWeek": "Thursday",
-    "time": "7:30 PM",
-    "title": "Festive Face-Off",
-    "location": "Abdul Ladha Science Student Centre",
-    "source": "https://www.instagram.com/p/DQxOWB0krlJ/",
-    "food": "Sweet Snacks",
-    "description": "Play mini games, join a big Jeopardy match, decorate cookies, and enjoy a cozy night with prizes and treats."
-  },
-  {
-    "date": "Nov 28",
-    "dayOfWeek": "Friday",
-    "time": "3:00 PM",
-    "title": "High Tea with AUS",
-    "location": "Second Floor, ASC",
-    "source": "https://www.instagram.com/p/DRk4lrPkmgm/",
-    "food": "Tea and Pastries",
-    "description": "Enjoy a cozy afternoon with warm tea and sweet pastries to unwind before the end-of-term rush."
-  },
-  {
-    "date": "Nov 28",
-    "dayOfWeek": "Friday",
-    "time": "3:30 PM",
-    "title": "Wellness and Safety Trivia Night",
-    "location": "Marine Drive Ballroom",
-    "source": "https://www.instagram.com/p/DRkmhLcEgnS/",
-    "food": "Snacks and Hot Chocolate",
-    "description": "Play Kahoot trivia, win prizes, and learn wellness and safety tips in a fun, inclusive event."
-  },
-  {
-    "date": "Nov 30",
-    "dayOfWeek": "Sunday",
-    "time": "1:00 PM",
-    "title": "Atelier: UBC #110",
-    "location": "Orchard Commons Room 3018",
-    "source": "https://luma.com/1m0mtj4c",
-    "food": "Snacks",
-    "description": "Calling all artists, engineers, writers, programmers, and makers of every kind—explore your curiosity, build passion projects, and share your creations with a supportive community."
-  },
-  {
-    "date": "Dec 1",
-    "dayOfWeek": "Monday",
-    "time": "9:00 AM",
-    "title": "Waffle & Pancake Breakfast",
-    "location": "FHM Space, 2260 West Mall",
-    "source": "https://www.instagram.com/p/DRcmGYYgSTB/",
-    "food": "Waffles and Pancakes",
-    "description": "Enjoy a free breakfast and make your own waffles and pancakes."
-  },
-  {
-    "date": "Dec 1",
-    "dayOfWeek": "Monday",
-    "time": "12:00 PM",
-    "title": "Free Produce Market",
-    "location": "Sprouts Cafe",
-    "source": "https://www.instagram.com/p/DQA3whlETCR/",
-    "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
-    "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
-    "new": false
-  },
-  {
-    "date": "Dec 2",
-    "dayOfWeek": "Tuesday",
-    "time": "5:00 PM",
-    "title": "Free Produce Market",
-    "location": "Sprouts Cafe",
-    "source": "https://www.instagram.com/p/DQA3whlETCR/",
-    "food": "Produce 🍆🥦🧅🥕🍏🍅🍌",
-    "description": "Grab your reusable bag and stock up on free organic produce at Sprouts’ bi-weekly market!",
-    "new": false
-  },
-  {
-    "date": "Dec 2",
-    "dayOfWeek": "Tuesday",
-    "time": "5:00 PM",
-    "title": "Sushi Social",
-    "location": "Marine Drive Building 6 Lounge",
-    "source": "https://www.instagram.com/p/DRkj8HKkhO3/",
-    "food": "Vegetarian Sushi",
-    "description": "Learn to make your own sushi in a fun, hands-on session with all materials provided."
-  },  
-  {
-    "date": "Dec 2",
-    "dayOfWeek": "Tuesday",
-    "time": "6:00 PM",
-    "title": "Holiday Party (ISS/Indigenous Collegium Collab)",
-    "location": "AMS Nest Room 4406",
-    "source": "https://www.instagram.com/p/DRh9E1dkkVm/",
-    "food": "Holiday Snacks and Goodies",
-    "description": "Make gingerbread houses, sing karaoke, and enjoy festive snacks and merriment."
-  },
-  {
-    "date": "Dec 2",
-    "dayOfWeek": "Tuesday",
-    "time": "7:30 PM",
-    "title": "Annual General Meeting 2025",
-    "location": "Abdul Ladha Science Student Centre",
-    "source": "https://www.instagram.com/p/DQuy12-kmiJ/?hl=en",
-    "food": "Food and drinks",
-    "description": "Celebrate VLC’s achievements, meet the new executive team, play fun games like Vaccine Bingo, and connect over food and conversation!"
-  },
-  {
-    "date": "Dec 2",
-    "dayOfWeek": "Tuesday",
-    "time": "7:30 PM",
-    "title": "Come Around the World",
-    "location": "Arbutus Collégia",
-    "source": "https://www.instagram.com/p/DRh__KLku0p/",
-    "food": "Multicultural Foods",
-    "description": "Enjoy a night of global-themed crafts, games, and multicultural treats."
-  },
-  {
-    "date": "Dec 3",
-    "dayOfWeek": "Wednesday",
-    "time": "12:30 PM",
-    "title": "CIS & AISA Community Soup Lunch",
-    "location": "CIS Meeting Room Buchanan E Room 273",
-    "source": "https://www.instagram.com/p/DRkwNjNgHTp/",
-    "food": "Soup",
-    "description": "Enjoy a warm bowl of soup and connect with the community."
-  },
-  {
-    "date": "Dec 3",
-    "dayOfWeek": "Wednesday",
-    "time": "5:00 PM",
-    "title": "Học Và Tea Open Study Session",
-    "location": "IKB Room 158",
-    "source": "https://www.instagram.com/p/DRkXn9UgUqH/",
-    "food": "Snacks and Drinks",
-    "description": "Study in a quiet, supportive space with free snacks and drinks before finals."
-  },
-  {
-    "date": "Dec 3",
-    "dayOfWeek": "Wednesday",
-    "time": "7:00 PM",
-    "title": "Final Season Food Pantry",
-    "location": "Cedar 18F Lounge",
-    "source": "https://www.instagram.com/p/DRh9joKknC8/",
-    "food": "Fruits, Ramen, Snacks",
-    "description": "Grab free instant ramen, fruits, and granola bars to stock up during finals."
-  },
-  {
+    "datetime": "2025-12-04T14:00:00",
     "date": "Dec 4",
     "dayOfWeek": "Thursday",
     "time": "2:00 PM",
@@ -172,6 +11,7 @@
     "description": "Decorate cookies, enjoy warm drinks, and relax with festive fun and holiday music."
   },
   {
+    "datetime": "2025-12-06T18:30:00",
     "date": "Dec 6",
     "dayOfWeek": "Saturday",
     "time": "6:30 PM",
@@ -182,6 +22,7 @@
     "description": "Decorate gingerbread, relax with friends, and enjoy a cozy holiday-themed evening."
   },
   {
+    "datetime": "2025-12-07T13:00:00",
     "date": "Dec 7",
     "dayOfWeek": "Sunday",
     "time": "1:00 PM",
@@ -192,6 +33,7 @@
     "description": "Calling all artists, engineers, writers, programmers, and makers of every kind—explore your curiosity, build passion projects, and share your creations with a supportive community."
   },
   {
+    "datetime": "2025-12-09T14:00:00",
     "date": "Dec 9",
     "dayOfWeek": "Tuesday",
     "time": "2:00 PM",
