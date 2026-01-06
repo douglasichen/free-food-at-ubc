@@ -40,7 +40,7 @@ export default function App() {
         const rawEvents = data.events.map((event) => event.ai_data);
         console.log(`rawEvents:`, rawEvents);
         const eventsWithFreeFood = rawEvents.filter(
-          (event) => event?.free !== "no" && event?.has_food_or_drinks === true && event?.food_or_drinks && event?.food_or_drinks !== ""
+          (event) => event?.free === "yes" && event?.has_food_or_drinks === true && event?.food_or_drinks && event?.food_or_drinks !== ""
         );
 
         console.log(eventsWithFreeFood);
