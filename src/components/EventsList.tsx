@@ -5,9 +5,10 @@ export type { Event } from "./Event";
 
 interface EventsListProps {
   events: Event[];
+  showAll?: boolean;
 }
 
-export function EventsList({ events }: EventsListProps) {
+export function EventsList({ events, showAll = false }: EventsListProps) {
   // Group events by date
   const eventsByDate = events.reduce((acc, event) => {
     const dateKey = `${event.date} ${event.dayOfWeek}`;
@@ -24,12 +25,14 @@ export function EventsList({ events }: EventsListProps) {
   const twoWeekFromNow = new Date();
   twoWeekFromNow.setDate(twoWeekFromNow.getDate() + 14);
 
-  const dateEntries = Object.entries(eventsByDate).filter(([_, dateEvents]) => {
-    const eventDate = new Date(
-      `${dateEvents[0].date} ${new Date().getFullYear()}`
-    );
-    return today <= eventDate && eventDate <= twoWeekFromNow;
-  });
+  const dateEntries = showAll
+    ? Object.entries(eventsByDate)
+    : Object.entries(eventsByDate).filter(([_, dateEvents]) => {
+        const eventDate = new Date(
+          `${dateEvents[0].date} ${new Date().getFullYear()}`
+        );
+        return today <= eventDate && eventDate <= twoWeekFromNow;
+      });
 
   return (
     <div>

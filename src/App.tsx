@@ -30,6 +30,7 @@ function translateDatetime(datetime: string): { month: string; dayNumber: string
 export default function App() {
   const location = useLocation();
   const isNewPage = location.pathname === "/new";
+  const isAllEventsPage = location.pathname === "/all-events";
   const [events, setEvents] = useState<Event[]>([]);
   const [loading, setLoading] = useState(true);
 
@@ -43,8 +44,8 @@ export default function App() {
           (event) => event?.free === "yes" && event?.has_food_or_drinks === true && event?.food_or_drinks && event?.food_or_drinks !== ""
         );
 
-        console.log(eventsWithFreeFood);
-        const structuredEventsFromApi = eventsWithFreeFood.map((event) => {
+        const eventsToDisplay = isAllEventsPage ? rawEvents : eventsWithFreeFood;
+        const structuredEventsFromApi = eventsToDisplay.map((event) => {
           const { month, dayNumber, dayOfWeek, time } = translateDatetime(event.datetime);
           return {
             datetime: event.datetime,
@@ -59,9 +60,7 @@ export default function App() {
           };
         });
 
-        // console.log(structuredEventsFromApi);
-
-        const allEvents = [...structuredEventsFromApi, ...staticEvents];
+        const allEvents = isAllEventsPage ? structuredEventsFromApi : [...structuredEventsFromApi, ...staticEvents];
         const sortedEvents = allEvents.sort((a, b) => {
           const dateA = new Date(a.datetime);
           const dateB = new Date(b.datetime);
@@ -122,7 +121,7 @@ export default function App() {
             <p className="mt-4 text-gray-600 font-medium">Loading events...</p>
           </div>
         ) : (
-          <EventsList events={events} />
+          <EventsList events={events} showAll={isAllEventsPage} />
         )}
         <div style={{ height: "35rem" }} />
       </div>
