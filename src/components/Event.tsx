@@ -2,6 +2,7 @@ import React from "react";
 import { MapPin, Utensils, Info } from "lucide-react";
 
 export interface Event {
+  datetime: string;
   date: string;
   dayOfWeek: string;
   time: string;

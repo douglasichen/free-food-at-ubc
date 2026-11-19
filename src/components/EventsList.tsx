@@ -28,9 +28,7 @@ export function EventsList({ events, showAll = false }: EventsListProps) {
   const dateEntries = showAll
     ? Object.entries(eventsByDate)
     : Object.entries(eventsByDate).filter(([_, dateEvents]) => {
-        const eventDate = new Date(
-          `${dateEvents[0].date} ${new Date().getFullYear()}`
-        );
+        const eventDate = new Date(dateEvents[0].datetime);
         return today <= eventDate && eventDate <= twoWeekFromNow;
       });
 

@@ -62,15 +62,10 @@ export default function App() {
         });
 
         const allEvents = isAllEventsPage ? structuredEventsFromApi : [...structuredEventsFromApi, ...staticEvents];
-        const sortedEvents = allEvents.sort((a, b) => {
-          const dateA = new Date(a.datetime);
-          const dateB = new Date(b.datetime);
-          const isDecemberA = dateA.getMonth() === 11;
-          const isDecemberB = dateB.getMonth() === 11;
-          if (isDecemberA && !isDecemberB) return -1;
-          if (!isDecemberA && isDecemberB) return 1;
-          return dateA.getTime() - dateB.getTime();
-        });
+        // datetimes carry the year, so a plain chronological sort handles Dec -> Jan
+        const sortedEvents = allEvents.sort(
+          (a, b) => new Date(a.datetime).getTime() - new Date(b.datetime).getTime()
+        );
         console.log(sortedEvents);
         setEvents(sortedEvents);
       }).catch((err) => {
