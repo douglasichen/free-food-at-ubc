@@ -2,6 +2,7 @@
 import React, { useEffect, useState } from "react";
 import { useLocation } from "react-router-dom";
 import { EventsList, Event } from "./components/EventsList";
+import { EventSkeleton } from "./components/Event";
 import staticEvents from "../data.json";
 import { FaInstagram } from "react-icons/fa";
 
@@ -116,9 +117,15 @@ export default function App() {
           </p>
         </div>
         {loading ? (
-          <div className="flex flex-col justify-center items-center py-20">
-            <div className="animate-spin rounded-full h-16 w-16 border-4 border-gray-200 border-t-blue-600"></div>
-            <p className="mt-4 text-gray-600 font-medium">Loading events...</p>
+          <div role="status" aria-label="Loading events">
+            <div className="py-4 mb-4 border-b border-gray-200">
+              <div className="skeleton" style={{ width: "40%", height: 20 }} />
+            </div>
+            <div className="space-y-4">
+              {[0, 1, 2].map((i) => (
+                <EventSkeleton key={i} />
+              ))}
+            </div>
           </div>
         ) : (
           <EventsList events={events} showAll={isAllEventsPage} />

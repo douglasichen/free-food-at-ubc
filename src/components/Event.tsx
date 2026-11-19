@@ -18,6 +18,27 @@ interface EventProps {
   key: string;
 }
 
+// Placeholder with the same shape as a real card, shown while events load
+export function EventSkeleton() {
+  const bar = (width: string, height = 14) => (
+    <div className="skeleton" style={{ width, height }} />
+  );
+  return (
+    <div className="bg-white border border-gray-200 rounded-xl p-6 mb-5 shadow-sm" aria-hidden="true">
+      <div className="space-y-4">
+        {bar("30%", 16)}
+        {bar("75%", 22)}
+        {bar("40%")}
+        <div style={{ display: "flex", flexDirection: "column", gap: 8 }}>
+          {bar("100%")}
+          {bar("85%")}
+        </div>
+        {bar("50%")}
+      </div>
+    </div>
+  );
+}
+
 export function Event({ event, key }: EventProps) {
   return (
     <a href={event.source} target="_blank" rel="noopener noreferrer">
