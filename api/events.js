@@ -6,8 +6,11 @@
 // however, ARE cached when they set s-maxage. Hence a function.
 //
 // s-maxage is the shared/CDN cache -- one visitor's fetch now serves everyone
-// for 5 minutes. stale-while-revalidate lets the edge serve slightly stale
+// for 2 hours. stale-while-revalidate lets the edge serve slightly stale
 // data while it refreshes in the background, so nobody waits on a cold fetch.
+// 2h is deliberate: the scraper only runs every 6h, so a shorter window just
+// re-fetches data that hasn't changed. Cost is up to 2h before a newly
+// processed event shows on the site.
 const EVENTS_API = "https://foo8rsm3la.execute-api.us-east-1.amazonaws.com/prod";
 
 module.exports = async (req, res) => {
@@ -19,7 +22,7 @@ module.exports = async (req, res) => {
     res.setHeader("Content-Type", "application/json");
     res.setHeader(
       "Cache-Control",
-      "public, max-age=0, s-maxage=300, stale-while-revalidate=600",
+      "public, max-age=0, s-maxage=7200, stale-while-revalidate=600",
     );
     return res.status(200).send(body);
   } catch (err) {
